@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/V5ZRW1130KPRG40H/0f017a3814f6f6a53f20808221f6d8b0196f8d3ba57b447fba241ab91d64d5fa",
+    "company": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "20 Oct 2026 08:10 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/V5ZRW1130KPRG40H/0f017a3814f6f6a53f20808221f6d8b0196f8d3ba57b447fba241ab91d64d5fa",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/V2Q3BF7LPR0AWNOQ/d4800384bfa510c28275ac72129cbe2a811ee1964500eb853ad6312a1a84be4a",
     "company": "SOFTBANK GROUP CORP.",
     "security": "SOFTBANK EUR800M2.875%N270106",
