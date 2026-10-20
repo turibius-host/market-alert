@@ -1,0 +1,61 @@
+name: SGX Alert
+
+on:
+  schedule:
+    - cron: "7 * * * *"      # every hour, at 7 minutes past (UTC clock = runs round the clock)
+  workflow_dispatch:          # lets you press "Run workflow" manually to test
+
+concurrency:
+  group: sgx-alert
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright and Chromium
+        run: |
+          pip install playwright
+          python -m playwright install --with-deps chromium
+
+      - name: Run SGX alert (visible Chrome on a virtual screen)
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_TO: ${{ secrets.ALERT_TO }}
+        run: xvfb-run -a python sgx/sgx_alert.py
+
+      - name: Save screenshot if SGX returned nothing
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sgx-debug
+          path: sgx/debug.png
+          if-no-files-found: ignore
+
+      - name: Commit updated state and dashboard
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sgx/sgx_seen.json sgx/sgx_hits.json sgx/index.html
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "SGX alert update"
+          for i in 1 2 3 4; do
+            git pull --rebase origin "${{ github.ref_name }}" && git push && exit 0
+            sleep 5
+          done
+          exit 1
