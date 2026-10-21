@@ -2,7 +2,7 @@ name: SGX Alert
 
 on:
   schedule:
-    - cron: "7 * * * *"      # every hour, at 7 minutes past (UTC clock = runs round the clock)
+    - cron: "7 * * * *"      # every hour, at 7 minutes past (runs round the clock)
   workflow_dispatch:          # lets you press "Run workflow" manually to test
 
 concurrency:
@@ -33,7 +33,10 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           ALERT_TO: ${{ secrets.ALERT_TO }}
-        run: xvfb-run -a python SGX/sgx_alert.py
+          SGX_DASHBOARD_FILE: /tmp/sgx_pages/SGX/index.html
+        run: |
+          mkdir -p /tmp/sgx_pages/SGX
+          xvfb-run -a python SGX/sgx_alert.py
 
       - name: Save screenshot if SGX returned nothing
         if: failure()
@@ -43,12 +46,12 @@ jobs:
           path: SGX/debug.png
           if-no-files-found: ignore
 
-      - name: Commit updated state and dashboard
+      - name: Save the seen-list and hit history (main branch)
         if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add SGX/sgx_seen.json SGX/sgx_hits.json SGX/index.html
+          git add SGX/sgx_seen.json SGX/sgx_hits.json
           if git diff --cached --quiet; then
             echo "Nothing changed."
             exit 0
@@ -56,6 +59,35 @@ jobs:
           git commit -m "SGX alert update"
           for i in 1 2 3 4; do
             git pull --rebase origin "${{ github.ref_name }}" && git push && exit 0
+            sleep 5
+          done
+          exit 1
+
+      - name: Publish the dashboard to the state branch (next to the market alert)
+        if: success()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          for i in 1 2 3 4 5; do
+            rm -rf /tmp/pages && mkdir /tmp/pages && cd /tmp/pages
+            git init -q -b state
+            git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+            git fetch -q --depth=1 origin state || { echo "state branch not found"; exit 1; }
+            git reset -q --hard FETCH_HEAD
+            mkdir -p SGX
+            cp /tmp/sgx_pages/SGX/index.html SGX/index.html
+            git add SGX/index.html
+            if git diff --cached --quiet; then
+              echo "Dashboard unchanged."
+              exit 0
+            fi
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -q -m "SGX dashboard $(date -u +'%Y-%m-%d %H:%M UTC')"
+            if git push -q origin state; then
+              exit 0
+            fi
+            echo "Push raced with another run, retrying..."
             sleep 5
           done
           exit 1
