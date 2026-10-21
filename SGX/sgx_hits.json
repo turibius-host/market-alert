@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/R81Y31HG94EM2FIC/1321c32926012690e15a36686e5a71e532c79ae7e6eff3812803ffd5f1802620",
+    "company": "FRASERS CENTREPOINT ASSET MANAGEMENT LTD.",
+    "security": "FRASERS CENTREPOINT TRUST",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement pursuant to Rule 706A of the SGX-ST Listing Manual",
+    "timestamp": "22 Oct 2026 07:23 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/R81Y31HG94EM2FIC/1321c32926012690e15a36686e5a71e532c79ae7e6eff3812803ffd5f1802620",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/M4QRVBSKO5F899Z2/e21337b85a00b20d3c62f3419a9c1e38d2ae0a84fa9c949a06b41fe656832c28",
+    "company": "FRASERS CENTREPOINT ASSET MANAGEMENT LTD.",
+    "security": "FRASERS CENTREPOINT TRUST",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "22 Oct 2026 07:18 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/M4QRVBSKO5F899Z2/e21337b85a00b20d3c62f3419a9c1e38d2ae0a84fa9c949a06b41fe656832c28",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/718HEYPM82M2QFBL/9f0643feeccdf76cbffcb263205a2b353d4c0463201774edcc059a26c0775983",
     "company": "ADANI INTERNATIONAL CONTAINER TERMINAL PRIVATE LIMITED",
     "security": "MULTIPLE",
