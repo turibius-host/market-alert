@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZS01EQU0E4NMCRBY/9828c1d0659253dea70e66d91bc91df79dd853832f41cc0e3d507cb29881c1cf",
+    "company": "RELIANCE INDUSTRIES LIMITED",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Intimation of Credit Rating assigned by ICRA Limited",
+    "timestamp": "21 Oct 2026 11:22 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZS01EQU0E4NMCRBY/9828c1d0659253dea70e66d91bc91df79dd853832f41cc0e3d507cb29881c1cf",
+    "rules": [
+      "Credit Rating / Going Concern / Audit Qualification"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9N12FT4XHADFAZT2/3dad10530244c8ce3e427019caee19118a74814a23c5eb4a3073c13a2db32cfa",
+    "company": "DELUGE CORPORATION LIMITED",
+    "security": "DELUGE CORPORATION LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "21 Oct 2026 11:02 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9N12FT4XHADFAZT2/3dad10530244c8ce3e427019caee19118a74814a23c5eb4a3073c13a2db32cfa",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/YLIG8IJ81YFDWIC6/348051c509bafa2ecd76952c3e006f8a218097f14c1bb15cadaf5af98a79bf95",
     "company": "FIRST SPONSOR GROUP LIMITED",
     "security": "FIRST SPONSOR GROUP LIMITED",
