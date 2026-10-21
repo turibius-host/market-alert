@@ -54,7 +54,10 @@ from zoneinfo import ZoneInfo
 SGX_URL = "https://www.sgx.com/stock-exchange/company-announcements"
 SEEN_STORE = Path(__file__).parent / "sgx_seen.json"
 HITS_STORE = Path(__file__).parent / "sgx_hits.json"
-DASHBOARD_FILE = Path(__file__).parent / "index.html"  # served by GitHub Pages
+# The workflow sets SGX_DASHBOARD_FILE so the page is written outside the repo
+# folder, then published to the "state" branch next to the market alert.
+DASHBOARD_FILE = Path(os.environ.get("SGX_DASHBOARD_FILE",
+                                     Path(__file__).parent / "index.html"))
 
 # How many flagged announcements to keep in the dashboard's history.
 MAX_HISTORY = 500
