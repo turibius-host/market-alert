@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/6FS0202ZU44FG6C7/1b46aae32c0b990f274b596458c3b3a1b2eb65ba2ece1aa24fdead75c6f4414b",
+    "company": "BOROO INVESTMENTS PTE. LTD.",
+    "security": "MULTIPLE",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Boroo Announces Agreement to Acquire Victoria Gold Corp",
+    "timestamp": "22 Oct 2026 11:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/6FS0202ZU44FG6C7/1b46aae32c0b990f274b596458c3b3a1b2eb65ba2ece1aa24fdead75c6f4414b",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/UATV6QAAYT9WERRH/0f780aadea589bba638043513fe4a34365b4f3ffbfe66d6f99a214dd3160d3b7",
     "company": "HINDUSTAN PETROLEUM CORPORATION LIMITED",
     "security": "HINDUSTANPETROUS$500M4%N270712",
