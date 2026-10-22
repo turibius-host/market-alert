@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/U0V91G99DNYAIAWO/e369b30a126c4b9eb16a397f24e8d41f6f6b04b607d775f96c53b1a814b68082",
+    "company": "BANK OF THE PHILIPPINE ISLANDS",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "22 Oct 2026 08:58 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/U0V91G99DNYAIAWO/e369b30a126c4b9eb16a397f24e8d41f6f6b04b607d775f96c53b1a814b68082",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GWD7LCJNV64S2UGJ/295a1b01db8264e3ce8def81b133d6c84fc24975680ce8bbf4c572e8dc9676d4",
+    "company": "BANK OF THE PHILIPPINE ISLANDS",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "22 Oct 2026 08:56 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GWD7LCJNV64S2UGJ/295a1b01db8264e3ce8def81b133d6c84fc24975680ce8bbf4c572e8dc9676d4",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/76KWVQV9VKUW63KC/3c4bdacd93ff802f17c9d6358bc5c86e0ddbbd5482afc41c15b7c15240218eb4",
+    "company": "ALPHA INTEGRATED REIT MANAGEMENT PTE. LTD.",
+    "security": "ALPHA INTEGRATED REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::3Q 2026 Business Updates",
+    "timestamp": "22 Oct 2026 08:45 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/76KWVQV9VKUW63KC/3c4bdacd93ff802f17c9d6358bc5c86e0ddbbd5482afc41c15b7c15240218eb4",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/R81Y31HG94EM2FIC/1321c32926012690e15a36686e5a71e532c79ae7e6eff3812803ffd5f1802620",
     "company": "FRASERS CENTREPOINT ASSET MANAGEMENT LTD.",
     "security": "FRASERS CENTREPOINT TRUST",
