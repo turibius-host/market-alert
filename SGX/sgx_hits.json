@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UATV6QAAYT9WERRH/0f780aadea589bba638043513fe4a34365b4f3ffbfe66d6f99a214dd3160d3b7",
+    "company": "HINDUSTAN PETROLEUM CORPORATION LIMITED",
+    "security": "HINDUSTANPETROUS$500M4%N270712",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "22 Oct 2026 10:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UATV6QAAYT9WERRH/0f780aadea589bba638043513fe4a34365b4f3ffbfe66d6f99a214dd3160d3b7",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/WQ6HKXQCSRQ75JKG/3ab9d22499782ff785b9dc475db31bcad8d618b2f15cb502bad7685bcfbe6861",
     "company": "SUNTEC TRUST MANAGEMENT LIMITED",
     "security": "SUNTEC REAL ESTATE INV TRUST",
