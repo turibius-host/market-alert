@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AOFMYIDT4GU69P6L/a415134c93679e158ab30187bd20a2a2a5d99e19940aa872a5315f825f73f6f4",
+    "company": "APTT MANAGEMENT PTE. LIMITED",
+    "security": "ASIAN PAY TELEVISION TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::NOTIFICATION OF RELEASE OF KEY FINANCIAL INFORMATION AND BUSINESS UPDATES",
+    "timestamp": "23 Oct 2026 05:30 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AOFMYIDT4GU69P6L/a415134c93679e158ab30187bd20a2a2a5d99e19940aa872a5315f825f73f6f4",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZCM5RKQK0TOA4ZT4/7874fa40f04515b927d3579a491d0a59c6373b4196b83f570ced3779090d1ba9",
+    "company": "OUE LIMITED",
+    "security": "OUE LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::OUE REIT - Proposed Acquisition of an approx. 50% interest in Salesforce Tower in Sydney, Australia",
+    "timestamp": "23 Oct 2026 05:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZCM5RKQK0TOA4ZT4/7874fa40f04515b927d3579a491d0a59c6373b4196b83f570ced3779090d1ba9",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/II0PU5JYY16XUOG7/2bfe04514edb0e8a654de1b679c86265090dd40fd04543e47033bbac9ef678a6",
     "company": "TUAN SING HOLDINGS LIMITED",
     "security": "TUAN SING HOLDINGS LIMITED",
