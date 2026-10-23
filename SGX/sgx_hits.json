@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/II0PU5JYY16XUOG7/2bfe04514edb0e8a654de1b679c86265090dd40fd04543e47033bbac9ef678a6",
+    "company": "TUAN SING HOLDINGS LIMITED",
+    "security": "TUAN SING HOLDINGS LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of Westgate Commercial Pte. Ltd. and Westgate Tower Pte. Ltd.",
+    "timestamp": "23 Oct 2026 03:40 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/II0PU5JYY16XUOG7/2bfe04514edb0e8a654de1b679c86265090dd40fd04543e47033bbac9ef678a6",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/A28CLDSY2M0PAVAY/102f4947bc00eb7589385af211c3ff2ec36daa23c5e4bac30b02d3d149d99685",
+    "company": "ADANI TRANSMISSION LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "23 Oct 2026 02:50 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/A28CLDSY2M0PAVAY/102f4947bc00eb7589385af211c3ff2ec36daa23c5e4bac30b02d3d149d99685",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/OXFA0UJWJYG3TYXB/a58961783d89ac4c3d654457d57ea787f92eaf9797732a770533c6379c7beb15",
     "company": "TUAN SING HOLDINGS LIMITED",
     "security": "MULTIPLE",
