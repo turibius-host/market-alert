@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/I7WT3N7VU5Q3IWTX/1152234cb39f51f99015a23c0890f52bc353ec42317f8306a56069bbe385a38b",
+    "company": "PACIFIC CENTURY REGIONAL DEVELOPMENTS LIMITED",
+    "security": "PACIFIC CENTURY REGIONAL DEVTS",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of disposal of an associated corporation",
+    "timestamp": "23 Oct 2026 09:33 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/I7WT3N7VU5Q3IWTX/1152234cb39f51f99015a23c0890f52bc353ec42317f8306a56069bbe385a38b",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IH0HM6162I6FVDQC/7431511ff986dbbda8d9b49c5312a78fcd72a3fcc13efea2fd63bccc2b1f6071",
+    "company": "ISEC HEALTHCARE LTD.",
+    "security": "ISEC HEALTHCARE LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "23 Oct 2026 09:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IH0HM6162I6FVDQC/7431511ff986dbbda8d9b49c5312a78fcd72a3fcc13efea2fd63bccc2b1f6071",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3R24LS3VYEDGW7XC/118cb0940cba9cba3f202d65322de480f255744f45bf95d00f34baf59ee5683e",
+    "company": "THE PLACE HOLDINGS LIMITED",
+    "security": "THE PLACE HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "23 Oct 2026 09:04 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3R24LS3VYEDGW7XC/118cb0940cba9cba3f202d65322de480f255744f45bf95d00f34baf59ee5683e",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/5PXVANPE69JOQ25L/dc3e5e7fdde8338b3db8ad8c72b9c4e888678d3860dff7e0e6c697f85d8bc050",
     "company": "AVARGA LIMITED",
     "security": "AVARGA LTD",
