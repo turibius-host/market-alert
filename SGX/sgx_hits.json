@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OXFA0UJWJYG3TYXB/a58961783d89ac4c3d654457d57ea787f92eaf9797732a770533c6379c7beb15",
+    "company": "TUAN SING HOLDINGS LIMITED",
+    "security": "MULTIPLE",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "23 Oct 2026 12:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OXFA0UJWJYG3TYXB/a58961783d89ac4c3d654457d57ea787f92eaf9797732a770533c6379c7beb15",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/NF5285DFNN8QTCGI/d5a73fae79de53efb45a3b8dee620efb1c62326818a04a0096074406a2f057db",
+    "company": "SINGAPORE EXCHANGE LIMITED",
+    "security": "SINGAPORE EXCHANGE LIMITED",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "23 Oct 2026 12:10 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/NF5285DFNN8QTCGI/d5a73fae79de53efb45a3b8dee620efb1c62326818a04a0096074406a2f057db",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BBD9D0SIWRBWP9BX/7f1e66a8da899eaf1040290545c377bee25105b44b3979b7593cfb7da11d7307",
+    "company": "AVARGA LIMITED",
+    "security": "AVARGA LTD",
+    "category": "Delisting of Security",
+    "title": "Delisting of Security::Mandatory",
+    "timestamp": "23 Oct 2026 11:39 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BBD9D0SIWRBWP9BX/7f1e66a8da899eaf1040290545c377bee25105b44b3979b7593cfb7da11d7307",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/BZPEQ44JD5KTY5AM/30baee0aa1c11c2ef65e9eaf763c9e1d26573b156104ad5c4e9619e76915a538",
     "company": "ALLIANCE HEALTHCARE GROUP LIMITED",
     "security": "ALLIANCE HEALTHCARE GROUP LTD",
