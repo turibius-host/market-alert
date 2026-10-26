@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/07ACQPZ4IFXCU22A/602fbd686229ef060e3e88ccb777a342613f6f753e7ba2fc1fed47a8f59d9edb",
+    "company": "INFO-TECH SYSTEMS LTD.",
+    "security": "INFO-TECH SYSTEMS LTD.",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Updates for 3Q2026",
+    "timestamp": "26 Oct 2026 06:28 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/07ACQPZ4IFXCU22A/602fbd686229ef060e3e88ccb777a342613f6f753e7ba2fc1fed47a8f59d9edb",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4SVLDNO6UN3KOG9L/d3709b696a6be18d6f2116503ea766a38405c2423c09f700a9adcaf246afa6bc",
+    "company": "ZIXIN GROUP HOLDINGS LIMITED",
+    "security": "ZIXIN GROUP HOLDINGS LIMITED",
+    "category": "Bonus Issue/ Capitalisation Issue",
+    "title": "REPL::Bonus Issue/ Capitalisation Issue::Mandatory",
+    "timestamp": "26 Oct 2026 06:02 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4SVLDNO6UN3KOG9L/d3709b696a6be18d6f2116503ea766a38405c2423c09f700a9adcaf246afa6bc",
+    "rules": [
+      "Bonus Issue / Capitalisation Issue"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PVSC02VHQ0RYV0P9/a475d72c0358effd4f197fa443c6a0c33e4057c0ed383d269b04ba3b6bf84ce2",
+    "company": "GOLDEN AGRI-RESOURCES LTD",
+    "security": "GOLDEN AGRI-RESOURCES LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Notification of Results Release",
+    "timestamp": "26 Oct 2026 05:59 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PVSC02VHQ0RYV0P9/a475d72c0358effd4f197fa443c6a0c33e4057c0ed383d269b04ba3b6bf84ce2",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/FF81I9T4770EASIM/ce6855f0baacbc4248b5d3b655f6329d03dba3f2de57ee1d93ed35c9bb115ea9",
     "company": "HG METAL MANUFACTURING LIMITED",
     "security": "HG METAL MANUFACTURING LTD",
