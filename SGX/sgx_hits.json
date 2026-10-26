@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/TOQTH4WGZS434J8C/5709fd1505a62474567e8af3d079bdbf5a6c8e1785d93e2c2b43757a2dde24ba",
+    "company": "IFAST CORPORATION LTD.",
+    "security": "IFAST CORPORATION LTD.",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::ANNOUCEMENT PURSUANT TO RULE 706A OF THE LISTING MANUAL",
+    "timestamp": "26 Oct 2026 07:10 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/TOQTH4WGZS434J8C/5709fd1505a62474567e8af3d079bdbf5a6c8e1785d93e2c2b43757a2dde24ba",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/B16KRGVYM5K8G6HQ/570b6f2c99c45a0206e0b1ed947a115c9fd74cd6ad3e7fa5f12c380d79b12137",
+    "company": "IFAST CORPORATION LTD.",
+    "security": "IFAST CORPORATION LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "26 Oct 2026 07:09 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/B16KRGVYM5K8G6HQ/570b6f2c99c45a0206e0b1ed947a115c9fd74cd6ad3e7fa5f12c380d79b12137",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EK98KB3H9BWTP9L2/774014406c66ac9fa3f9841ee23bb2456fe6c168d871bb821fcf7da138ded3c0",
+    "company": "STONEWEG EREIT MANAGEMENT PTE. LTD.",
+    "security": "STONEWEG EUROPE STAPLED TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::ANNOUNCEMENT DATE FOR RELEASE OF STONEWEG EUROPE STAPLED TRUST'S 3Q2026 BUSINESS UPDATE",
+    "timestamp": "26 Oct 2026 07:03 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EK98KB3H9BWTP9L2/774014406c66ac9fa3f9841ee23bb2456fe6c168d871bb821fcf7da138ded3c0",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/07ACQPZ4IFXCU22A/602fbd686229ef060e3e88ccb777a342613f6f753e7ba2fc1fed47a8f59d9edb",
     "company": "INFO-TECH SYSTEMS LTD.",
     "security": "INFO-TECH SYSTEMS LTD.",
