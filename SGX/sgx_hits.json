@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IB065DN33RUIAZWW/bf4c0405262014b4be088c664674a52a9696a041723eb5c0b3f8beae2a9d8c45",
+    "company": "DIGITAL CORE REIT MANAGEMENT PTE. LTD.",
+    "security": "DIGITAL CORE REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::Digital Core REIT Business and Operational Update for the Third Quarter ended 30 September 2026",
+    "timestamp": "27 Oct 2026 05:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IB065DN33RUIAZWW/bf4c0405262014b4be088c664674a52a9696a041723eb5c0b3f8beae2a9d8c45",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AGA2X14HXB2Z50X2/aa46799faabbe9f48f37e48941c2650ed31cfaf187254c736b8d81587b8b573b",
+    "company": "AZTECH GLOBAL LTD.",
+    "security": "AZTECH GLOBAL LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "27 Oct 2026 05:13 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AGA2X14HXB2Z50X2/aa46799faabbe9f48f37e48941c2650ed31cfaf187254c736b8d81587b8b573b",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZT4YVHBE880YC2GC/075cdf09aa393ecff31f58ea5899b38d99c6952c806fb09346792c5dd613182f",
+    "company": "MARUWA CO. LTD",
+    "security": "MARUWA CO. LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "27 Oct 2026 05:02 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZT4YVHBE880YC2GC/075cdf09aa393ecff31f58ea5899b38d99c6952c806fb09346792c5dd613182f",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/6WB49FI65IH21PSY/70eee4992da8a7f2e861906b78734760520002224abb3d2ae7fa0a1247ec5e34",
     "company": "ZHONGXIN FRUIT AND JUICE LIMITED",
     "security": "ZHONGXIN FRUIT AND JUICE LTD",
