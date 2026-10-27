@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9CNAU2Q5BFGGP0CC/95c40dad69e5c0894647b46468385b4c22a1dcc4aba87302b098b6bfe50a70bc",
+    "company": "TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "28 Oct 2026 07:13 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9CNAU2Q5BFGGP0CC/95c40dad69e5c0894647b46468385b4c22a1dcc4aba87302b098b6bfe50a70bc",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1ER17H7GDEAK4K5Q/40c3e40b4ef5277c58eecbd74c74420abcc6516a57d48a2853f9c46424616d69",
+    "company": "CAPITALAND INDIA TRUST MANAGEMENT PTE. LTD.",
+    "security": "CAPITALAND INDIA TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::Use of Proceeds from the Private Placement",
+    "timestamp": "28 Oct 2026 07:09 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1ER17H7GDEAK4K5Q/40c3e40b4ef5277c58eecbd74c74420abcc6516a57d48a2853f9c46424616d69",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0SGVTEB4VPSJT6DE/65a07a75cd73b47edf526aab5abb29e4d1f10c0d186fee5038d1b97077d46830",
+    "company": "CAPITALAND INDIA TRUST MANAGEMENT PTE. LTD.",
+    "security": "CAPITALAND INDIA TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::CLINT 3Q 2026 Business Updates",
+    "timestamp": "28 Oct 2026 07:07 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0SGVTEB4VPSJT6DE/65a07a75cd73b47edf526aab5abb29e4d1f10c0d186fee5038d1b97077d46830",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/HN1NUN59H1TBJG5M/b09b4c4d95994af4b3fb6bc0437ba916f44bb39b073b46746f5cc6f4e420c073",
+    "company": "KEPPEL REIT MANAGEMENT LIMITED",
+    "security": "KEPPEL REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::Keppel REIT Key Business and Operational Updates for the Third Quarter of 2026",
+    "timestamp": "28 Oct 2026 07:00 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/HN1NUN59H1TBJG5M/b09b4c4d95994af4b3fb6bc0437ba916f44bb39b073b46746f5cc6f4e420c073",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/HXY1J7CEJ9H5O0UF/e54fe6f6fbc9aed72e88e4f21c2574038bac1aaf44803c753309c2f4c1c7eea6",
     "company": "NEXTERA ENERGY CAPITAL HOLDINGS, INC.",
     "security": "MULTIPLE",
