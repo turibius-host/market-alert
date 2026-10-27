@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0IPFG9LRG6NDXTKI/e0bbe545bd868b0df406526b0f78fe02813d9e8414573e1894993e4157cedb6a",
+    "company": "ALLIANCE HEALTHCARE GROUP LIMITED",
+    "security": "ALLIANCE HEALTHCARE GROUP LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::Request for Lifting of Trading Halt - Sponsor's Statement",
+    "timestamp": "27 Oct 2026 07:34 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0IPFG9LRG6NDXTKI/e0bbe545bd868b0df406526b0f78fe02813d9e8414573e1894993e4157cedb6a",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/C2KOS7BBY4JE72P5/3819351c62e6ac89d16ee17a6d7bfd5329a8f021a222f9963714a2c76ea8c385",
+    "company": "ALLIANCE HEALTHCARE GROUP LIMITED",
+    "security": "ALLIANCE HEALTHCARE GROUP LTD",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "27 Oct 2026 07:31 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/C2KOS7BBY4JE72P5/3819351c62e6ac89d16ee17a6d7bfd5329a8f021a222f9963714a2c76ea8c385",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/YFZEGXW2FZEMWKRO/295e9cb869ea14ff2397d98135f19465878a82097f36ef59901599ed3eb62762",
     "company": "ESR-REIT MANAGEMENT (S) LIMITED",
     "security": "ESR REIT",
