@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PDT46G7JJILO18I0/87d4e839e83dc34c898f8a424fb432b33f6bfc937f8765799d3d3775b1f5650a",
+    "company": "ZHONGXIN FRUIT AND JUICE LIMITED",
+    "security": "ZHONGXIN FRUIT AND JUICE LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::Request for lifting of Trading Halt - Sponsor's Statement",
+    "timestamp": "27 Oct 2026 08:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PDT46G7JJILO18I0/87d4e839e83dc34c898f8a424fb432b33f6bfc937f8765799d3d3775b1f5650a",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OPIXCM7RXTAE366A/f6d5a3f01b8e684151ef743bd187570b92772a5771f23a2b79da14e97c2df2d5",
+    "company": "ZHONGXIN FRUIT AND JUICE LIMITED",
+    "security": "ZHONGXIN FRUIT AND JUICE LTD",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for lifting of Trading Halt",
+    "timestamp": "27 Oct 2026 08:35 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OPIXCM7RXTAE366A/f6d5a3f01b8e684151ef743bd187570b92772a5771f23a2b79da14e97c2df2d5",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/R7PISO59TJ7QEHR6/052fa62dab4f4d07a7b29a2b5477b757f7aa0e28f1b2369f52635f609484f932",
+    "company": "FIRST REIT MANAGEMENT LIMITED",
+    "security": "FIRST REAL ESTATE INV TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for 9M 2026",
+    "timestamp": "27 Oct 2026 08:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/R7PISO59TJ7QEHR6/052fa62dab4f4d07a7b29a2b5477b757f7aa0e28f1b2369f52635f609484f932",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3TNAUNY3K2WYP97A/e7ccc6dba86bcdb5941bbe8bb5fb215e52c5ad80722b2b5001caf5dc623a4468",
+    "company": "MAPLETREE INDUSTRIAL TRUST MANAGEMENT LTD.",
+    "security": "MAPLETREE INDUSTRIAL TRUST",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "27 Oct 2026 07:59 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3TNAUNY3K2WYP97A/e7ccc6dba86bcdb5941bbe8bb5fb215e52c5ad80722b2b5001caf5dc623a4468",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/NNUJYF0WG7UM5PLL/2d43d1b7f005b614bf30709e6c16b6d9bcc609e9ebd92011b1522eb895ed4f11",
+    "company": "WORLD PRECISION MACHINERY LIMITED",
+    "security": "WORLD PRECISION MACHINERY LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Notification of Results Release",
+    "timestamp": "27 Oct 2026 07:50 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/NNUJYF0WG7UM5PLL/2d43d1b7f005b614bf30709e6c16b6d9bcc609e9ebd92011b1522eb895ed4f11",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/0ZL18SSBKEZWYBPU/41ecc4910cc3fb82b127cdd0479342307e31c3596a4c81ab3196d651a10d6a53",
     "company": "IFAST CORPORATION LTD.",
     "security": "IFAST CORPORATION LTD.",
