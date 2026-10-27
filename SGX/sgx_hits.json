@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0ZL18SSBKEZWYBPU/41ecc4910cc3fb82b127cdd0479342307e31c3596a4c81ab3196d651a10d6a53",
+    "company": "IFAST CORPORATION LTD.",
+    "security": "IFAST CORPORATION LTD.",
+    "category": "Financial Statements",
+    "title": "REPL::Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "27 Oct 2026 07:22 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0ZL18SSBKEZWYBPU/41ecc4910cc3fb82b127cdd0479342307e31c3596a4c81ab3196d651a10d6a53",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/23XN408B5P4URB6P/4b789a42cc25d0d0f6a27acfbc05ca0b52643318a6e8cb3fc124d24661c6cf78",
+    "company": "OUE HEALTHCARE LIMITED",
+    "security": "OUE HEALTHCARE LIMITED",
+    "category": "Other Scheme of Arrangement",
+    "title": "Other Scheme of Arrangement::Response to Scheme Shareholder Questions",
+    "timestamp": "27 Oct 2026 06:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/23XN408B5P4URB6P/4b789a42cc25d0d0f6a27acfbc05ca0b52643318a6e8cb3fc124d24661c6cf78",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/IB065DN33RUIAZWW/bf4c0405262014b4be088c664674a52a9696a041723eb5c0b3f8beae2a9d8c45",
     "company": "DIGITAL CORE REIT MANAGEMENT PTE. LTD.",
     "security": "DIGITAL CORE REIT",
