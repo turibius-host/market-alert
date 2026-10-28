@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/U98QXD5W8S52N8KB/1d39efdd813326b6f52b962460ea4c923f85267b46e6f8fc0651ad32e32c3f7b",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "28 Oct 2026 06:28 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/U98QXD5W8S52N8KB/1d39efdd813326b6f52b962460ea4c923f85267b46e6f8fc0651ad32e32c3f7b",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/YK5X1WOQJUCAOXK5/eb9767ed537472a97931ca8a21a41dee7fc511584248dc64243cc8751713724f",
     "company": "NANOFILM TECHNOLOGIES INTERNATIONAL LIMITED",
     "security": "NANOFILM TECHNOLOGIES INTL LTD",
