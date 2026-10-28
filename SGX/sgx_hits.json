@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4D3JPTAMMCCS3ATX/5b768c1792bd99a29064c8bb573c52905715f091b602a62aec3d9f8c214c8193",
+    "company": "JAPAN FOODS HOLDING LTD.",
+    "security": "JAPAN FOODS HOLDING LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "28 Oct 2026 07:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4D3JPTAMMCCS3ATX/5b768c1792bd99a29064c8bb573c52905715f091b602a62aec3d9f8c214c8193",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0A8X086B7KA32K4C/641d2ea205ecc959bc02fc6303bf5c6ee9a0c7ed1a00322bfbdaae4b8cd2bbdc",
+    "company": "CONCORD NEW ENERGY GROUP LIMITED",
+    "security": "CONCORD NEW ENERGY GROUP",
+    "category": "General Announcement",
+    "title": "General Announcement::DISCLOSEABLE TRANSACTION - DISPOSAL OF TARGET PROJECT COMPANIES",
+    "timestamp": "28 Oct 2026 06:51 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0A8X086B7KA32K4C/641d2ea205ecc959bc02fc6303bf5c6ee9a0c7ed1a00322bfbdaae4b8cd2bbdc",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/U98QXD5W8S52N8KB/1d39efdd813326b6f52b962460ea4c923f85267b46e6f8fc0651ad32e32c3f7b",
     "company": "UBS AG",
     "security": "MULTIPLE",
