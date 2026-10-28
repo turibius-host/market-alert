@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0IA3TPV81HW6NYDT/613430659e9385c1471b3fdbd2912c500c1e1b26b7264870759e248f45e1753e",
+    "company": "NOMURA HOLDINGS, INC",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "28 Oct 2026 03:55 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0IA3TPV81HW6NYDT/613430659e9385c1471b3fdbd2912c500c1e1b26b7264870759e248f45e1753e",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0YP5QZHLS5K8JVSN/204a79bde96896ece8f432f2429a47a00d26edbef806705f7ecc187eca2f1199",
+    "company": "NOMURA HOLDINGS, INC",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "28 Oct 2026 03:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0YP5QZHLS5K8JVSN/204a79bde96896ece8f432f2429a47a00d26edbef806705f7ecc187eca2f1199",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1V0GZ003Q7Q0O1YW/7e9a77510e369c38e0ad5cc1c2270239a2ff1a7546a7683f1d6245f538e72d84",
+    "company": "NOMURA HOLDINGS, INC",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "28 Oct 2026 03:53 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1V0GZ003Q7Q0O1YW/7e9a77510e369c38e0ad5cc1c2270239a2ff1a7546a7683f1d6245f538e72d84",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XQDRAZ53UXFV9982/9abfaa6458734a30d2029cdab5d3b9ec94c9765f9469edd5c02c1c85683263e8",
+    "company": "ADVANTEST CORPORATION",
+    "security": "ADVANTEST CORP JPY100B Z310328",
+    "category": "General Announcement",
+    "title": "General Announcement::Completion of Disposal of Treasury Stocks based on the Post-issued Restricted Stock Unit Plan",
+    "timestamp": "28 Oct 2026 03:09 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XQDRAZ53UXFV9982/9abfaa6458734a30d2029cdab5d3b9ec94c9765f9469edd5c02c1c85683263e8",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/X2X8USVNZ1H960Z1/5a955a0c8f51706751aae6aaf432428793f1d4131b42a01d0da8b6c6cf792265",
+    "company": "ADVANTEST CORPORATION",
+    "security": "ADVANTEST CORP JPY100B Z310328",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "28 Oct 2026 02:56 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/X2X8USVNZ1H960Z1/5a955a0c8f51706751aae6aaf432428793f1d4131b42a01d0da8b6c6cf792265",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/UEI6RM56AZ2Z81EM/3d464684fc35b9962d6d953f2d30ace08b2e419cc8e81a2cbdb8ce8380e92120",
     "company": "STANDARD CHARTERED BANK (SINGAPORE) LIMITED",
     "security": "MULTIPLE",
