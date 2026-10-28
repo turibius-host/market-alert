@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KDYMF6M0L0BEYBU6/08aae402f0a478ddf8117cc61b019069aa32fcd42d5a104a2aa2c4b85af08252",
+    "company": "EQUINIX ASIA FINANCING CORPORATION PTE. LTD.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "29 Oct 2026 05:00 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KDYMF6M0L0BEYBU6/08aae402f0a478ddf8117cc61b019069aa32fcd42d5a104a2aa2c4b85af08252",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/SNKDSMB1RU3VG30S/2b5e478c406e6c43a9d7f3dec5b2a2a9ee87137b211205a1db45a6fd0889ee6e",
     "company": "JSW HYDRO ENERGY LIMITED",
     "security": "MULTIPLE",
