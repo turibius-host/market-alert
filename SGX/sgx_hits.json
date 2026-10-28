@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YK5X1WOQJUCAOXK5/eb9767ed537472a97931ca8a21a41dee7fc511584248dc64243cc8751713724f",
+    "company": "NANOFILM TECHNOLOGIES INTERNATIONAL LIMITED",
+    "security": "NANOFILM TECHNOLOGIES INTL LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for 3Q2026",
+    "timestamp": "28 Oct 2026 05:48 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YK5X1WOQJUCAOXK5/eb9767ed537472a97931ca8a21a41dee7fc511584248dc64243cc8751713724f",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GLAVJR9NM37EZSB8/954b8701c35ded11a45a654b657599fac7f0c520d3f109dbe77914b20c87b397",
+    "company": "A-SMART HOLDINGS LTD.",
+    "security": "A-SMART HOLDINGS LTD.",
+    "category": "General Announcement",
+    "title": "General Announcement::Proposed Renounceable Non-Underwritten Rights Issue - Receipt of Whitewash Waiver from SIC",
+    "timestamp": "28 Oct 2026 05:43 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GLAVJR9NM37EZSB8/954b8701c35ded11a45a654b657599fac7f0c520d3f109dbe77914b20c87b397",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/O7NC24QQGCBVQ487/19b1fc90d56c699d067c6742a03826efab056bfc5b12edaf2a4c6f601dd22bae",
+    "company": "WILMAR INTERNATIONAL LIMITED",
+    "security": "WILMAR INTERNATIONAL LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "28 Oct 2026 05:40 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/O7NC24QQGCBVQ487/19b1fc90d56c699d067c6742a03826efab056bfc5b12edaf2a4c6f601dd22bae",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DSJYSBBYKBG620V3/1315b956aaa845d92ed12d0e795eb6355cbbe81e3e667ad2ac6e83eef37d75f5",
+    "company": "DISA LIMITED",
+    "security": "MULTIPLE",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::ADDITIONAL INVESTMENT IN DIGITAL LIFE LINE PTE. LTD.",
+    "timestamp": "28 Oct 2026 05:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DSJYSBBYKBG620V3/1315b956aaa845d92ed12d0e795eb6355cbbe81e3e667ad2ac6e83eef37d75f5",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0VFDW6DV17NF0BVI/60bf7f6f183d5f8945338fd3bfef907135cffb11c6bcdf4efc120bed9a328ff6",
+    "company": "LANDMARK REIT MANAGEMENT LTD.",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for the Third Quarter Ended 30 September 2026",
+    "timestamp": "28 Oct 2026 05:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0VFDW6DV17NF0BVI/60bf7f6f183d5f8945338fd3bfef907135cffb11c6bcdf4efc120bed9a328ff6",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/0IA3TPV81HW6NYDT/613430659e9385c1471b3fdbd2912c500c1e1b26b7264870759e248f45e1753e",
     "company": "NOMURA HOLDINGS, INC",
     "security": "MULTIPLE",
