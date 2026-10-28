@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SNKDSMB1RU3VG30S/2b5e478c406e6c43a9d7f3dec5b2a2a9ee87137b211205a1db45a6fd0889ee6e",
+    "company": "JSW HYDRO ENERGY LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "28 Oct 2026 10:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SNKDSMB1RU3VG30S/2b5e478c406e6c43a9d7f3dec5b2a2a9ee87137b211205a1db45a6fd0889ee6e",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/WRVB5MLC5M1F4A9Z/35a1adaf8295edd7663841eaa714d5721c32a04bcd6d6868a6f1afaa770d6a31",
     "company": "SAMUDERA SHIPPING LINE LTD",
     "security": "SAMUDERA SHIPPING LINE LTD",
