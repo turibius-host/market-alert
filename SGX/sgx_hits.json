@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AA1OH9QDDHPFYLJ2/4a7e92c15a28ad078a9a11ea289ce95b2614f7ba563307b2fc26a2f8269697d8",
+    "company": "KOH BROTHERS ECO ENGINEERING LIMITED",
+    "security": "KOH BROTHERS ECO ENGG LIMITED",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "30 Oct 2026 07:32 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AA1OH9QDDHPFYLJ2/4a7e92c15a28ad078a9a11ea289ce95b2614f7ba563307b2fc26a2f8269697d8",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CBSN2B6U7O5VNW21/bca553cc4165601412f3265e77d3df9b21f6ee8b22d528f8e22a09248ee4b7d3",
+    "company": "MPACT MANAGEMENT LTD.",
+    "security": "MAPLETREE PANASIA COM TRUST",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "30 Oct 2026 06:58 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CBSN2B6U7O5VNW21/bca553cc4165601412f3265e77d3df9b21f6ee8b22d528f8e22a09248ee4b7d3",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/0DU4NTI83S3SEJ3M/0c7363be7185f3d6e6e03a0731bbd916a66b7672b94be2278fb914744d1a2864",
     "company": "AJJ MEDTECH HOLDINGS LIMITED",
     "security": "AJJ MEDTECH HOLDINGS LIMITED",
