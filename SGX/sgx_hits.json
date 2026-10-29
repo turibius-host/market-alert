@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/K8NBMR28Z8TK0SOY/31fdeb2d48f1185847638cccd3b3516cf730f1a1f9ffc177007b171540bd8010",
+    "company": "THE KANSAI ELECTRIC POWER COMPANY, INCORPORATED",
+    "security": "THEKANSAIEUS$500M5.037%B300226",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "29 Oct 2026 04:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/K8NBMR28Z8TK0SOY/31fdeb2d48f1185847638cccd3b3516cf730f1a1f9ffc177007b171540bd8010",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/08DYN3GBXQN27K70/a5eb8bac7a121b3653e50c97ac60119f87cc4e67fc9c7296f58f1734b661f333",
     "company": "RENESAS ELECTRONICS CORPORATION",
     "security": "MULTIPLE",
