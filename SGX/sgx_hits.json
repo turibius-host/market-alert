@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KKS9GJ2A2KGH3VWO/6b6443ee0b4cd875226df89d3edf6885f278a698dd40c13b98be8a32c79d11a5",
+    "company": "YTL STARHILL GLOBAL REIT MANAGEMENT LIMITED",
+    "security": "STARHILL GLOBAL REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::First Quarter FY 2026/27 Business Updates",
+    "timestamp": "29 Oct 2026 06:44 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KKS9GJ2A2KGH3VWO/6b6443ee0b4cd875226df89d3edf6885f278a698dd40c13b98be8a32c79d11a5",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IDA7JB5XCQ9QVGVP/b5a60b3cafd9d95dbb6f477d6d5c6e0f3e8b0ed76fa7a33228225ac6f0a4d1ee",
+    "company": "NETLINK NBN MANAGEMENT PTE. LTD.",
+    "security": "NETLINK NBN TRUST",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "29 Oct 2026 06:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IDA7JB5XCQ9QVGVP/b5a60b3cafd9d95dbb6f477d6d5c6e0f3e8b0ed76fa7a33228225ac6f0a4d1ee",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/H5USQHTIHG5MSLDL/7c24b55c597f2a63ff59d347db86ff22fe26dd8845b42ab59cabae29b2d93924",
+    "company": "THAI BEVERAGE PUBLIC CO LTD",
+    "security": "THAI BEVERAGE PUBLIC CO LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "29 Oct 2026 06:16 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/H5USQHTIHG5MSLDL/7c24b55c597f2a63ff59d347db86ff22fe26dd8845b42ab59cabae29b2d93924",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/W29990D8EXJ1RKNA/fb81e8916002573ec8961633d037451a56820a3cab9a76deee7279f345091c10",
+    "company": "CHEMICAL INDUSTRIES (FAR EAST) LIMITED.",
+    "security": "CHEMICAL INDUSTRIES (F.E.) LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "29 Oct 2026 05:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/W29990D8EXJ1RKNA/fb81e8916002573ec8961633d037451a56820a3cab9a76deee7279f345091c10",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/3AIVVBSFGPZO8KPG/b9cb9aa5aebc759e88eb391439964ea22496069a3cae1e5f96464c374da1955a",
     "company": "MI MATERIAL HOLDING LIMITED",
     "security": "MI MATERIAL HOLDING LIMITED",
