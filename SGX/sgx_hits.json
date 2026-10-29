@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CVMT8E9DF18UN1TV/9c03a8c1cac09b1abcfe24ef96084a1ba9f18faf2376e766d95c5213dbeef163",
+    "company": "ANA HOLDINGS INC.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "29 Oct 2026 02:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CVMT8E9DF18UN1TV/9c03a8c1cac09b1abcfe24ef96084a1ba9f18faf2376e766d95c5213dbeef163",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/390PNZQ6OEHX67U6/2e75237ec4f061ac1b9252f6b26a1d1bb35e96b63e52647678347e0e80f44053",
+    "company": "DENSO CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "29 Oct 2026 02:35 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/390PNZQ6OEHX67U6/2e75237ec4f061ac1b9252f6b26a1d1bb35e96b63e52647678347e0e80f44053",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/BAFD3IMHDZHXDHCY/bceebde291a23fad44735dc5a936f8aee9a3e3512ef165e0ce6b2a3664399134",
     "company": "METROCON HOLDINGS LIMITED",
     "security": "METROCON HOLDINGS LIMITED",
