@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GO446NAEEVBLDPS2/059aa2ba432ccbb6ff78d6d3219b9e08b7a285a52e25ce91e45081a296d70b35",
+    "company": "GOODMAN AUSTRALIA FINANCE PTY LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "29 Oct 2026 09:18 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GO446NAEEVBLDPS2/059aa2ba432ccbb6ff78d6d3219b9e08b7a285a52e25ce91e45081a296d70b35",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/GEHKOONGEK6D29XE/bfb44fe6c188e80db57db59b4cfc17363e57c657164e41b4a63b3cff632cdeb5",
     "company": "M&C REIT MANAGEMENT LIMITED",
     "security": "CDL HOSPITALITY TRUSTS",
