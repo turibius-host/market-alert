@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3AIVVBSFGPZO8KPG/b9cb9aa5aebc759e88eb391439964ea22496069a3cae1e5f96464c374da1955a",
+    "company": "MI MATERIAL HOLDING LIMITED",
+    "security": "MI MATERIAL HOLDING LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for the Third Quarter Ended 30 September 2026",
+    "timestamp": "29 Oct 2026 05:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3AIVVBSFGPZO8KPG/b9cb9aa5aebc759e88eb391439964ea22496069a3cae1e5f96464c374da1955a",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OGL5KPAX4RSOEOOY/4bca25c9194a930c1927449ee5c638a538cd6d7895eba70d06b935f045dbcad8",
+    "company": "TAKEDA PHARMACEUTICAL COMPANY LIMITED",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "29 Oct 2026 05:44 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OGL5KPAX4RSOEOOY/4bca25c9194a930c1927449ee5c638a538cd6d7895eba70d06b935f045dbcad8",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VIXMZSYBGI2TCX67/585ece993bcf2c70c49a582ab151e2e4aa207aaee9a5d905df6cdf16beb500ac",
+    "company": "DAIWA HOUSE ASSET MANAGEMENT ASIA PTE. LTD.",
+    "security": "DAIWA HOUSE LOGISTICS TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::Date of Release of Business Update",
+    "timestamp": "29 Oct 2026 05:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VIXMZSYBGI2TCX67/585ece993bcf2c70c49a582ab151e2e4aa207aaee9a5d905df6cdf16beb500ac",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2KW5AAQQZE96XDP9/a5316cf658680a318ec957e95575716a7066ec9de055340c395896eb54761c25",
+    "company": "SHENG SIONG GROUP LTD.",
+    "security": "SHENG SIONG GROUP LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "29 Oct 2026 05:35 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2KW5AAQQZE96XDP9/a5316cf658680a318ec957e95575716a7066ec9de055340c395896eb54761c25",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/K8NBMR28Z8TK0SOY/31fdeb2d48f1185847638cccd3b3516cf730f1a1f9ffc177007b171540bd8010",
     "company": "THE KANSAI ELECTRIC POWER COMPANY, INCORPORATED",
     "security": "THEKANSAIEUS$500M5.037%B300226",
