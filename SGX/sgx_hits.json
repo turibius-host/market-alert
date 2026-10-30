@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OMPI52T9R6AL2WN3/3933f93e24e5d49da240e68f7b139910fecbda6cf98e6e23bd4fc686bedf01ba",
+    "company": "NO VA LAND INVESTMENT GROUP CORPORATION",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "30 Oct 2026 09:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OMPI52T9R6AL2WN3/3933f93e24e5d49da240e68f7b139910fecbda6cf98e6e23bd4fc686bedf01ba",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XVI67DCBHU828WQF/9dc17f09ba91407d1c481b5f8e9577b4523714b6ffd7c04b899a1c6df1682522",
+    "company": "NO VA LAND INVESTMENT GROUP CORPORATION",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "30 Oct 2026 09:16 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XVI67DCBHU828WQF/9dc17f09ba91407d1c481b5f8e9577b4523714b6ffd7c04b899a1c6df1682522",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/TB8RKE3FDOXSL6MP/919877f48ef1bac36aa7a228b53eded352465e9380e9916628122cfd8c984ee0",
+    "company": "USP GROUP LIMITED",
+    "security": "USP GROUP LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Submission of Proposal for the Resumption of Trading",
+    "timestamp": "30 Oct 2026 09:02 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/TB8RKE3FDOXSL6MP/919877f48ef1bac36aa7a228b53eded352465e9380e9916628122cfd8c984ee0",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/39O0XQDLGR1X0HWD/a399bd4d893a81a8713fe04aa83f6b6f2d278b5eb94b98f1b3fd1f61a73403c4",
     "company": "LHN LIMITED",
     "security": "LHN LIMITED",
