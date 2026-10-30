@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/39O0XQDLGR1X0HWD/a399bd4d893a81a8713fe04aa83f6b6f2d278b5eb94b98f1b3fd1f61a73403c4",
+    "company": "LHN LIMITED",
+    "security": "LHN LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of Disposal of Indirect Interest in Metropolitan Parking Pte. Ltd.",
+    "timestamp": "30 Oct 2026 08:22 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/39O0XQDLGR1X0HWD/a399bd4d893a81a8713fe04aa83f6b6f2d278b5eb94b98f1b3fd1f61a73403c4",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/TAW60SX7TA50KV3H/1839d9f12d84403a51e382fc6b49e4781e30602f409ea9bf3c5d210c14997075",
+    "company": "DAIWA HOUSE ASSET MANAGEMENT ASIA PTE. LTD.",
+    "security": "DAIWA HOUSE LOGISTICS TRUST",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Divestment of DPL Sendai Port and Acquisition of a Freehold Logistics Property in Japan",
+    "timestamp": "30 Oct 2026 07:50 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/TAW60SX7TA50KV3H/1839d9f12d84403a51e382fc6b49e4781e30602f409ea9bf3c5d210c14997075",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZPV46HEMSUDHVL78/43711b89fb1f977750ade660da2a0d084eaa8589eb65711a5d9401a64b994792",
+    "company": "DBS TRUSTEE LIMITED (TRUSTEE OF LENDLEASE GLOBAL COMMERCIAL REIT)",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::1Q FY2027 Business Update",
+    "timestamp": "30 Oct 2026 07:43 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZPV46HEMSUDHVL78/43711b89fb1f977750ade660da2a0d084eaa8589eb65711a5d9401a64b994792",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YX3ZBN1L9H9XEHXN/36db23ff02c65650194187731251070fd53da21e682af3e5ab78ba23eb6fb5f6",
+    "company": "LENDLEASE GLOBAL COMMERCIAL TRUST MANAGEMENT PTE. LTD.",
+    "security": "LENDLEASE GLOBAL COMMERCIAL REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::1Q FY2027 Business Update",
+    "timestamp": "30 Oct 2026 07:40 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YX3ZBN1L9H9XEHXN/36db23ff02c65650194187731251070fd53da21e682af3e5ab78ba23eb6fb5f6",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/8DM1FWND2D3TF9MK/7713972a28b0843c9c5025f40a246159752716a578ef9e6f6831292889129acd",
     "company": "BANK OF BARODA",
     "security": "MULTIPLE",
