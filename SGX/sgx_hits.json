@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LSJ7ZW7Y62L0V94I/9b092e340ca2eebf2b75602c65616dc745bead5cab27f9126bb7167c28ed2a22",
+    "company": "TOYOTA INDUSTRIES CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "30 Oct 2026 08:28 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LSJ7ZW7Y62L0V94I/9b092e340ca2eebf2b75602c65616dc745bead5cab27f9126bb7167c28ed2a22",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/AA1OH9QDDHPFYLJ2/4a7e92c15a28ad078a9a11ea289ce95b2614f7ba563307b2fc26a2f8269697d8",
     "company": "KOH BROTHERS ECO ENGINEERING LIMITED",
     "security": "KOH BROTHERS ECO ENGG LIMITED",
