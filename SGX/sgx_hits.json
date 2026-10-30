@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/H3NWJIDI98CUSG4R/b4fe17718c297dd8a9c452d859cc9b15dfddc1487e36b5df5cd21129b58ccc40",
+    "company": "BROMAT HOLDINGS LTD",
+    "security": "BROMAT HOLDINGS LTD",
+    "category": "Placements",
+    "title": "Placements::Proposed Placement of 32,896,471 Shares in the Capital of the Company - Extension of Long-Stop Date",
+    "timestamp": "30 Oct 2026 06:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/H3NWJIDI98CUSG4R/b4fe17718c297dd8a9c452d859cc9b15dfddc1487e36b5df5cd21129b58ccc40",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/5D4EY9N55P8OTX53/9ed88478e015dbad50013bc898172f918b658e1d963c0d0bae592d15a5a9ca7e",
+    "company": "OUE LIMITED",
+    "security": "OUE LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of Proposed Acquisition of Crowne Plaza Changi Airport",
+    "timestamp": "30 Oct 2026 06:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/5D4EY9N55P8OTX53/9ed88478e015dbad50013bc898172f918b658e1d963c0d0bae592d15a5a9ca7e",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9S51LRTVN06KCZDA/c829ca8def6fa691cab7e0539aaa5a3ac8a09b84c167c98db86f424b37915579",
+    "company": "OUE LIMITED",
+    "security": "OUE LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::OUE REIT - Completion of Divestment of Crowne Plaza Changi Airport",
+    "timestamp": "30 Oct 2026 06:28 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9S51LRTVN06KCZDA/c829ca8def6fa691cab7e0539aaa5a3ac8a09b84c167c98db86f424b37915579",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VVERCQ3J17FMQD5T/4d6f1edc651821772085e44d7a20c7c73f159de26b01167957d3bbbc0816f57c",
+    "company": "OUE REIT MANAGEMENT PTE. LTD.",
+    "security": "OUE REIT",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of Divestment of Crowne Plaza Changi Airport",
+    "timestamp": "30 Oct 2026 06:26 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VVERCQ3J17FMQD5T/4d6f1edc651821772085e44d7a20c7c73f159de26b01167957d3bbbc0816f57c",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/D8C95Z6N6CBOPP6M/47bb8e46c7736d100c365886629476a492410d1e9fd48462a9b8d4c9002fe71a",
     "company": "KIOXIA HOLDINGS CORPORATION",
     "security": "MULTIPLE",
