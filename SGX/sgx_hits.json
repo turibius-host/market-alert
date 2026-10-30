@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8DM1FWND2D3TF9MK/7713972a28b0843c9c5025f40a246159752716a578ef9e6f6831292889129acd",
+    "company": "BANK OF BARODA",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "30 Oct 2026 07:39 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8DM1FWND2D3TF9MK/7713972a28b0843c9c5025f40a246159752716a578ef9e6f6831292889129acd",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3J55Q10NVTZ58UE8/494a66635e45901d8eed481bf344817b94011c54793ff9ae235102e19efb1460",
+    "company": "AUTAGCO LTD.",
+    "security": "AUTAGCO LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Extension of Long-Stop Date",
+    "timestamp": "30 Oct 2026 07:10 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3J55Q10NVTZ58UE8/494a66635e45901d8eed481bf344817b94011c54793ff9ae235102e19efb1460",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/H3NWJIDI98CUSG4R/b4fe17718c297dd8a9c452d859cc9b15dfddc1487e36b5df5cd21129b58ccc40",
     "company": "BROMAT HOLDINGS LTD",
     "security": "BROMAT HOLDINGS LTD",
