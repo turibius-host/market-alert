@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ED2J2XJ0NUIDBBRF/1d1c61916cd384009ecfd40a36fa7a514899606112795a51a5e83ad59fc0ae4d",
+    "company": "NETLINK NBN MANAGEMENT PTE. LTD.",
+    "security": "NETLINK NBN TRUST",
+    "category": "Financial Statements",
+    "title": "REPL::Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "30 Oct 2026 12:04 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ED2J2XJ0NUIDBBRF/1d1c61916cd384009ecfd40a36fa7a514899606112795a51a5e83ad59fc0ae4d",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/LSJ7ZW7Y62L0V94I/9b092e340ca2eebf2b75602c65616dc745bead5cab27f9126bb7167c28ed2a22",
     "company": "TOYOTA INDUSTRIES CORPORATION",
     "security": "MULTIPLE",
