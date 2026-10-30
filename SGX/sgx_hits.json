@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JU5FHD0IQ47Q1YXQ/9bd22aba9fd141b904c5c893f2b53df3531c7495d14cd793a2bbd750e39a6d60",
+    "company": "KYUSHU ELECTRIC POWER COMPANY, INCORPORATED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "30 Oct 2026 03:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JU5FHD0IQ47Q1YXQ/9bd22aba9fd141b904c5c893f2b53df3531c7495d14cd793a2bbd750e39a6d60",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/3VSHNGKIJ1GPGC3V/e858aa085048faf91df00cda1dc8e33ffedd7c51ada0889a6675c83c5c5bc682",
     "company": "ADVANTEST CORPORATION",
     "security": "ADVANTEST CORP JPY100B Z310328",
