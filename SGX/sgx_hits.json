@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3VSHNGKIJ1GPGC3V/e858aa085048faf91df00cda1dc8e33ffedd7c51ada0889a6675c83c5c5bc682",
+    "company": "ADVANTEST CORPORATION",
+    "security": "ADVANTEST CORP JPY100B Z310328",
+    "category": "General Announcement",
+    "title": "General Announcement::Completion of Disposal of Treasury Stocks as Restricted Stock and Partial Forfeiture of Rights",
+    "timestamp": "30 Oct 2026 02:43 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3VSHNGKIJ1GPGC3V/e858aa085048faf91df00cda1dc8e33ffedd7c51ada0889a6675c83c5c5bc682",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/G8D99PPJDN5NABCU/d6c7616f76c6f6c4e1c53ded1f30314e2ef2334bc24f3382f33ff098a6789dc4",
+    "company": "NXERA PHARMA CO., LTD.",
+    "security": "NXERAPHARMAJPY32B0.25%CB281214",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "30 Oct 2026 02:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/G8D99PPJDN5NABCU/d6c7616f76c6f6c4e1c53ded1f30314e2ef2334bc24f3382f33ff098a6789dc4",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EUMHZEUFBTRJ9J1Q/0085aca42e6d0f53fa8a6d5326b782af70c2117b60b6900d2226b41269ba9f50",
+    "company": "TOHOKU ELECTRIC POWER COMPANY, INCORPORATED",
+    "security": "TOHOKU ELECTRIC US$500M 4.324% B310304",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "30 Oct 2026 02:13 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EUMHZEUFBTRJ9J1Q/0085aca42e6d0f53fa8a6d5326b782af70c2117b60b6900d2226b41269ba9f50",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/ED2J2XJ0NUIDBBRF/1d1c61916cd384009ecfd40a36fa7a514899606112795a51a5e83ad59fc0ae4d",
     "company": "NETLINK NBN MANAGEMENT PTE. LTD.",
     "security": "NETLINK NBN TRUST",
