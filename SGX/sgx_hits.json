@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/D8C95Z6N6CBOPP6M/47bb8e46c7736d100c365886629476a492410d1e9fd48462a9b8d4c9002fe71a",
+    "company": "KIOXIA HOLDINGS CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "30 Oct 2026 05:50 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/D8C95Z6N6CBOPP6M/47bb8e46c7736d100c365886629476a492410d1e9fd48462a9b8d4c9002fe71a",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ABY0KW6PIBMIUXIZ/04dae50cb58e2e14946df436e27b3590ac5a5797f4059e1d8d0b45158cc78cca",
+    "company": "KSH HOLDINGS LIMITED",
+    "security": "KSH HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Notification of Results Release",
+    "timestamp": "30 Oct 2026 05:48 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ABY0KW6PIBMIUXIZ/04dae50cb58e2e14946df436e27b3590ac5a5797f4059e1d8d0b45158cc78cca",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/N4OB6IOGVHCF90U4/a1cbdf09c9b6d13c382f8a0e580b48545572c8a78e7a80b64ca6d5cfb431f446",
+    "company": "THE CHUGOKU ELECTRIC POWER COMPANY, INCORPORATED",
+    "security": "THECHUGOKUUSD500M5.742%B350114",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "30 Oct 2026 05:46 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/N4OB6IOGVHCF90U4/a1cbdf09c9b6d13c382f8a0e580b48545572c8a78e7a80b64ca6d5cfb431f446",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/67EJ646VSRBO9O6Q/353709c8b6825d88a89636d651e6284fa605e9944f1e7a73d09080932a9c09f9",
+    "company": "FAR EAST ORCHARD LIMITED",
+    "security": "FAR EAST ORCHARD LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::COMPLETION OF THE ACQUISITION OF SHARES IN THE MANAGERS OF FAR EAST HOSPITALITY TRUST",
+    "timestamp": "30 Oct 2026 05:45 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/67EJ646VSRBO9O6Q/353709c8b6825d88a89636d651e6284fa605e9944f1e7a73d09080932a9c09f9",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JC6QXUHUPAE3XQ0D/bc2fdef69c2e90909da9e641d38412082b765a3a16ea9a87c2dc1da817fb9033",
+    "company": "HOKKAIDO ELECTRIC POWER COMPANY, INCORPORATED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "30 Oct 2026 05:44 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JC6QXUHUPAE3XQ0D/bc2fdef69c2e90909da9e641d38412082b765a3a16ea9a87c2dc1da817fb9033",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/JU5FHD0IQ47Q1YXQ/9bd22aba9fd141b904c5c893f2b53df3531c7495d14cd793a2bbd750e39a6d60",
     "company": "KYUSHU ELECTRIC POWER COMPANY, INCORPORATED",
     "security": "MULTIPLE",
