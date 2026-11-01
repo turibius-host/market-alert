@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/N0RCJ06CT7CGWQV0/e0f73846b5b245367dcc145edb9f8804152fb92bc61e0eb81746ade3788d425a",
+    "company": "GREAT EASTERN HOLDINGS LIMITED",
+    "security": "GREAT EASTERN HLDGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "02 Nov 2026 06:00 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/N0RCJ06CT7CGWQV0/e0f73846b5b245367dcc145edb9f8804152fb92bc61e0eb81746ade3788d425a",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/9ALSAPOFWXUANO3T/989152b778d30fa5c84ed6d5760dd2be5e20be51d668aef14f53bcc17e9f27fc",
     "company": "NIO INC.",
     "security": "NIO INC. OV",
