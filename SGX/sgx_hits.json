@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/50A6C2RB5TVHI3JJ/a8394bb8a5099a028a9931b2b544b389d2f874b4b232220d7fc22cbbf6ddca6c",
+    "company": "METROCON HOLDINGS LIMITED",
+    "security": "METROCON HOLDINGS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Request for Lifting of Trading Halt - Sponsor's Statement",
+    "timestamp": "02 Nov 2026 07:28 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/50A6C2RB5TVHI3JJ/a8394bb8a5099a028a9931b2b544b389d2f874b4b232220d7fc22cbbf6ddca6c",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UBHDZL7JFF5YJVHN/d1ad79e1dafc6b23bcc51fc1ef00f37abfedfa61178b96561b38b1302bf4f354",
+    "company": "METROCON HOLDINGS LIMITED",
+    "security": "METROCON HOLDINGS LIMITED",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "02 Nov 2026 07:28 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UBHDZL7JFF5YJVHN/d1ad79e1dafc6b23bcc51fc1ef00f37abfedfa61178b96561b38b1302bf4f354",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YL9NQ0E6LT28XNE4/58c0e7158e99c7b7f2fe41431743d545bf937f20d4d787987c0e2a25caf7ce08",
+    "company": "ELITE UK REIT MANAGEMENT PTE. LTD.",
+    "security": "ELITE UK REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::Use of Proceeds from the Private Placement",
+    "timestamp": "02 Nov 2026 07:20 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YL9NQ0E6LT28XNE4/58c0e7158e99c7b7f2fe41431743d545bf937f20d4d787987c0e2a25caf7ce08",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7FMW6HOAKS9E9B7P/f721e2ee10733a5ef405582da4a13237ee73756a505e77a0277aa46493f99c63",
+    "company": "ELITE UK REIT MANAGEMENT PTE. LTD.",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for 3Q2026 and Press Release",
+    "timestamp": "02 Nov 2026 07:16 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7FMW6HOAKS9E9B7P/f721e2ee10733a5ef405582da4a13237ee73756a505e77a0277aa46493f99c63",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/HJ6D5B28LQWZA5G8/fe33905eeec1ac996cf2fc9e75f9ece98b23a309572b0fdd0781f2c9a2d9ee64",
+    "company": "KATRINA GROUP LTD.",
+    "security": "",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::EXERCISE OF PUT OPTION IN DAILY BEER SINGAPORE PTE. LTD. BY DAILY BEER CO, LTD.",
+    "timestamp": "02 Nov 2026 06:52 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/HJ6D5B28LQWZA5G8/fe33905eeec1ac996cf2fc9e75f9ece98b23a309572b0fdd0781f2c9a2d9ee64",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/N0RCJ06CT7CGWQV0/e0f73846b5b245367dcc145edb9f8804152fb92bc61e0eb81746ade3788d425a",
     "company": "GREAT EASTERN HOLDINGS LIMITED",
     "security": "GREAT EASTERN HLDGS LTD",
