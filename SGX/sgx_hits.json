@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/43IK0HCCEBK6V3L0/2b70d5fed3d1b8473aceb5280900ae0316b609ab3145ab7303126865b574bafe",
+    "company": "METAPLANET INC.",
+    "security": "METAPLANET JPY52B Z311029",
+    "category": "General Announcement",
+    "title": "General Announcement::Notice Regarding the Status of Acquisition of Treasury Shares",
+    "timestamp": "02 Nov 2026 10:35 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/43IK0HCCEBK6V3L0/2b70d5fed3d1b8473aceb5280900ae0316b609ab3145ab7303126865b574bafe",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/7JADJOJI5835BULQ/98781a2b8f5d74e4f30be95ebc8363dda9fa7535fce81201cc51f83e08425c2b",
     "company": "HPHT FINANCE (26) LIMITED",
     "security": "HPHTFIN US$500M5.125%N310827",
