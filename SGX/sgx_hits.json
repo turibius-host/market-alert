@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7JADJOJI5835BULQ/98781a2b8f5d74e4f30be95ebc8363dda9fa7535fce81201cc51f83e08425c2b",
+    "company": "HPHT FINANCE (26) LIMITED",
+    "security": "HPHTFIN US$500M5.125%N310827",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::EXPROPRIATION OF CERTAIN LAND AND ATTACHMENTS THERETO IN YANTIAN",
+    "timestamp": "02 Nov 2026 06:25 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7JADJOJI5835BULQ/98781a2b8f5d74e4f30be95ebc8363dda9fa7535fce81201cc51f83e08425c2b",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/B9L0GEFTXR0717LO/22e29cad3825212fd5740df0b247d4440a7660537ec791d1cc3535091ec2c6f7",
+    "company": "HPHT FINANCE (25) LIMITED",
+    "security": "HPHTFIN US$500M5%N300221",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::EXPROPRIATION OF CERTAIN LAND AND ATTACHMENTS THERETO IN YANTIAN",
+    "timestamp": "02 Nov 2026 06:23 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/B9L0GEFTXR0717LO/22e29cad3825212fd5740df0b247d4440a7660537ec791d1cc3535091ec2c6f7",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OFQI9IRE7QE3BBUJ/d9bbc0ee24d06a11b9dabdefae14dcf6a69344eb598b60db3054d42afdd79ff2",
+    "company": "HUTCHISON PORT HOLDINGS MANAGEMENT PTE. LIMITED",
+    "security": "HUTCHISON PORT HOLDINGS TRUST",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::EXPROPRIATION OF CERTAIN LAND AND ATTACHMENTS THERETO IN YANTIAN",
+    "timestamp": "02 Nov 2026 06:19 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OFQI9IRE7QE3BBUJ/d9bbc0ee24d06a11b9dabdefae14dcf6a69344eb598b60db3054d42afdd79ff2",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/WXO56JJ3J4AABZ66/f0220bbf166c1594a087c8c1d1d747c8f97456a92a3fcbe7cb994c949b23c82a",
     "company": "BENG KUANG MARINE LIMITED",
     "security": "MULTIPLE",
