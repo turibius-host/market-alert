@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/U4KM3IZH97SEHPYW/0fd17b3ad61f0532efaf3942f92a6fa45c747263a77d2d78ae21b33aea143424",
+    "company": "CAPITAL WORLD LIMITED.",
+    "security": "CAPITAL WORLD LIMITED.",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "03 Nov 2026 07:31 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/U4KM3IZH97SEHPYW/0fd17b3ad61f0532efaf3942f92a6fa45c747263a77d2d78ae21b33aea143424",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8Y4P5HREBX63AL20/d7ac8c27335e1d29fb137a623178c525d3e9b820a194b6ef9451c760dd9d90f9",
+    "company": "PARKWAY TRUST MANAGEMENT LIMITED",
+    "security": "PARKWAYLIFE REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for 3Q 2026",
+    "timestamp": "03 Nov 2026 07:28 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8Y4P5HREBX63AL20/d7ac8c27335e1d29fb137a623178c525d3e9b820a194b6ef9451c760dd9d90f9",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8GNVT3Y19N3NWXZB/7791c5d01fed77fd1fe4fba7e4578c2251147f2df8428e82b0a3fbbcb7c26036",
+    "company": "DIGITAL CORE REIT MANAGEMENT PTE. LTD.",
+    "security": "DIGITAL CORE REIT",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of Proposed Divestment of Three North American Assets",
+    "timestamp": "03 Nov 2026 07:27 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8GNVT3Y19N3NWXZB/7791c5d01fed77fd1fe4fba7e4578c2251147f2df8428e82b0a3fbbcb7c26036",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/43IK0HCCEBK6V3L0/2b70d5fed3d1b8473aceb5280900ae0316b609ab3145ab7303126865b574bafe",
     "company": "METAPLANET INC.",
     "security": "METAPLANET JPY52B Z311029",
