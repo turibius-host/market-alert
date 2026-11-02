@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YKHYUYWCGDZ328A2/8bff398a89bced45a33060caae08213b4db397aa8260a9e0dc83d1fe05952ec6",
+    "company": "SUMITOMO CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "02 Nov 2026 01:23 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YKHYUYWCGDZ328A2/8bff398a89bced45a33060caae08213b4db397aa8260a9e0dc83d1fe05952ec6",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/IDSA6FIKXBEOPOYA/dcdaf15bec845cfdbeecb1038b63d17362f1d07b7838a73f2e25d45e687f5226",
     "company": "SBI HOLDINGS, INC",
     "security": "SBI HOLDINGS JPY100B Z310725",
