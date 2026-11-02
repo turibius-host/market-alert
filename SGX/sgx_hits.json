@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IDSA6FIKXBEOPOYA/dcdaf15bec845cfdbeecb1038b63d17362f1d07b7838a73f2e25d45e687f5226",
+    "company": "SBI HOLDINGS, INC",
+    "security": "SBI HOLDINGS JPY100B Z310725",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "02 Nov 2026 09:59 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IDSA6FIKXBEOPOYA/dcdaf15bec845cfdbeecb1038b63d17362f1d07b7838a73f2e25d45e687f5226",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/Y0YIHQJTEACP6I1L/61a4aecc0e9ae24645e6356a39aa840079e5d61dbad1813ba6e370877d7d9df3",
     "company": "ALPHA INTEGRATED REIT MANAGEMENT PTE. LTD.",
     "security": "ALPHA INTEGRATED REIT",
