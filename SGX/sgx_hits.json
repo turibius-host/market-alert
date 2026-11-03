@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MW49JMJOJRQQF8TF/0f3b7cb7ea0ffd6aac2c591da0f2509a702c92da9e34696e21b9b25b53df0ace",
+    "company": "RESOURCES GLOBAL DEVELOPMENT LIMITED",
+    "security": "RESOURCES GLOBAL DEVEL LIMITED",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "04 Nov 2026 07:41 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MW49JMJOJRQQF8TF/0f3b7cb7ea0ffd6aac2c591da0f2509a702c92da9e34696e21b9b25b53df0ace",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/30XEUGD4YHTGWKMZ/12b545a829d00d62a1483feec25bb61e429c3a1531b97ef8b6a150053b6419e5",
+    "company": "ADVANCED SYSTEMS AUTOMATION LIMITED",
+    "security": "ADVANCEDSYSTEMS AUTOMATION",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "04 Nov 2026 07:38 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/30XEUGD4YHTGWKMZ/12b545a829d00d62a1483feec25bb61e429c3a1531b97ef8b6a150053b6419e5",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7DDW96HGKA8N7WAK/5995498b4f0fc21301b2008f286630b0d0879e4ca74db00ff5f4a086269ad039",
+    "company": "SIA ENGINEERING COMPANY LIMITED",
+    "security": "SIA ENGINEERING CO LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "04 Nov 2026 07:18 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7DDW96HGKA8N7WAK/5995498b4f0fc21301b2008f286630b0d0879e4ca74db00ff5f4a086269ad039",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/X3YY91C3YCZVRQFL/5493f67d1b6b7b2cc306e2025d7b3365ba5a996f9571fe9ec7289f690a9fb1a6",
+    "company": "ACROPHYTE HOSPITALITY TRUST MANAGEMENT PTE. LTD.",
+    "security": "ACROPHYTE HOSPITALITY TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::3Q 2026 Business & Operational Updates",
+    "timestamp": "04 Nov 2026 07:18 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/X3YY91C3YCZVRQFL/5493f67d1b6b7b2cc306e2025d7b3365ba5a996f9571fe9ec7289f690a9fb1a6",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/TJBRRV6GVSZ7FNPF/27aac2d501edab4ae775088af23491f19050275491d9bfead376ef0b9c29c277",
+    "company": "MANULIFE US REAL ESTATE MANAGEMENT PTE. LTD.",
+    "security": "MANULIFE US REIT",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "04 Nov 2026 07:16 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/TJBRRV6GVSZ7FNPF/27aac2d501edab4ae775088af23491f19050275491d9bfead376ef0b9c29c277",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CRJ66CEB38QHTR3J/57df71dca7d4e22925bd1c02bbd95fe2cf1d58f411b809581d7a00730832c7e0",
+    "company": "UNITED OVERSEAS BANK LIMITED",
+    "security": "UNITED OVERSEAS BANK LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement pursuant to Rule 706A of the SGX Listing Manual",
+    "timestamp": "04 Nov 2026 06:56 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CRJ66CEB38QHTR3J/57df71dca7d4e22925bd1c02bbd95fe2cf1d58f411b809581d7a00730832c7e0",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/AAX7HB9FZ54UL8YX/a67cf1516eb24eeb423bc4b46d350400fc0f66b8933e2179a4d3137b504d11ea",
     "company": "CAPITALAND INVESTMENT LIMITED",
     "security": "CAPITALAND INVESTMENT LIMITED",
