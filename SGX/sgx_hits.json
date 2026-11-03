@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FZNO47X8TRVXTM3H/38782a629ff05c43012b67c2597964406af3a3e586100e7241ec389cd3a917cb",
+    "company": "ZICO HOLDINGS INC.",
+    "security": "ZICO HOLDINGS INC.",
+    "category": "General Announcement",
+    "title": "General Announcement::Update on legal proceedings in relation to a subsidiary",
+    "timestamp": "03 Nov 2026 08:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FZNO47X8TRVXTM3H/38782a629ff05c43012b67c2597964406af3a3e586100e7241ec389cd3a917cb",
+    "rules": [
+      "Major Contract / Litigation"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/HJNOO7B28U5HB3RL/54c1f9a074297d3d47f7748a7e4bc322219e8f5b71f42d5c495ae2a11bff6e8e",
+    "company": "DATAPULSE TECHNOLOGY LIMITED",
+    "security": "MULTIPLE",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "03 Nov 2026 08:12 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/HJNOO7B28U5HB3RL/54c1f9a074297d3d47f7748a7e4bc322219e8f5b71f42d5c495ae2a11bff6e8e",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/6PRASH6U2UWV30JE/e1a52339807e4c7608b108f53c429807a4892aef1ae3333c7cd55ac4d662addc",
     "company": "LMS COMPLIANCE LTD.",
     "security": "LMS COMPLIANCE LTD.",
