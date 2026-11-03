@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BOU3NHHX93MIOML0/49df56b92ba4641f12ffd6e7999b9df0f786c8fdbae924b7a74b280682e7ff7c",
+    "company": "LONZA GROUP LTD",
+    "security": "LONZA GROUP LTD",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "03 Nov 2026 02:31 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BOU3NHHX93MIOML0/49df56b92ba4641f12ffd6e7999b9df0f786c8fdbae924b7a74b280682e7ff7c",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8K8QK76VSRGNULEV/2234df0640c23568d743e68b8c8f30d7abb5d34aec10ca4cb8464304cfb0e342",
+    "company": "LONZA GROUP LTD",
+    "security": "LONZA GROUP LTD",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "03 Nov 2026 02:01 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8K8QK76VSRGNULEV/2234df0640c23568d743e68b8c8f30d7abb5d34aec10ca4cb8464304cfb0e342",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/U4KM3IZH97SEHPYW/0fd17b3ad61f0532efaf3942f92a6fa45c747263a77d2d78ae21b33aea143424",
     "company": "CAPITAL WORLD LIMITED.",
     "security": "CAPITAL WORLD LIMITED.",
