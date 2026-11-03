@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/5RGHMHG7C09SZ4UF/397c0700ac6e38c868615a84c050157fed5cb85e4296b22a3ee8aa13b29f250d",
+    "company": "SIA ENGINEERING COMPANY LIMITED",
+    "security": "SIA ENGINEERING CO LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement pursuant to Rule 706A of SGXListing Manual",
+    "timestamp": "03 Nov 2026 05:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/5RGHMHG7C09SZ4UF/397c0700ac6e38c868615a84c050157fed5cb85e4296b22a3ee8aa13b29f250d",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/L02QH6LA3D5L24OE/4483dfa0b05b212a144038c14a5b7ce9d5eb2c19e90bc70d3861cca4448a301b",
+    "company": "SIA ENGINEERING COMPANY LIMITED",
+    "security": "SIA ENGINEERING CO LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "03 Nov 2026 05:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/L02QH6LA3D5L24OE/4483dfa0b05b212a144038c14a5b7ce9d5eb2c19e90bc70d3861cca4448a301b",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/BOU3NHHX93MIOML0/49df56b92ba4641f12ffd6e7999b9df0f786c8fdbae924b7a74b280682e7ff7c",
     "company": "LONZA GROUP LTD",
     "security": "LONZA GROUP LTD",
