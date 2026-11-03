@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YUHC1AVN0NGNL7QR/a86e0d970de1011ac11c5094af2d261228af899b05cdc88549ef797066ab7bf7",
+    "company": "SAMUDERA SHIPPING LINE LTD",
+    "security": "SAMUDERA SHIPPING LINE LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Entry Into Shipbuilding Contracts For Two New Container Vessels",
+    "timestamp": "03 Nov 2026 06:51 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YUHC1AVN0NGNL7QR/a86e0d970de1011ac11c5094af2d261228af899b05cdc88549ef797066ab7bf7",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/O5UGCB023SY2J3PZ/3b47ae397b5b20a6143035fee890c45dd73f503d9bb6a713506fa66b22632e82",
+    "company": "KOP LIMITED",
+    "security": "KOP LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "03 Nov 2026 06:50 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/O5UGCB023SY2J3PZ/3b47ae397b5b20a6143035fee890c45dd73f503d9bb6a713506fa66b22632e82",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/870U3Z3BYINCLSKS/3c028fa66c1feee13e1fecdd3912ae7d587a500412b082e405924dd9a06c4cbb",
+    "company": "STATE BANK OF INDIA",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "03 Nov 2026 06:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/870U3Z3BYINCLSKS/3c028fa66c1feee13e1fecdd3912ae7d587a500412b082e405924dd9a06c4cbb",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZLXF63TLGZURF9BW/041a97bcf4bdc76d9d89c9ff94386f31f97b1e029e635794584d607a1840323c",
+    "company": "KOH BROTHERS GROUP LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Koh Brothers Eco Engineering Limited - Propose Renounceable Underwritten Rights Issue",
+    "timestamp": "03 Nov 2026 06:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZLXF63TLGZURF9BW/041a97bcf4bdc76d9d89c9ff94386f31f97b1e029e635794584d607a1840323c",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/5RGHMHG7C09SZ4UF/397c0700ac6e38c868615a84c050157fed5cb85e4296b22a3ee8aa13b29f250d",
     "company": "SIA ENGINEERING COMPANY LIMITED",
     "security": "SIA ENGINEERING CO LTD",
