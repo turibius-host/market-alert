@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0Q22AWZFWPZQTKYP/b950ff1ca269c9a93771a1c058e4552d8c7b81e6b0ee140a1b5c60532823a9bb",
+    "company": "MITSUBISHI CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "04 Nov 2026 03:09 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0Q22AWZFWPZQTKYP/b950ff1ca269c9a93771a1c058e4552d8c7b81e6b0ee140a1b5c60532823a9bb",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/15M89H11QDLLX2OR/79c3af1bc985169ffb8db27afb7f77f8c5e6080e9cc666c5eafeb901ab21dae4",
     "company": "THE HOUR GLASS LIMITED",
     "security": "THE HOUR GLASS LIMITED",
