@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/G591MO82RZA43BI2/144bf15ffcd29d8c4354dd0ef9a9cdd120a19310ad27638813a9cdc754f9c83f",
+    "company": "MITSUI & CO., LTD.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "04 Nov 2026 03:14 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/G591MO82RZA43BI2/144bf15ffcd29d8c4354dd0ef9a9cdd120a19310ad27638813a9cdc754f9c83f",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/0Q22AWZFWPZQTKYP/b950ff1ca269c9a93771a1c058e4552d8c7b81e6b0ee140a1b5c60532823a9bb",
     "company": "MITSUBISHI CORPORATION",
     "security": "MULTIPLE",
