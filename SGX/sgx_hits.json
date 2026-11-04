@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XUSTIRT4TJBMOZ9X/79a75d10c219cf9a8a49200a9f3ecfe1b7720aa4a0e88755e9546ea5d42e0539",
+    "company": "PROLOGIS, L.P.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "05 Nov 2026 06:40 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XUSTIRT4TJBMOZ9X/79a75d10c219cf9a8a49200a9f3ecfe1b7720aa4a0e88755e9546ea5d42e0539",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PWUTJ371L9ASOMF8/3044419f7294ad033fa90ebb2386da5245d415e663ece3af98d4448469034599",
+    "company": "DBS GROUP HOLDINGS LTD",
+    "security": "DBS GROUP HOLDINGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "05 Nov 2026 06:30 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PWUTJ371L9ASOMF8/3044419f7294ad033fa90ebb2386da5245d415e663ece3af98d4448469034599",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/YXRKO9DHVNI3N5VE/8118321624c3870021d92a7143d86b4938947c18d52e7ee66c8b673a0ff23788",
     "company": "CAPITAL WORLD LIMITED.",
     "security": "CAPITAL WORLD LIMITED.",
