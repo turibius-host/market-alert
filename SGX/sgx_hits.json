@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/15M89H11QDLLX2OR/79c3af1bc985169ffb8db27afb7f77f8c5e6080e9cc666c5eafeb901ab21dae4",
+    "company": "THE HOUR GLASS LIMITED",
+    "security": "THE HOUR GLASS LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement Pursuant to Rule 706A of the SGX-ST Listing Manual",
+    "timestamp": "04 Nov 2026 12:08 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/15M89H11QDLLX2OR/79c3af1bc985169ffb8db27afb7f77f8c5e6080e9cc666c5eafeb901ab21dae4",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/46HMT2E13OG6VU7B/19d408d39ad1d4cca3332ac703474e1f7fc7aa01154e2ecc5c9c3914be9942f3",
+    "company": "THE HOUR GLASS LIMITED",
+    "security": "THE HOUR GLASS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "04 Nov 2026 12:04 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/46HMT2E13OG6VU7B/19d408d39ad1d4cca3332ac703474e1f7fc7aa01154e2ecc5c9c3914be9942f3",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Q69YYQ2IEAU3WUT6/5ca52c65f52652083e6095cad140809d41a9ad028853fa4e770d0c331a5f0ad5",
+    "company": "RESONA BANK, LIMITED",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Announcement Regarding Status of Acquisition of Treasury Shares",
+    "timestamp": "04 Nov 2026 12:01 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Q69YYQ2IEAU3WUT6/5ca52c65f52652083e6095cad140809d41a9ad028853fa4e770d0c331a5f0ad5",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/MW49JMJOJRQQF8TF/0f3b7cb7ea0ffd6aac2c591da0f2509a702c92da9e34696e21b9b25b53df0ace",
     "company": "RESOURCES GLOBAL DEVELOPMENT LIMITED",
     "security": "RESOURCES GLOBAL DEVEL LIMITED",
