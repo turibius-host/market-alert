@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DU7FO579SZBMP4A7/25226feb94bccb073357513a16828336096fe2b5d7b39292e6c10e8a55c7b5aa",
+    "company": "CAPITAL WORLD LIMITED.",
+    "security": "CAPITAL WORLD LIMITED.",
+    "category": "General Announcement",
+    "title": "General Announcement::Request for lifting of Trading Halt - Sponsor's Statement",
+    "timestamp": "05 Nov 2026 07:24 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DU7FO579SZBMP4A7/25226feb94bccb073357513a16828336096fe2b5d7b39292e6c10e8a55c7b5aa",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IK3IFTJONG187BCW/a38edf7f1fbfd8c903992b7ef548e4c02528da4a260644a245902a9b76bf558c",
+    "company": "CAPITAL WORLD LIMITED.",
+    "security": "CAPITAL WORLD LIMITED.",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "05 Nov 2026 07:20 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IK3IFTJONG187BCW/a38edf7f1fbfd8c903992b7ef548e4c02528da4a260644a245902a9b76bf558c",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/L4JG5EXDLPKBA25U/2e4e3271f200a5196bcae3d395f2e7dbba0c7da5e338f8acb7916a8a35b5f8ed",
+    "company": "MANULIFE FINANCIAL CORPORATION",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "05 Nov 2026 07:00 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/L4JG5EXDLPKBA25U/2e4e3271f200a5196bcae3d395f2e7dbba0c7da5e338f8acb7916a8a35b5f8ed",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/XUSTIRT4TJBMOZ9X/79a75d10c219cf9a8a49200a9f3ecfe1b7720aa4a0e88755e9546ea5d42e0539",
     "company": "PROLOGIS, L.P.",
     "security": "MULTIPLE",
