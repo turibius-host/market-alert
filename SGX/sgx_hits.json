@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0QGZR7CWJNFJB8YG/090a3416f523322b4a9fec476402aad132727ab9cff34f7308b6ef74e8cab075",
+    "company": "TORCHMARK CORPORATION",
+    "security": "TORCHMARKCUS$125M5.275%N571117",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "05 Nov 2026 07:53 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0QGZR7CWJNFJB8YG/090a3416f523322b4a9fec476402aad132727ab9cff34f7308b6ef74e8cab075",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/DU7FO579SZBMP4A7/25226feb94bccb073357513a16828336096fe2b5d7b39292e6c10e8a55c7b5aa",
     "company": "CAPITAL WORLD LIMITED.",
     "security": "CAPITAL WORLD LIMITED.",
