@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VS4TJ7XDEM0CNC9P/b804355b08e0b4b48428fe7003d61044f37433c58073b8d412cafc3607784219",
+    "company": "SAMUDERA SHIPPING LINE LTD",
+    "security": "SAMUDERA SHIPPING LINE LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::DISCLOSEABLE TRANSACTION - DISPOSAL OF TWO TANKERS",
+    "timestamp": "05 Nov 2026 06:45 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VS4TJ7XDEM0CNC9P/b804355b08e0b4b48428fe7003d61044f37433c58073b8d412cafc3607784219",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZURO9PSADMUKDSXK/c3bfc2adc6ef1951a7bf6b1f458cad422ab866cead732dd84f336884f0162969",
+    "company": "SUNMOON FOOD COMPANY LIMITED",
+    "security": "SUNMOON FOOD COMPANY LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "05 Nov 2026 06:06 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZURO9PSADMUKDSXK/c3bfc2adc6ef1951a7bf6b1f458cad422ab866cead732dd84f336884f0162969",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/RK213KXQPEXVHK7T/accdd3bfc545a2d37f584ffc3f4910e33cda423aa8ab288eb784f10e465fa09e",
     "company": "ASCENT BRIDGE LIMITED",
     "security": "ASCENT BRIDGE LIMITED",
