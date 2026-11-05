@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PZ42X4855MFVTEB4/50abef402ffd6cb2b9d7bc89d16fe36ee3b968a6d48dbf7f78f5493ed3368132",
+    "company": "FRASERS LOGISTICS & COMMERCIAL ASSET MANAGEMENT PTE. LTD.",
+    "security": "FRASERS LOGISTICS & COMMERCIAL TRUST",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement pursuant to Rule 706A of the SGX-ST Listing Manual",
+    "timestamp": "06 Nov 2026 07:19 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PZ42X4855MFVTEB4/50abef402ffd6cb2b9d7bc89d16fe36ee3b968a6d48dbf7f78f5493ed3368132",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CLPAQ03JGN12H2WN/871f92423b2944a4cee946167ab77c453ce39c0818108c7a08641fb31cad4281",
+    "company": "FRASERS LOGISTICS & COMMERCIAL ASSET MANAGEMENT PTE. LTD.",
+    "security": "FRASERS LOGISTICS & COMMERCIAL TRUST",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "06 Nov 2026 07:16 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CLPAQ03JGN12H2WN/871f92423b2944a4cee946167ab77c453ce39c0818108c7a08641fb31cad4281",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Z9Q4RQGXTEM2T9J0/fc37d1d09242f5ad3372e44293c73c000ad1af14f0b164980f9422e40b85542a",
+    "company": "ZHENENG JINJIANG ENVIRONMENT HOLDING COMPANY LIMITED",
+    "security": "ZHENENG JINJIANG ENV HLDG CO",
+    "category": "Other Scheme of Arrangement",
+    "title": "Other Scheme of Arrangement::Satisfaction of the SAMR Condition",
+    "timestamp": "06 Nov 2026 07:10 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Z9Q4RQGXTEM2T9J0/fc37d1d09242f5ad3372e44293c73c000ad1af14f0b164980f9422e40b85542a",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DNZAWM3TNETX1HQ0/f6f753af4013d3091bf4cd37f5a20a09d79b1d79811bcbedee9f90d5ce67d5f3",
+    "company": "SOFTBANK GROUP CORP.",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Update on Acquisition of ABB Ltds Robotics Business",
+    "timestamp": "06 Nov 2026 07:04 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DNZAWM3TNETX1HQ0/f6f753af4013d3091bf4cd37f5a20a09d79b1d79811bcbedee9f90d5ce67d5f3",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IFOHW51XDYEA2YOY/8ef16b321f369576c1b5d65d9ac1f820e0fcd64d8a6446a096bdab6ef46e9568",
+    "company": "SINGAPORE POST LIMITED",
+    "security": "SINGAPORE POST LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement Pursuant to Rule 706A of the Listing Manual",
+    "timestamp": "06 Nov 2026 07:00 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IFOHW51XDYEA2YOY/8ef16b321f369576c1b5d65d9ac1f820e0fcd64d8a6446a096bdab6ef46e9568",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/A9CW58STOPTDX0HG/50dad2d3f2e1374d94921a9cad3497846885577d0c43cf2e1fe14c8c7f4764a6",
+    "company": "OVERSEA-CHINESE BANKING CORPORATION LIMITED",
+    "security": "OVERSEA-CHINESE BANKING CORP",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "06 Nov 2026 06:59 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/A9CW58STOPTDX0HG/50dad2d3f2e1374d94921a9cad3497846885577d0c43cf2e1fe14c8c7f4764a6",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FTEPUT1WKPX0S0P2/42bacb2b81b8e74b00d5d7d36cb9a3c4b13c495bc5b9a354d629ab444f1216cd",
+    "company": "SINGAPORE POST LIMITED",
+    "security": "SINGAPORE POST LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "06 Nov 2026 06:58 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FTEPUT1WKPX0S0P2/42bacb2b81b8e74b00d5d7d36cb9a3c4b13c495bc5b9a354d629ab444f1216cd",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/QIOJH1DOF13HUYAU/8dffac97ed8ba401ab5b4cf392513342c2d87c3884e465ed07217ba6d3d139cc",
     "company": "AVEPOINT, INC.",
     "security": "AVEPOINT, INC.",
