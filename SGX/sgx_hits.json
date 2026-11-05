@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QIOJH1DOF13HUYAU/8dffac97ed8ba401ab5b4cf392513342c2d87c3884e465ed07217ba6d3d139cc",
+    "company": "AVEPOINT, INC.",
+    "security": "AVEPOINT, INC.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "06 Nov 2026 05:33 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QIOJH1DOF13HUYAU/8dffac97ed8ba401ab5b4cf392513342c2d87c3884e465ed07217ba6d3d139cc",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2AZTEJZ2LANLFYEL/1bf9205de5dd3e1af35679a17a7eed0b1acf1c47bae8af85d0ea1ca023526322",
+    "company": "AVEPOINT, INC.",
+    "security": "AVEPOINT, INC.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "06 Nov 2026 05:29 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2AZTEJZ2LANLFYEL/1bf9205de5dd3e1af35679a17a7eed0b1acf1c47bae8af85d0ea1ca023526322",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/E0YTBFNO4LZVYUNF/195197d8a7647d384ead9aa0892fc84db48fbb0ef15533cf7472477dcca8d890",
     "company": "UNITED STATES STEEL CORPORATION",
     "security": "MULTIPLE",
