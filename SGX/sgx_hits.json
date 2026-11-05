@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/E0YTBFNO4LZVYUNF/195197d8a7647d384ead9aa0892fc84db48fbb0ef15533cf7472477dcca8d890",
+    "company": "UNITED STATES STEEL CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "06 Nov 2026 12:38 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/E0YTBFNO4LZVYUNF/195197d8a7647d384ead9aa0892fc84db48fbb0ef15533cf7472477dcca8d890",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/7WJAV5CUH4P92TYB/2e7dbc9109d7723cc1ae09bc1db403a60e1a9cbb019fc8f449bbb09fc32c98ad",
     "company": "KOH BROTHERS GROUP LIMITED",
     "security": "",
