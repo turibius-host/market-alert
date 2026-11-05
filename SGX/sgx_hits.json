@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7WJAV5CUH4P92TYB/2e7dbc9109d7723cc1ae09bc1db403a60e1a9cbb019fc8f449bbb09fc32c98ad",
+    "company": "KOH BROTHERS GROUP LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Koh Brothers Eco Engineering:Update on Legal Proceedings - Notice of Discontinuance Against Director",
+    "timestamp": "05 Nov 2026 10:41 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7WJAV5CUH4P92TYB/2e7dbc9109d7723cc1ae09bc1db403a60e1a9cbb019fc8f449bbb09fc32c98ad",
+    "rules": [
+      "Major Contract / Litigation"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IFPO8XH74Z7VB8JV/a203500b749191a30ba1709ed4bedf7e547b266dca4f0f39a74f6bcfdb70a111",
+    "company": "KOH BROTHERS ECO ENGINEERING LIMITED",
+    "security": "KOH BROTHERS ECO ENGG LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Update on Legal Proceedings - Notice of Discontinuance Against Director",
+    "timestamp": "05 Nov 2026 10:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IFPO8XH74Z7VB8JV/a203500b749191a30ba1709ed4bedf7e547b266dca4f0f39a74f6bcfdb70a111",
+    "rules": [
+      "Major Contract / Litigation"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SBQIJYSZC0DTNBJ4/d44ff4e5b6a2a18e9ffd1e56a8b63beaca04bdd284d11509ae93d3ec298db56e",
+    "company": "THE SOUTHERN COMPANY",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "05 Nov 2026 09:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SBQIJYSZC0DTNBJ4/d44ff4e5b6a2a18e9ffd1e56a8b63beaca04bdd284d11509ae93d3ec298db56e",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/W6SCCRJPI7UKNUNU/2c19ddd5c71089886bd0ea713047e0d10778431577d3892bd8d22b2b2d5001e1",
     "company": "TOTM TECHNOLOGIES LIMITED",
     "security": "TOTM TECHNOLOGIES LIMITED",
