@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/6G5XFQC9CYH51KUF/7547cfa26d2e7ea568526c00ccab056c504d6c19dfe49c700a9ac1b6b6c80414",
+    "company": "NIPPON STEEL CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "05 Nov 2026 02:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/6G5XFQC9CYH51KUF/7547cfa26d2e7ea568526c00ccab056c504d6c19dfe49c700a9ac1b6b6c80414",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/K0O5M4H32D9O60IE/efeb42cd1e7397a61bc4128e0d859179041645df53e8aee7da151a03c88ed0a2",
+    "company": "SG ISSUER",
+    "security": "AEM 3XLONGSOCGEN 290402",
+    "category": "Request for Resumption of Trading from Suspension",
+    "title": "Request for Resumption of Trading from Suspension::Mandatory",
+    "timestamp": "05 Nov 2026 02:42 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/K0O5M4H32D9O60IE/efeb42cd1e7397a61bc4128e0d859179041645df53e8aee7da151a03c88ed0a2",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Z1C38MVB5XXNGLU8/dd6af37586e060becd349518a01be2b7e535973152e30f442037f7bf44687ea4",
+    "company": "TAIYO YUDEN CO., LTD",
+    "security": "TAIYO YUDEN JPY50B Z301018",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "05 Nov 2026 02:34 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Z1C38MVB5XXNGLU8/dd6af37586e060becd349518a01be2b7e535973152e30f442037f7bf44687ea4",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1F2J2G49ZUQ9YQIN/670b42cc3f0954b86123723ed97577ab943804fe7a8cc89013674b7655662fa1",
+    "company": "RELIANCE INDUSTRIES LIMITED",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement:: Announcement under Regulation 30 (LODR)-Credit Rating",
+    "timestamp": "05 Nov 2026 02:25 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1F2J2G49ZUQ9YQIN/670b42cc3f0954b86123723ed97577ab943804fe7a8cc89013674b7655662fa1",
+    "rules": [
+      "Credit Rating / Going Concern / Audit Qualification"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/0QGZR7CWJNFJB8YG/090a3416f523322b4a9fec476402aad132727ab9cff34f7308b6ef74e8cab075",
     "company": "TORCHMARK CORPORATION",
     "security": "TORCHMARKCUS$125M5.275%N571117",
