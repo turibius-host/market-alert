@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/RK213KXQPEXVHK7T/accdd3bfc545a2d37f584ffc3f4910e33cda423aa8ab288eb784f10e465fa09e",
+    "company": "ASCENT BRIDGE LIMITED",
+    "security": "ASCENT BRIDGE LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "05 Nov 2026 06:01 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/RK213KXQPEXVHK7T/accdd3bfc545a2d37f584ffc3f4910e33cda423aa8ab288eb784f10e465fa09e",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4TMRD34AJ8SFYPUM/e35f4dced0faaaef3a57e0714cb80b98dbd517a10d76a93f21fd0f643a1d71b5",
+    "company": "WORLD PRECISION MACHINERY LIMITED",
+    "security": "WORLD PRECISION MACHINERY LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "05 Nov 2026 05:40 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4TMRD34AJ8SFYPUM/e35f4dced0faaaef3a57e0714cb80b98dbd517a10d76a93f21fd0f643a1d71b5",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/6G5XFQC9CYH51KUF/7547cfa26d2e7ea568526c00ccab056c504d6c19dfe49c700a9ac1b6b6c80414",
     "company": "NIPPON STEEL CORPORATION",
     "security": "MULTIPLE",
