@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YBP3L437T5EELF9X/4d0515683ab2c7228ef9b56b984e589406f6d98fcd948d1afc5520c78f369aca",
+    "company": "PT FREEPORT INDONESIA",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "07 Nov 2026 06:39 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YBP3L437T5EELF9X/4d0515683ab2c7228ef9b56b984e589406f6d98fcd948d1afc5520c78f369aca",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/G1VJIXBNQZEO38K3/6262efc86414608e8a091d5a0c4534dafe6901a133c077fa32c234e0d3988c39",
     "company": "AUTAGCO LTD.",
     "security": "AUTAGCO LTD",
