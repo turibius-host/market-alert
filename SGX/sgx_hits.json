@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/78YWIBW9OZKEMLP2/c724e0e8942bc62f3b8219973bde5eeb0c8e60f929a8f1707106b57feaa7f173",
+    "company": "ADVANCED SYSTEMS AUTOMATION LIMITED",
+    "security": "ADVANCEDSYSTEMS AUTOMATION",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "06 Nov 2026 04:09 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/78YWIBW9OZKEMLP2/c724e0e8942bc62f3b8219973bde5eeb0c8e60f929a8f1707106b57feaa7f173",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/NMQRQ8GLF1R0B3E2/0f1556e48ed4b9ee3b4e253ad8c18ddfdd2f27a82fc078733b414e6630e23653",
+    "company": "JFE HOLDINGS, INC.",
+    "security": "JFE HOLDINGS JPY90B Z280928",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "06 Nov 2026 03:28 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/NMQRQ8GLF1R0B3E2/0f1556e48ed4b9ee3b4e253ad8c18ddfdd2f27a82fc078733b414e6630e23653",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/KH4216Q1L53WHST4/ed40144e806d5749faa8f174dc15cbf45567e1ece032dc33b15da8af60d6e3cf",
     "company": "KANSAI PAINT CO.,LTD.",
     "security": "MULTIPLE",
