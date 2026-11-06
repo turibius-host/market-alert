@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7JY4DLRPWHT2YXTR/e32e7b2a9ffb6a0a384630a9912063d3fc3e6edaeea40230a9022a2041919e9e",
+    "company": "H2G GREEN LIMITED",
+    "security": "H2G GREEN LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::SIGNING OF NON-BINDING MOU",
+    "timestamp": "06 Nov 2026 12:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7JY4DLRPWHT2YXTR/e32e7b2a9ffb6a0a384630a9912063d3fc3e6edaeea40230a9022a2041919e9e",
+    "rules": [
+      "MOU / Strategic Investment / Partnership"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XSTSSDL5RPVYQLZR/5642d89be298f4931a3ce7754f7b25630c4a7958ec5a487f66380de20b14a2fc",
+    "company": "PANASONIC HOLDINGS CORPORATION",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "06 Nov 2026 12:03 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XSTSSDL5RPVYQLZR/5642d89be298f4931a3ce7754f7b25630c4a7958ec5a487f66380de20b14a2fc",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/MEUISH93276UDZ82/1df00412e3b62f496e6eea65187e26ecc16ff28a248d763672da8cbb5d05d213",
     "company": "AUTAGCO LTD.",
     "security": "AUTAGCO LTD",
