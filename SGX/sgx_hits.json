@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ADVSE3NGRB433YVF/05dea1bfdcf7b8be48d4d23df4b453ed17cb77ff052dd94dd5898cfdb3c7f33f",
+    "company": "VALUEMAX GROUP LIMITED",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::WELL CHIP GROUP BERHAD CLOSE OF ACCEPTANCE OF RENOUNCEABLE RIGHTS ISSUE",
+    "timestamp": "06 Nov 2026 06:16 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ADVSE3NGRB433YVF/05dea1bfdcf7b8be48d4d23df4b453ed17cb77ff052dd94dd5898cfdb3c7f33f",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YHX1DS875KR20UFM/321c8cafa44e8b79cecae41ee642f3b1f2367c25b0a09670973517504a37b649",
+    "company": "CHINA SUNSINE CHEMICAL HOLDINGS LTD.",
+    "security": "CHINA SUNSINE CHEM HLDGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "06 Nov 2026 06:16 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YHX1DS875KR20UFM/321c8cafa44e8b79cecae41ee642f3b1f2367c25b0a09670973517504a37b649",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AG2FUPJ3T9K5NGR7/4d71a31c767582b0e84cc8a005d3c3d177205b593839fae608b42085135060df",
+    "company": "RESOURCES GLOBAL DEVELOPMENT LIMITED",
+    "security": "RESOURCES GLOBAL DEVEL LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Request for Lifting of Trading Halt - Sponsor's Statement",
+    "timestamp": "06 Nov 2026 06:14 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AG2FUPJ3T9K5NGR7/4d71a31c767582b0e84cc8a005d3c3d177205b593839fae608b42085135060df",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/ACMN0ESGE1LHBS0Y/9dd007f90abbdcca0588fab5a8b1f25994452ecb02e4c19dfc04c1f4868f2386",
     "company": "GTL INFRASTRUCTURE LIMITED",
     "security": "GTLINB2US$86.417M6.731%B221026",
