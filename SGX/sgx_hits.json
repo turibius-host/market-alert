@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LMLOXFHGWCZRD26J/903dfe32c1b0b380990c7c2112349d67d218fad46834c372eff1e91293fa2469",
+    "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
+    "security": "SINGAPORE INST OF ADV MED LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::First Quarter Results",
+    "timestamp": "08 Nov 2026 09:04 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LMLOXFHGWCZRD26J/903dfe32c1b0b380990c7c2112349d67d218fad46834c372eff1e91293fa2469",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/YBP3L437T5EELF9X/4d0515683ab2c7228ef9b56b984e589406f6d98fcd948d1afc5520c78f369aca",
     "company": "PT FREEPORT INDONESIA",
     "security": "",
