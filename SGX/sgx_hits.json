@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WGYZ53IF5Q90PMHJ/b0e89e21263dc2bf3395a9e151116d698c872e22aa1f00e59abda66710d155ba",
+    "company": "SHIMIZU CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "09 Nov 2026 01:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WGYZ53IF5Q90PMHJ/b0e89e21263dc2bf3395a9e151116d698c872e22aa1f00e59abda66710d155ba",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GIY8FMGDEP3CDS88/9d8f24a7dae5ca498fef8511a9de55a5865362cdd7e209a2d3eaa57ffb36aaaa",
+    "company": "KUBOTA CREDIT CORPORATION, U.S.A.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "09 Nov 2026 01:14 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GIY8FMGDEP3CDS88/9d8f24a7dae5ca498fef8511a9de55a5865362cdd7e209a2d3eaa57ffb36aaaa",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/LMLOXFHGWCZRD26J/903dfe32c1b0b380990c7c2112349d67d218fad46834c372eff1e91293fa2469",
     "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
     "security": "SINGAPORE INST OF ADV MED LTD.",
