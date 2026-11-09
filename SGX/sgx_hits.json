@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/M2G57RH9GJ9N6H6G/5f19aa20eba4c4d2de9f0622416e8436e325620850797f75620980abd63316d8",
+    "company": "THE CHIBA BANK, LTD.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "09 Nov 2026 03:56 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/M2G57RH9GJ9N6H6G/5f19aa20eba4c4d2de9f0622416e8436e325620850797f75620980abd63316d8",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MOWOEH787ZOY0EEA/41477bcf8cbe42dbc399edf75afa55472bf63a4110d177f6124a6cab7aa56657",
+    "company": "SOFTBANK CORP.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "09 Nov 2026 03:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MOWOEH787ZOY0EEA/41477bcf8cbe42dbc399edf75afa55472bf63a4110d177f6124a6cab7aa56657",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/WGYZ53IF5Q90PMHJ/b0e89e21263dc2bf3395a9e151116d698c872e22aa1f00e59abda66710d155ba",
     "company": "SHIMIZU CORPORATION",
     "security": "MULTIPLE",
