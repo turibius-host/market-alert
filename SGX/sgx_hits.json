@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AMOTZ1KYX6BYOVW3/8ae20dacb00d06212ab3be2f9fa074b17a78f43a3a8fcea74b32d474fd9efd58",
+    "company": "KAWASAKI HEAVY INDUSTRIES, LTD.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "10 Nov 2026 10:37 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AMOTZ1KYX6BYOVW3/8ae20dacb00d06212ab3be2f9fa074b17a78f43a3a8fcea74b32d474fd9efd58",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/M2G57RH9GJ9N6H6G/5f19aa20eba4c4d2de9f0622416e8436e325620850797f75620980abd63316d8",
     "company": "THE CHIBA BANK, LTD.",
     "security": "",
