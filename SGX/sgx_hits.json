@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UGU6BIB0ODLH7T7H/0e2a8a07d01aa5123487f3355deff4f17e1de1697c0af9dcbd9740326f690ed9",
+    "company": "AJJ MEDTECH HOLDINGS LIMITED",
+    "security": "AJJ MEDTECH HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "10 Nov 2026 11:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UGU6BIB0ODLH7T7H/0e2a8a07d01aa5123487f3355deff4f17e1de1697c0af9dcbd9740326f690ed9",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/75ORKKRN9KT4N85G/9934e94bd57bfb622379cf4d4dc865a6649d39c818c6313a79358fc97f7b261a",
     "company": "AMBIQ MICRO, INC.",
     "security": "AMBIQ MICRO, INC.",
