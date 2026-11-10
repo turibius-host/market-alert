@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZQE33NMZ7KFK2YPE/a7adea00983db74b1cff16d3134f8b5fd13520bd33b2e8db5c48be2251edec46",
+    "company": "KEPPEL INFRASTRUCTURE FUND MANAGEMENT PTE LTD",
+    "security": "KEPPEL INFRA TRUST WEF 2015",
+    "category": "Interested Person Transaction",
+    "title": "Interested Person Transaction::The Proposed Acquisition of a 70% Interest in Keppel Sakra Cogen Pte. Ltd. as an IPT",
+    "timestamp": "11 Nov 2026 06:09 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZQE33NMZ7KFK2YPE/a7adea00983db74b1cff16d3134f8b5fd13520bd33b2e8db5c48be2251edec46",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/5VDMW2EAYENMEE5N/959f70f625c1003c11b252de6f633659f5d597bac62dc5203182b625742bea9e",
+    "company": "FLIGHT CENTRE TRAVEL GROUP LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::FLT - Chair and MD AGM speeches including trading update and guidance",
+    "timestamp": "11 Nov 2026 05:56 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/5VDMW2EAYENMEE5N/959f70f625c1003c11b252de6f633659f5d597bac62dc5203182b625742bea9e",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8THRGU3D4AZB39AB/07689873ea1ce5da8bbebaa4d1d0fa6837090dfe6fa29f58bca75f400df85403",
+    "company": "FLIGHT CENTRE TRAVEL GROUP LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::FLT - AGM Presentation including trading update and guidance",
+    "timestamp": "11 Nov 2026 05:53 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8THRGU3D4AZB39AB/07689873ea1ce5da8bbebaa4d1d0fa6837090dfe6fa29f58bca75f400df85403",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/9T0VIY8ZSE3KT9SS/958b8b4fe4d863a4e47197385fa3cf7e77146cc4ff44683a52ab3081c42c05b5",
     "company": "AMBIQ MICRO, INC.",
     "security": "AMBIQ MICRO, INC.",
