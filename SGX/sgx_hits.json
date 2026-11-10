@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8AQ8X6V6GWY199VN/911a74ac0e59eb4ad557f25d9c7d0654df6e98cf596179012f41fee96118251f",
+    "company": "SOFTBANK GROUP CORP.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "10 Nov 2026 02:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8AQ8X6V6GWY199VN/911a74ac0e59eb4ad557f25d9c7d0654df6e98cf596179012f41fee96118251f",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KLB2H56USCQ8C2JT/fd9d07f703c6af7f1d4a0d34559ef49ff55c700a383c02c66a9c7cc57f356eb2",
+    "company": "TOKYU CORPORATION",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "10 Nov 2026 02:50 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KLB2H56USCQ8C2JT/fd9d07f703c6af7f1d4a0d34559ef49ff55c700a383c02c66a9c7cc57f356eb2",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FA120TS6IFJRG78G/643144cc81b6bb55ca400ebec1fe5690989d81940777c58e26d12a4a35f7f697",
+    "company": "TOKYU CORPORATION",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "10 Nov 2026 02:39 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FA120TS6IFJRG78G/643144cc81b6bb55ca400ebec1fe5690989d81940777c58e26d12a4a35f7f697",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8ORDQDMYF9SAEGZF/2e3f0cf309a94dfb34f9f2d8effa55aa84fd3f64e4fd604cb18bc0fb9ac7cbb1",
+    "company": "HONDA MOTOR CO., LTD.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "10 Nov 2026 02:30 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8ORDQDMYF9SAEGZF/2e3f0cf309a94dfb34f9f2d8effa55aa84fd3f64e4fd604cb18bc0fb9ac7cbb1",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/9R0B8UTPWM7FP4X2/77f3b5e3e8ad1c7a0ea3c1adfdcc38f7d5db54ea3eef5067550f24e5fe023d5a",
     "company": "KOBE STEEL, LTD.",
     "security": "MULTIPLE",
