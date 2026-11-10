@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WIS1Z312JWPNT4DZ/7b70f349f025ea53b2db912c644e46b0c458ffbf2215f410e8a5bd3955834d23",
+    "company": "BACUI TECHNOLOGIES INTERNATIONAL LTD.",
+    "security": "BACUI TECHNOLOGIES INTL LTD.",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "11 Nov 2026 07:32 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WIS1Z312JWPNT4DZ/7b70f349f025ea53b2db912c644e46b0c458ffbf2215f410e8a5bd3955834d23",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/58LV5QP8XPV7AFOA/526f57a517c4dd3211a72771412c0627d32d431c2063616ace0eadc7a4320e9b",
+    "company": "OTP BANK NYRT.",
+    "security": "OTP BANK EUR1B4.625%N361224",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "11 Nov 2026 07:23 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/58LV5QP8XPV7AFOA/526f57a517c4dd3211a72771412c0627d32d431c2063616ace0eadc7a4320e9b",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QNAI5NE6H2S8LTIV/6c9fe9d6dc03b8cfa8c3aafff2fb4ad611076955f3e7c6ee35afe8f2883e8064",
+    "company": "VALUETRONICS HOLDINGS LIMITED",
+    "security": "VALUETRONICS HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 06:46 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QNAI5NE6H2S8LTIV/6c9fe9d6dc03b8cfa8c3aafff2fb4ad611076955f3e7c6ee35afe8f2883e8064",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JRV175AUW3482A91/07a4ad614ff56d9929681980d007961f04f7fe602223653e98497f285d90eda9",
+    "company": "VALUETRONICS HOLDINGS LIMITED",
+    "security": "VALUETRONICS HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 06:45 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JRV175AUW3482A91/07a4ad614ff56d9929681980d007961f04f7fe602223653e98497f285d90eda9",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OHRIMFHN863P6JF1/15f10faaa8305f2ca40bd93487ad874811483329c98116b677e2e7dfeb375bdf",
+    "company": "VALUETRONICS HOLDINGS LIMITED",
+    "security": "VALUETRONICS HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 06:44 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OHRIMFHN863P6JF1/15f10faaa8305f2ca40bd93487ad874811483329c98116b677e2e7dfeb375bdf",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZQE33NMZ7KFK2YPE/a7adea00983db74b1cff16d3134f8b5fd13520bd33b2e8db5c48be2251edec46",
     "company": "KEPPEL INFRASTRUCTURE FUND MANAGEMENT PTE LTD",
     "security": "KEPPEL INFRA TRUST WEF 2015",
