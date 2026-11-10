@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/79G52SMJ7BXBPLF5/f522052a5732c52a1fc4acd037f99d1aac5ba7ff406dfa6be7b1a38816713156",
+    "company": "GLOBAL TESTING CORPORATION LIMITED",
+    "security": "GLOBAL TESTING CORPORATION LTD",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "10 Nov 2026 05:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/79G52SMJ7BXBPLF5/f522052a5732c52a1fc4acd037f99d1aac5ba7ff406dfa6be7b1a38816713156",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YDE0UQMPCVZ2ECKZ/2fd6c18acbd5fd8f5891e06dcb7d63bacf1d4744a4918eebd1f6458856a9f0c7",
+    "company": "GLOBAL TESTING CORPORATION LIMITED",
+    "security": "GLOBAL TESTING CORPORATION LTD",
+    "category": "Other Scheme of Arrangement",
+    "title": "Other Scheme of Arrangement::Joint Announcement - Proposed Privatisation by way of a Scheme of Arrangement",
+    "timestamp": "10 Nov 2026 05:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YDE0UQMPCVZ2ECKZ/2fd6c18acbd5fd8f5891e06dcb7d63bacf1d4744a4918eebd1f6458856a9f0c7",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/65Z3OYT5UZGKBHB1/93cd3b5d09b609adbe07f536e2946bf3acf03cecfb2c872bf42c0dc5e41ea10d",
+    "company": "VICOM LTD",
+    "security": "VICOM LTD.",
+    "category": "General Announcement",
+    "title": "General Announcement::3Q2026 Business Update",
+    "timestamp": "10 Nov 2026 05:31 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/65Z3OYT5UZGKBHB1/93cd3b5d09b609adbe07f536e2946bf3acf03cecfb2c872bf42c0dc5e41ea10d",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ASHZZ1HWGOES20QC/6deef5ba06a40fe4b62aeae65fc37d3a66dbcc1e28ccc8bd89100356f493322d",
+    "company": "OXPAY FINANCIAL LIMITED",
+    "security": "OXPAY FINANCIAL LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "10 Nov 2026 05:30 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ASHZZ1HWGOES20QC/6deef5ba06a40fe4b62aeae65fc37d3a66dbcc1e28ccc8bd89100356f493322d",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GAQO1DJJBR8Q1DXI/4c94a9dd64690d68c85bd6f36c1a675ca36542bfdd51fa6eb5dabaea2dd09cee",
+    "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
+    "security": "SINGAPORE INST OF ADV MED LTD.",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "10 Nov 2026 05:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GAQO1DJJBR8Q1DXI/4c94a9dd64690d68c85bd6f36c1a675ca36542bfdd51fa6eb5dabaea2dd09cee",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/U45N88U8C2NADXZ2/d7e437970a449db00d51033bb396f727278a9b0e4e9e73a4d8443e2dfd5b54c5",
     "company": "EMPERADOR INC.",
     "security": "EMPERADOR INC.",
