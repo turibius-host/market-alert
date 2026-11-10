@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JWMISC7U6WR7ACVL/22f57eab2f89667716cb2b18448788d180ef24de04575e73d865c86757d97f4a",
+    "company": "EC WORLD ASSET MANAGEMENT PTE LTD",
+    "security": "EC WORLD REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::Legal Proceedings in relation to Mortgages and Guarantees in favour of Fuyang Financial Institutions",
+    "timestamp": "10 Nov 2026 07:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JWMISC7U6WR7ACVL/22f57eab2f89667716cb2b18448788d180ef24de04575e73d865c86757d97f4a",
+    "rules": [
+      "Major Contract / Litigation"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VVJU4Q59SDET8XBP/bb85dfa2bdc8e307b2a5d3e82fae7cac08e0e5919d4a3d1466fa56901c7d3dc9",
+    "company": "SRI TRANG AGRO-INDUSTRY PCL",
+    "security": "SRI TRANG AGRO-INDUSTRY PCL",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "10 Nov 2026 07:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VVJU4Q59SDET8XBP/bb85dfa2bdc8e307b2a5d3e82fae7cac08e0e5919d4a3d1466fa56901c7d3dc9",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LMZ61LR8KZ2DKGPA/bf29facd6be32b2a1dbc7f0c5da7aacd8e014144be7e200dbecfca3cd2c0cb61",
+    "company": "ADDVALUE TECHNOLOGIES LTD",
+    "security": "ADDVALUE TECHNOLOGIES LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "10 Nov 2026 06:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LMZ61LR8KZ2DKGPA/bf29facd6be32b2a1dbc7f0c5da7aacd8e014144be7e200dbecfca3cd2c0cb61",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/04VQ53HXDZQ3OL9X/540e1bd657b0b70527f11ac2727830c1f32ee25d3629e18c34a11f37da9c530d",
     "company": "SRI TRANG GLOVES (THAILAND) PUBLIC COMPANY LIMITED",
     "security": "SRI TRANG GLOVES (THAILAND)PCL",
