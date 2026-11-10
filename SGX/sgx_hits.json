@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9R0B8UTPWM7FP4X2/77f3b5e3e8ad1c7a0ea3c1adfdcc38f7d5db54ea3eef5067550f24e5fe023d5a",
+    "company": "KOBE STEEL, LTD.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "10 Nov 2026 12:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9R0B8UTPWM7FP4X2/77f3b5e3e8ad1c7a0ea3c1adfdcc38f7d5db54ea3eef5067550f24e5fe023d5a",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/AMOTZ1KYX6BYOVW3/8ae20dacb00d06212ab3be2f9fa074b17a78f43a3a8fcea74b32d474fd9efd58",
     "company": "KAWASAKI HEAVY INDUSTRIES, LTD.",
     "security": "MULTIPLE",
