@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/75ORKKRN9KT4N85G/9934e94bd57bfb622379cf4d4dc865a6649d39c818c6313a79358fc97f7b261a",
+    "company": "AMBIQ MICRO, INC.",
+    "security": "AMBIQ MICRO, INC.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "10 Nov 2026 08:44 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/75ORKKRN9KT4N85G/9934e94bd57bfb622379cf4d4dc865a6649d39c818c6313a79358fc97f7b261a",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FABRCJWVAL4JHHGC/6df0e0e565db5a83fba50af7698f525141c618d6f4c17df99816603398408333",
+    "company": "OUE HEALTHCARE LIMITED",
+    "security": "OUE HEALTHCARE LIMITED",
+    "category": "Other Scheme of Arrangement",
+    "title": "Other Scheme of Arrangement::Notice of Court Hearing Date to Sanction the Scheme",
+    "timestamp": "10 Nov 2026 08:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FABRCJWVAL4JHHGC/6df0e0e565db5a83fba50af7698f525141c618d6f4c17df99816603398408333",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/69DBEGFH55HSJVFP/133c77ff74c8f88cadbfa7b3efeb77ebab2160ce03ada6b9a1e20801b760051d",
+    "company": "ENECO ENERGY LIMITED",
+    "security": "ENECO ENERGY LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Eneco to Establish S$5 Million Share Buy-back Programme Following Shareholders' Approval at AGM",
+    "timestamp": "10 Nov 2026 08:13 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/69DBEGFH55HSJVFP/133c77ff74c8f88cadbfa7b3efeb77ebab2160ce03ada6b9a1e20801b760051d",
+    "rules": [
+      "Share Buyback"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/JWMISC7U6WR7ACVL/22f57eab2f89667716cb2b18448788d180ef24de04575e73d865c86757d97f4a",
     "company": "EC WORLD ASSET MANAGEMENT PTE LTD",
     "security": "EC WORLD REIT",
