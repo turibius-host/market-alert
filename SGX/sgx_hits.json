@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/04VQ53HXDZQ3OL9X/540e1bd657b0b70527f11ac2727830c1f32ee25d3629e18c34a11f37da9c530d",
+    "company": "SRI TRANG GLOVES (THAILAND) PUBLIC COMPANY LIMITED",
+    "security": "SRI TRANG GLOVES (THAILAND)PCL",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "10 Nov 2026 06:35 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/04VQ53HXDZQ3OL9X/540e1bd657b0b70527f11ac2727830c1f32ee25d3629e18c34a11f37da9c530d",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ULZPM1UUWYJ69SNN/8f89319a8d0613b97ba8825600cc547f818f04a0077e521e8d0f3db8e18d611f",
+    "company": "UMS INTEGRATION LIMITED",
+    "security": "UMS INTEGRATION LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for the Third Quarter Ended 30 September 2026",
+    "timestamp": "10 Nov 2026 06:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ULZPM1UUWYJ69SNN/8f89319a8d0613b97ba8825600cc547f818f04a0077e521e8d0f3db8e18d611f",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OA95WEZEWACI5EQF/5e564bbbfd4c54213403d4ee65a3e0ca19a35bbb82ef1963d7426c155e673776",
+    "company": "LIVINGSTONE HEALTH HOLDINGS LIMITED",
+    "security": "LIVINGSTONE HEALTH HLDGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "10 Nov 2026 06:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OA95WEZEWACI5EQF/5e564bbbfd4c54213403d4ee65a3e0ca19a35bbb82ef1963d7426c155e673776",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/79G52SMJ7BXBPLF5/f522052a5732c52a1fc4acd037f99d1aac5ba7ff406dfa6be7b1a38816713156",
     "company": "GLOBAL TESTING CORPORATION LIMITED",
     "security": "GLOBAL TESTING CORPORATION LTD",
