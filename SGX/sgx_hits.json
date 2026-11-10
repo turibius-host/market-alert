@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/U45N88U8C2NADXZ2/d7e437970a449db00d51033bb396f727278a9b0e4e9e73a4d8443e2dfd5b54c5",
+    "company": "EMPERADOR INC.",
+    "security": "EMPERADOR INC.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "10 Nov 2026 04:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/U45N88U8C2NADXZ2/d7e437970a449db00d51033bb396f727278a9b0e4e9e73a4d8443e2dfd5b54c5",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/8AQ8X6V6GWY199VN/911a74ac0e59eb4ad557f25d9c7d0654df6e98cf596179012f41fee96118251f",
     "company": "SOFTBANK GROUP CORP.",
     "security": "",
