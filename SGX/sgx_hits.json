@@ -1,5 +1,65 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZAV4U4DCH3UKKMBI/4be6ac2460955eb7465a9bc4d9415a6f54a5dcb7a2ef6a13dc9b0827e9c2fd27",
+    "company": "9R LIMITED",
+    "security": "9R LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 06:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZAV4U4DCH3UKKMBI/4be6ac2460955eb7465a9bc4d9415a6f54a5dcb7a2ef6a13dc9b0827e9c2fd27",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EPBKMUBP2IOMZYNS/ffb31e98473ad6012c0722a6b8bdfb56004255fb6d0992ac10f5bf6def9b1d45",
+    "company": "OIO HOLDINGS LIMITED",
+    "security": "OIO HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "11 Nov 2026 06:45 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EPBKMUBP2IOMZYNS/ffb31e98473ad6012c0722a6b8bdfb56004255fb6d0992ac10f5bf6def9b1d45",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QOYFGRA0SZRQ6HQW/f18dafc54de470acf26c528f172431bd912733d629e021291bd9783347391ef5",
+    "company": "H2G GREEN LIMITED",
+    "security": "H2G GREEN LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "11 Nov 2026 06:33 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QOYFGRA0SZRQ6HQW/f18dafc54de470acf26c528f172431bd912733d629e021291bd9783347391ef5",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CC2U30XLCMZU999M/aff4b095153447dcd3eb2efdda163e820a34ff7e35bde422b01a471595cf56ef",
+    "company": "WORLD PRECISION MACHINERY LIMITED",
+    "security": "WORLD PRECISION MACHINERY LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "11 Nov 2026 06:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CC2U30XLCMZU999M/aff4b095153447dcd3eb2efdda163e820a34ff7e35bde422b01a471595cf56ef",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MFGJK6R44URXZFJ6/301c581560daff876c7d9cc70f6c9860fb2cb2f8fa1c9dd39a26a78e207c2f43",
+    "company": "IWOW TECHNOLOGY LIMITED",
+    "security": "IWOW TECHNOLOGY LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 06:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MFGJK6R44URXZFJ6/301c581560daff876c7d9cc70f6c9860fb2cb2f8fa1c9dd39a26a78e207c2f43",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/S4K3MJ830G1IGAO3/58a79497c541f9db23c48c0d09a460612f92643b4284a5c9a5c1ac9e1772c55c",
     "company": "MSM INTERNATIONAL LIMITED",
     "security": "MSM INTERNATIONAL LTD",
