@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/S4K3MJ830G1IGAO3/58a79497c541f9db23c48c0d09a460612f92643b4284a5c9a5c1ac9e1772c55c",
+    "company": "MSM INTERNATIONAL LIMITED",
+    "security": "MSM INTERNATIONAL LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 05:51 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/S4K3MJ830G1IGAO3/58a79497c541f9db23c48c0d09a460612f92643b4284a5c9a5c1ac9e1772c55c",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Z3KLIBB62D5OPYFS/7d92e45160319432f2faf8052cc5143173cefff0676d65944b67e171fbb68596",
+    "company": "SINGAPORE AIRLINES LIMITED",
+    "security": "MULTIPLE",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement Pursuant to Rule 706A of the SGX-ST Listing Manual",
+    "timestamp": "11 Nov 2026 05:44 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Z3KLIBB62D5OPYFS/7d92e45160319432f2faf8052cc5143173cefff0676d65944b67e171fbb68596",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/T9GQ2ARTDWJFK4RT/dbd34a27b7f1d17b96c3edd8a786eff4bb852df7006e6a943d8b691fe16634b9",
+    "company": "CAPTII LIMITED",
+    "security": "CAPTII LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "11 Nov 2026 05:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/T9GQ2ARTDWJFK4RT/dbd34a27b7f1d17b96c3edd8a786eff4bb852df7006e6a943d8b691fe16634b9",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/UXNYFW45665EOEBG/e261d8402938dd5fb43cf74323402f8a194a14d4644b6eefe045531c6307d6a4",
     "company": "DAIWA HOUSE INDUSTRY CO., LTD.",
     "security": "MULTIPLE",
