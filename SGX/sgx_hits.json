@@ -1,5 +1,53 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VT06OVU6ROIC617I/20ddb41e50c8d0f3740badf59e2904dfa0c59e4f7f19c53454386a37de654324",
+    "company": "NEW WAVE HOLDINGS LTD.",
+    "security": "NEW WAVE HOLDINGS LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 07:43 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VT06OVU6ROIC617I/20ddb41e50c8d0f3740badf59e2904dfa0c59e4f7f19c53454386a37de654324",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VXVZRRYOFQE2HJWH/60c0949e96411713e7c06a958f0adbcb00513ace0a12023c7a577172cf7065c4",
+    "company": "CENTURION CORPORATION LIMITED",
+    "security": "CENTURION CORPORATION LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Presentation Slides - 3Q 2026 Business Updates",
+    "timestamp": "11 Nov 2026 07:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VXVZRRYOFQE2HJWH/60c0949e96411713e7c06a958f0adbcb00513ace0a12023c7a577172cf7065c4",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SKDZPT02QLFP16NK/abe7642bd7eb9eb95155555d176281d655c8de3342e2fdbcfea3d7974228c2c2",
+    "company": "ASIATIC GROUP (HOLDINGS) LIMITED",
+    "security": "ASIATIC GROUP (HOLDINGS) LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::PROPOSED DISPOSAL OF 49% EQUITY INTEREST IN COLBEN ENERGY (CAMBODIA) PPSEZ LIMITED - COMPLETION",
+    "timestamp": "11 Nov 2026 07:32 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SKDZPT02QLFP16NK/abe7642bd7eb9eb95155555d176281d655c8de3342e2fdbcfea3d7974228c2c2",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SQ9DITLST8NNM1YD/c85539e6e449b63be4bb8ad7c65abfbede5583be4841a123cf4f1b703e9cd233",
+    "company": "9R LIMITED",
+    "security": "9R LIMITED",
+    "category": "Financial Statements",
+    "title": "REPL::Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 07:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SQ9DITLST8NNM1YD/c85539e6e449b63be4bb8ad7c65abfbede5583be4841a123cf4f1b703e9cd233",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZAV4U4DCH3UKKMBI/4be6ac2460955eb7465a9bc4d9415a6f54a5dcb7a2ef6a13dc9b0827e9c2fd27",
     "company": "9R LIMITED",
     "security": "9R LIMITED",
