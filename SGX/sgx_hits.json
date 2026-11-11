@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/B09WJ4R65PE4U8PZ/09977e98675dc960e99e2ee4a59052c3779b01d6fae0acee50cab42f7bcb6e4c",
+    "company": "INFRONEER HOLDINGS INC.",
+    "security": "INFRONEER HLDGS JPY60B Z290330",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "11 Nov 2026 10:45 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/B09WJ4R65PE4U8PZ/09977e98675dc960e99e2ee4a59052c3779b01d6fae0acee50cab42f7bcb6e4c",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QO91UB3YBP4ZLF4S/42f449cb18b6950e5a05bbc69494ba95df18056383d59fde17ed1ea1da1d6ab2",
+    "company": "BANK OF THE PHILIPPINE ISLANDS",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "11 Nov 2026 10:10 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QO91UB3YBP4ZLF4S/42f449cb18b6950e5a05bbc69494ba95df18056383d59fde17ed1ea1da1d6ab2",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4Z2EJ964O6S89EU9/e86a9f659c614abe2c3b2aeaf02f973281dbd748c08df9f9edef40ee8595a97e",
+    "company": "CHINA SOUTH CITY HOLDINGS LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::QUARTERLY UPDATE ANNOUNCEMENT AND CONTINUED SUSPENSION OF TRADING",
+    "timestamp": "11 Nov 2026 10:09 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4Z2EJ964O6S89EU9/e86a9f659c614abe2c3b2aeaf02f973281dbd748c08df9f9edef40ee8595a97e",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/I3VFHZO1OVG18XUJ/08d43d1c1e7c1774df4f01c8d6d53997752fe59ec9d0ddf3ef41823efc084648",
     "company": "SHIMIZU CORPORATION",
     "security": "MULTIPLE",
