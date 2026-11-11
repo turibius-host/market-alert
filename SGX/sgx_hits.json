@@ -1,5 +1,77 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XCUT1PZRZVWGZ0WW/c54e8d802ccdc085ddf365bac6f6d1cd73df5f9230c67fce35723c99a5171627",
+    "company": "AEM HOLDINGS LTD.",
+    "security": "AEM HOLDINGS LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::Third Quarter Business Updates",
+    "timestamp": "11 Nov 2026 10:56 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XCUT1PZRZVWGZ0WW/c54e8d802ccdc085ddf365bac6f6d1cd73df5f9230c67fce35723c99a5171627",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VCYDI8PHYVKPPIG8/7671acda3df4cecdf174bd86414511e9413feddebd25819d4f0f51389af68f1a",
+    "company": "ZIXIN GROUP HOLDINGS LIMITED",
+    "security": "ZIXIN GROUP HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 10:31 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VCYDI8PHYVKPPIG8/7671acda3df4cecdf174bd86414511e9413feddebd25819d4f0f51389af68f1a",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SYXBWSM7PO3G80DY/7515d9426d84539023ad89da491f71ee085c641ef7df7b32926346c3498e8072",
+    "company": "ANNICA HOLDINGS LIMITED",
+    "security": "ANNICA HOLDINGS LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::ENTRY INTO MOU FOR STRATEGIC COLLABORATION IN ENERGY STORAGE AND CLEAN ENERGY SOLUTIONS",
+    "timestamp": "11 Nov 2026 10:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SYXBWSM7PO3G80DY/7515d9426d84539023ad89da491f71ee085c641ef7df7b32926346c3498e8072",
+    "rules": [
+      "MOU / Strategic Investment / Partnership"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VVXCBV9VSLUPXDC2/181bb439277685b1c1f5370d20c273d489b4244a7a70bf315161446c85cada5c",
+    "company": "BEVERLY WILSHIRE LTD.",
+    "security": "BEVERLY WILSHIRE LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "11 Nov 2026 10:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VVXCBV9VSLUPXDC2/181bb439277685b1c1f5370d20c273d489b4244a7a70bf315161446c85cada5c",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1PLN4MR9XFIVK5X3/6410e9b32870a6df3a76c328a0106eb2ba10a99abd112835b88af75b22d9569c",
+    "company": "VIVIDTHREE HOLDINGS LTD.",
+    "security": "VIVIDTHREE HOLDINGS LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 10:03 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1PLN4MR9XFIVK5X3/6410e9b32870a6df3a76c328a0106eb2ba10a99abd112835b88af75b22d9569c",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VFO0RHSCU2DHCPGK/de152bb80e8740676e03b9a8d3b56cc1ea5989e7823675b3a663c40babf0dc7a",
+    "company": "SATS LTD.",
+    "security": "SATS LTD.",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement Pursuant to Rule 706A of the SGX Listing Manual",
+    "timestamp": "11 Nov 2026 09:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VFO0RHSCU2DHCPGK/de152bb80e8740676e03b9a8d3b56cc1ea5989e7823675b3a663c40babf0dc7a",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/50ZM6J83SX6RQ1M9/8c1807d67d736dc1af7ea1f28200f2fd3ce89a7be0a868b32e18fe7e1290a857",
     "company": "RESONAC HOLDINGS CORPORATION",
     "security": "RESONAC JPY100BZ281229",
