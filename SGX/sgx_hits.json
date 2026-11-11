@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UXNYFW45665EOEBG/e261d8402938dd5fb43cf74323402f8a194a14d4644b6eefe045531c6307d6a4",
+    "company": "DAIWA HOUSE INDUSTRY CO., LTD.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "11 Nov 2026 04:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UXNYFW45665EOEBG/e261d8402938dd5fb43cf74323402f8a194a14d4644b6eefe045531c6307d6a4",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EJQWXSY9KTG9X1LG/4f5c1caad5dfe74186b4c04df80ff1c55e0d2f70a31b9fde0150dcdb7ce26553",
+    "company": "MITSUBISHI MATERIALS CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "11 Nov 2026 04:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EJQWXSY9KTG9X1LG/4f5c1caad5dfe74186b4c04df80ff1c55e0d2f70a31b9fde0150dcdb7ce26553",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/2ID4VKLSBLEQELAT/e4294f63a28b1f60f22a0b320dffac95424d181ff836041a6a7d4d670e698b56",
     "company": "USP GROUP LIMITED",
     "security": "USP GROUP LIMITED",
