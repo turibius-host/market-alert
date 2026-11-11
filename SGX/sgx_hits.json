@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/50ZM6J83SX6RQ1M9/8c1807d67d736dc1af7ea1f28200f2fd3ce89a7be0a868b32e18fe7e1290a857",
+    "company": "RESONAC HOLDINGS CORPORATION",
+    "security": "RESONAC JPY100BZ281229",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "11 Nov 2026 08:25 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/50ZM6J83SX6RQ1M9/8c1807d67d736dc1af7ea1f28200f2fd3ce89a7be0a868b32e18fe7e1290a857",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UB9F4NGX2VCE63H8/70f0c7dc35090b07b44223682b1d8af1fa254567054f43f45dc33a4950ee68a9",
+    "company": "IX BIOPHARMA LTD.",
+    "security": "IX BIOPHARMA LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::First Quarter Results",
+    "timestamp": "11 Nov 2026 08:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UB9F4NGX2VCE63H8/70f0c7dc35090b07b44223682b1d8af1fa254567054f43f45dc33a4950ee68a9",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/VT06OVU6ROIC617I/20ddb41e50c8d0f3740badf59e2904dfa0c59e4f7f19c53454386a37de654324",
     "company": "NEW WAVE HOLDINGS LTD.",
     "security": "NEW WAVE HOLDINGS LTD.",
