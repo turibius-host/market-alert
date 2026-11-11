@@ -1,5 +1,29 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WE2DXI9BNRAO63GF/fea4a16353de5abfea6a33c036b8c11fcea8e9186940ade534961f5c8bf4bf4e",
+    "company": "YOMA STRATEGIC HOLDINGS LTD.",
+    "security": "YOMA STRATEGIC HOLDINGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 06:53 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WE2DXI9BNRAO63GF/fea4a16353de5abfea6a33c036b8c11fcea8e9186940ade534961f5c8bf4bf4e",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/F06C5VX2AY60IRY8/2beee62ff074a5a69387f90bd8594c7fbc015793761ed8d303f363b3d90c14f5",
+    "company": "XERO INVESTMENTS LIMITED",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Xero Limited FY27 Interim Results Investor Presentation, as released on the ASX",
+    "timestamp": "12 Nov 2026 05:02 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/F06C5VX2AY60IRY8/2beee62ff074a5a69387f90bd8594c7fbc015793761ed8d303f363b3d90c14f5",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/0HNASTNWOD1SKO4H/27f6957700e261665a62e23d35f5d547a9af2ca1bc9506d7fac7687891bb7440",
     "company": "AUTAGCO LTD.",
     "security": "AUTAGCO LTD",
