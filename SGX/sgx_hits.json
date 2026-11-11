@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2ID4VKLSBLEQELAT/e4294f63a28b1f60f22a0b320dffac95424d181ff836041a6a7d4d670e698b56",
+    "company": "USP GROUP LIMITED",
+    "security": "USP GROUP LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Joint Press Release - Strategic Partnership between SuprAI and Frac Group",
+    "timestamp": "11 Nov 2026 02:16 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2ID4VKLSBLEQELAT/e4294f63a28b1f60f22a0b320dffac95424d181ff836041a6a7d4d670e698b56",
+    "rules": [
+      "MOU / Strategic Investment / Partnership"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SYJ5W98XHQ7TRM6I/dc251b06a5e5d68e3c8987a580046d6f571073a7c74eade947a5d2cac4a55afd",
+    "company": "NAGOYA RAILROAD CO., LTD",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Notice Concerning Determination of Matters Related to Acquisition of Treasury Stock",
+    "timestamp": "11 Nov 2026 02:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SYJ5W98XHQ7TRM6I/dc251b06a5e5d68e3c8987a580046d6f571073a7c74eade947a5d2cac4a55afd",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Q7XLO3KNQ8QK01N7/4ec7d4b42f4cd362a16af6932393c2fec0eab1979b080cd5e84f38e3302a40a7",
+    "company": "NAGOYA RAILROAD CO., LTD",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "11 Nov 2026 02:13 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Q7XLO3KNQ8QK01N7/4ec7d4b42f4cd362a16af6932393c2fec0eab1979b080cd5e84f38e3302a40a7",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/B09WJ4R65PE4U8PZ/09977e98675dc960e99e2ee4a59052c3779b01d6fae0acee50cab42f7bcb6e4c",
     "company": "INFRONEER HOLDINGS INC.",
     "security": "INFRONEER HLDGS JPY60B Z290330",
