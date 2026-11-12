@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/RHXKU62YGNVR9KDS/ad801476f9c9359563d1e023235ad3c5dd1051364141acddca877bb9850ef0d7",
+    "company": "CHINA AVIATION OIL (SINGAPORE) CORPORATION LTD",
+    "security": "CHINA AVIATION OIL(S) CORP LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 12:43 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/RHXKU62YGNVR9KDS/ad801476f9c9359563d1e023235ad3c5dd1051364141acddca877bb9850ef0d7",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/9GA50KDO95U4XBHO/9d5d1cfd0131113a55810c9807b1b1d26d11ca0b1e7172587083ce2cbe191b79",
     "company": "AUTAGCO LTD.",
     "security": "AUTAGCO LTD",
