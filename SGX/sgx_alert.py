@@ -7,7 +7,8 @@ What this does
 2. Runs each announcement's title/category text through a keyword-rule
    engine that flags the categories most likely to move a share price
    the next trading day (takeovers, trading halts, profit warnings,
-   rights issues, SGX queries, quarterly updates, MOUs, etc).
+   rights issues, SGX queries, quarterly updates, MOUs, etc), PLUS every
+   announcement from the companies in WATCHLIST.
 3. Keeps a "seen" store so it only processes NEW announcements each run.
 4. Writes/updates a webpage (index.html on GitHub) listing every
    market-moving announcement flagged so far, newest-run hits highlighted.
@@ -275,6 +276,29 @@ RULES = [
 
 MIN_WEIGHT_TO_ALERT = 2  # ignore weight-1 rules if you add any later
 
+# ============================== WATCHLIST ================================
+# EVERY announcement from these companies is flagged and emailed, whatever its
+# title. Each entry = (label shown in the alert, pattern matched against the
+# Issuer Name + Security Name columns on SGX, lower-case).
+# To add a company, copy a line and change the label and the name pattern.
+WATCHLIST = [
+    ("Geo Energy",        r"\bgeo energy\b"),
+    ("AEM",               r"\baem\b"),
+    ("UMS",               r"\bums\b"),
+    ("Aspial Lifestyle",  r"\baspial lifestyle\b"),
+    ("ASL Marine",        r"\basl marine\b"),
+    ("CSE Global",        r"\bcse global\b"),
+    ("Hiap Hoe",          r"\bhiap hoe\b"),
+    ("Samudera Shipping", r"\bsamudera shipping\b"),
+    ("SingHoldings",      r"\bsing\s?holdings?\b"),
+    ("UltraGreen.ai",     r"\bultra\s?green\b"),
+]
+
+# Optional: titles/categories you do NOT want alerts for, even from watchlist
+# companies (routine paperwork). Empty by default = you get everything.
+# Example: [r"notice of annual general meeting", r"proxy form", r"change in sharebuyback"]
+WATCHLIST_SKIP = []
+
 # =========================== DATA STRUCTURES =============================
 
 @dataclass
@@ -397,6 +421,14 @@ def classify(ann: Announcement) -> Announcement:
             if re.search(pat, haystack):
                 ann.matches.append(rule)
                 break  # one match per rule is enough
+
+    # Watchlist: flag everything from these companies (listed first in the alert)
+    who = f"{ann.company} {ann.security}".lower()
+    if not any(re.search(p, haystack) for p in WATCHLIST_SKIP):
+        for label, pat in WATCHLIST:
+            if re.search(pat, who):
+                ann.matches.insert(0, Rule(name=f"Watchlist: {label}", patterns=[], weight=3))
+                break
     return ann
 
 
