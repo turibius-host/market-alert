@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/28P69ZJJPFWLH9DA/bb8e1b112e985aa558caab232df420e4506cd365044626f9a7399f8151a91aa9",
+    "company": "OLYMPUS CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 03:33 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/28P69ZJJPFWLH9DA/bb8e1b112e985aa558caab232df420e4506cd365044626f9a7399f8151a91aa9",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/OVN99T4O9NZNESY4/98c1658e033e5299d1198c7b60f49992d0e5a09ea0bdd037b60bda50e772d5fd",
     "company": "MITSUBISHI HC CAPITAL INC.",
     "security": "",
