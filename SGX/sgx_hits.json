@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OVN99T4O9NZNESY4/98c1658e033e5299d1198c7b60f49992d0e5a09ea0bdd037b60bda50e772d5fd",
+    "company": "MITSUBISHI HC CAPITAL INC.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 02:59 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OVN99T4O9NZNESY4/98c1658e033e5299d1198c7b60f49992d0e5a09ea0bdd037b60bda50e772d5fd",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/J822VU98YXQ1WYPQ/a4cbca724f7324e3ba08458202c4bc8011b69df3c47f31d323a84dd4f3ae7c63",
+    "company": "MITSUBISHI HC CAPITAL INC.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 02:58 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/J822VU98YXQ1WYPQ/a4cbca724f7324e3ba08458202c4bc8011b69df3c47f31d323a84dd4f3ae7c63",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/RHXKU62YGNVR9KDS/ad801476f9c9359563d1e023235ad3c5dd1051364141acddca877bb9850ef0d7",
     "company": "CHINA AVIATION OIL (SINGAPORE) CORPORATION LTD",
     "security": "CHINA AVIATION OIL(S) CORP LTD",
