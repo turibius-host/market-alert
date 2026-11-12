@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9GA50KDO95U4XBHO/9d5d1cfd0131113a55810c9807b1b1d26d11ca0b1e7172587083ce2cbe191b79",
+    "company": "AUTAGCO LTD.",
+    "security": "AUTAGCO LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::Request for Lifting of Trading Halt - Sponsor's Statement",
+    "timestamp": "12 Nov 2026 08:18 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9GA50KDO95U4XBHO/9d5d1cfd0131113a55810c9807b1b1d26d11ca0b1e7172587083ce2cbe191b79",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4Z5EVM7KOP59RYJF/56eab7431e704b57b51f2425290a506594d1362645133c80fe1ece03e54674a3",
+    "company": "AUTAGCO LTD.",
+    "security": "AUTAGCO LTD",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "12 Nov 2026 08:17 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4Z5EVM7KOP59RYJF/56eab7431e704b57b51f2425290a506594d1362645133c80fe1ece03e54674a3",
+    "rules": [
+      "Trading Halt / Suspension"
+    ]
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/RPRENKEPU6XW0E9T/cd087353c4365cdc93c081a7085a16d7da94afdecd34922f3e35c42cdde9ca5c",
+    "company": "SINGAPORE AIRLINES LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 07:59 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/RPRENKEPU6XW0E9T/cd087353c4365cdc93c081a7085a16d7da94afdecd34922f3e35c42cdde9ca5c",
+    "rules": [
+      "Financial Results Release"
+    ]
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/YJUV317R1204RAWD/f531915d9933ce4078bdac1b4742ea9ad1b39d0793c0b6b48911ec49664f9b2c",
     "company": "STONEWEG EREIT MANAGEMENT PTE. LTD.",
     "security": "STONEWEG EUROPE STAPLED TRUST",
