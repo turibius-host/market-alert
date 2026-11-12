@@ -1,5 +1,57 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JOPYZYY3NZA5NM4D/39780dd70b798d3646a5c6432a6401c1cfe26c3e0969429cce2d1ff437b79eb4",
+    "company": "SINGAPORE SHIPPING CORPORATION LIMITED",
+    "security": "SINGAPORE SHIPPING CORP LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 06:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JOPYZYY3NZA5NM4D/39780dd70b798d3646a5c6432a6401c1cfe26c3e0969429cce2d1ff437b79eb4",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/HM3LG92K5QW9DQ2W/85f59a0a7972a8473b8567dcf04d22774b0ce820fb0bf1ba6c63407bbae1f0af",
+    "company": "ASPIAL LIFESTYLE LIMITED",
+    "security": "ASPIAL LIFESTYLE LIMITED",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::Daily Share Buy Back",
+    "timestamp": "12 Nov 2026 06:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/HM3LG92K5QW9DQ2W/85f59a0a7972a8473b8567dcf04d22774b0ce820fb0bf1ba6c63407bbae1f0af",
+    "rules": [
+      "Watchlist: Aspial Lifestyle"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0CTYIEGLY6XBFKWE/66896ef02904384f0e599549f3eef7e111c051e67f096ba2008b644f28894ce1",
+    "company": "BANGKOK BANK PUBLIC COMPANY LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 06:22 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0CTYIEGLY6XBFKWE/66896ef02904384f0e599549f3eef7e111c051e67f096ba2008b644f28894ce1",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GV3FRXOBKBT70MIS/71f21ea969e168a184d0ef276a5a5185cf3019d325e56f9ca3a880ebdbd6cedf",
+    "company": "TRITECH GROUP LIMITED",
+    "security": "TRITECH GROUP LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "12 Nov 2026 06:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GV3FRXOBKBT70MIS/71f21ea969e168a184d0ef276a5a5185cf3019d325e56f9ca3a880ebdbd6cedf",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/88354Z9098A9IA5A/7bc52371858bb03411e51bf23f1b98e26a64139cc5b04341ff3582be14875a91",
     "company": "MENCAST HOLDINGS LTD.",
     "security": "MENCAST HOLDINGS LTD.",
