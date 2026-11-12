@@ -1,5 +1,96 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/88354Z9098A9IA5A/7bc52371858bb03411e51bf23f1b98e26a64139cc5b04341ff3582be14875a91",
+    "company": "MENCAST HOLDINGS LTD.",
+    "security": "MENCAST HOLDINGS LTD.",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Disposal of 42B Penjuru Road, Singapore 609163 - Further Extension of Long Stop Date",
+    "timestamp": "12 Nov 2026 05:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/88354Z9098A9IA5A/7bc52371858bb03411e51bf23f1b98e26a64139cc5b04341ff3582be14875a91",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/T4H4ZQFOUOWZBNIG/648e42447b49099a368c811a669b90a20dc61d9405f3ee8580332e2dbb54b5db",
+    "company": "CSC HOLDINGS LIMITED",
+    "security": "CSC HOLDINGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 05:55 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/T4H4ZQFOUOWZBNIG/648e42447b49099a368c811a669b90a20dc61d9405f3ee8580332e2dbb54b5db",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/B0GS7FQP6918AN8H/703ba96f84d88c3f69ff284910d8ab36ae7dd3dd7562793a5058c9d6a282047c",
+    "company": "SDAI LIMITED",
+    "security": "SDAI LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 05:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/B0GS7FQP6918AN8H/703ba96f84d88c3f69ff284910d8ab36ae7dd3dd7562793a5058c9d6a282047c",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Y645N3UFAVUDUSFX/e49f18e8984d07b14a6e40e674f7f5fa3e7dfe85b1113cdf1de5bf5fa67e09b7",
+    "company": "ULTRAGREEN.AI LIMITED",
+    "security": "MULTIPLE",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::Share Buy Back - Daily Share Buy-Back Notice",
+    "timestamp": "12 Nov 2026 05:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Y645N3UFAVUDUSFX/e49f18e8984d07b14a6e40e674f7f5fa3e7dfe85b1113cdf1de5bf5fa67e09b7",
+    "rules": [
+      "Watchlist: UltraGreen.ai"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/R3BW286CJ82QEMMV/ed55718a9e255ffeea13644efdd79de926b5af4ee1bd716c258489c0608fd0cd",
+    "company": "KATRINA GROUP LTD.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 05:47 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/R3BW286CJ82QEMMV/ed55718a9e255ffeea13644efdd79de926b5af4ee1bd716c258489c0608fd0cd",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UCPV2JB4NNKNK6Y8/2c8b98e6a455f8c034df91d29ddb7e27222704efc1df3fad0d26af35b084ec3e",
+    "company": "JB FOODS LIMITED",
+    "security": "JB FOODS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 05:41 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UCPV2JB4NNKNK6Y8/2c8b98e6a455f8c034df91d29ddb7e27222704efc1df3fad0d26af35b084ec3e",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/J9Z6D5CFZGLQHIB4/b360fd901328e62857a25789dc65100f5a855c82d0cd96eeca89932d7b1e4bcc",
+    "company": "AMCORP GLOBAL LIMITED",
+    "security": "AMCORP GLOBAL LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 05:41 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/J9Z6D5CFZGLQHIB4/b360fd901328e62857a25789dc65100f5a855c82d0cd96eeca89932d7b1e4bcc",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/28P69ZJJPFWLH9DA/bb8e1b112e985aa558caab232df420e4506cd365044626f9a7399f8151a91aa9",
     "company": "OLYMPUS CORPORATION",
     "security": "MULTIPLE",
