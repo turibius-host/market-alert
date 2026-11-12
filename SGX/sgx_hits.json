@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LCYDL2IVSBYOOR23/cb04e6b1b54d60b3af1c217f262562aaf17a3c63e3e579e1497cdebddc72cdb3",
+    "company": "SAMURAI 2K AEROSOL LIMITED",
+    "security": "SAMURAI 2K AEROSOL LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 10:53 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LCYDL2IVSBYOOR23/cb04e6b1b54d60b3af1c217f262562aaf17a3c63e3e579e1497cdebddc72cdb3",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XWTPB1AZ022XYYQ8/cac3b00ee2ad524dd85350d787bfe09706579ea2ccae5e083dd2a6d1455c6b49",
+    "company": "HENGYANG PETROCHEMICAL LOGISTICS LIMITED",
+    "security": "HENGYANG PETROCHEM LOG LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 09:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XWTPB1AZ022XYYQ8/cac3b00ee2ad524dd85350d787bfe09706579ea2ccae5e083dd2a6d1455c6b49",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3MKGN2K7C3PUIX9Q/49a3a1ae8184b67c40d16d23c127f9b2d34a5103f01fe14eb28ba4ce3dbc2ee1",
+    "company": "THAKRAL CORPORATION LTD",
+    "security": "THAKRAL CORPORATION LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::3Q 2026 Business Update",
+    "timestamp": "12 Nov 2026 09:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3MKGN2K7C3PUIX9Q/49a3a1ae8184b67c40d16d23c127f9b2d34a5103f01fe14eb28ba4ce3dbc2ee1",
+    "rules": [
+      "Financial Results Release",
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/5PTWQ22B5NMEZN9U/aa1f612f10c587be19c0adb99407141e8bf954b33eea0d901a2a63a145a875de",
     "company": "ATLANTIC NAVIGATION HOLDINGS (SINGAPORE) LIMITED",
     "security": "ATLANTIC NAVIGATION HLDG(S)LTD",
