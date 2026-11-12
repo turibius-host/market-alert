@@ -1,5 +1,124 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/122NWQ0918KYGKC0/837b64848aae70fe1c4477603849396f42ca6cfec61601370a1bf6a6b4719272",
+    "company": "UNITED HAMPSHIRE US REIT MANAGEMENT PTE. LTD.",
+    "security": "UNITED HAMPSHIRE US REIT",
+    "category": "General Announcement",
+    "title": "General Announcement::UHREIT 3Q2026 Operational Updates",
+    "timestamp": "13 Nov 2026 07:38 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/122NWQ0918KYGKC0/837b64848aae70fe1c4477603849396f42ca6cfec61601370a1bf6a6b4719272",
+    "rules": [
+      "Financial Results Release",
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZC27HZK1482TWNHX/152bb6e874a61e1abdebee3959985db15b53319a0f441670daac7d6236c0ee33",
+    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+    "security": "SINGTEL",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement Pursuant to Rule 706A of the SGX Listing Manual",
+    "timestamp": "13 Nov 2026 07:32 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZC27HZK1482TWNHX/152bb6e874a61e1abdebee3959985db15b53319a0f441670daac7d6236c0ee33",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1D8EOJF2E7S58W81/cf3fe381fa9b7a90ccf327306cbe6971aee25f9aba54b65071cc0ff402891cb4",
+    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+    "security": "SINGTEL",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 07:30 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1D8EOJF2E7S58W81/cf3fe381fa9b7a90ccf327306cbe6971aee25f9aba54b65071cc0ff402891cb4",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DBC5UAD058427Y1X/97d02691af0e79bc52ad5952aa0e8f0e6c2d30ef727dca511fbd4167ffcf6deb",
+    "company": "F J BENJAMIN HOLDINGS LTD",
+    "security": "F J BENJAMIN HOLDINGS LTD",
+    "category": "Placements",
+    "title": "Placements::ALLOTMENT AND ISSUANCE OF PLACEMENT SHARES",
+    "timestamp": "13 Nov 2026 07:28 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DBC5UAD058427Y1X/97d02691af0e79bc52ad5952aa0e8f0e6c2d30ef727dca511fbd4167ffcf6deb",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WUCSDZKN6N7NAJIB/558615b20147313239fad70409d5bad686dc73cc3fdd843bee4ed5fe1b8a8d66",
+    "company": "DAIWA HOUSE ASSET MANAGEMENT ASIA PTE. LTD.",
+    "security": "DAIWA HOUSE LOGISTICS TRUST",
+    "category": "General Announcement",
+    "title": "General Announcement::BUSINESS UPDATE FOR THIRD QUARTER ENDED 30 SEPTEMBER 2026 & PRESS RELEASE",
+    "timestamp": "13 Nov 2026 07:13 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WUCSDZKN6N7NAJIB/558615b20147313239fad70409d5bad686dc73cc3fdd843bee4ed5fe1b8a8d66",
+    "rules": [
+      "Financial Results Release",
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QU7IYTE8T5W61PQY/31a8cacdcb0515306f06f542713eb74a0781c63d1a7f8fd3ae1c898039db7b61",
+    "company": "SKYLINK HOLDINGS LIMITED",
+    "security": "SKYLINK HOLDINGS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::1H2027 Results Presentation",
+    "timestamp": "13 Nov 2026 07:11 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QU7IYTE8T5W61PQY/31a8cacdcb0515306f06f542713eb74a0781c63d1a7f8fd3ae1c898039db7b61",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SLOGDRRTFFOJR7MC/d13afdd98808c9c5b8ceb1adc3c9628ba58b3427147be12b546243b21f857c51",
+    "company": "SKYLINK HOLDINGS LIMITED",
+    "security": "SKYLINK HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 07:10 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SLOGDRRTFFOJR7MC/d13afdd98808c9c5b8ceb1adc3c9628ba58b3427147be12b546243b21f857c51",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4KBSE0ISQBIXR4SW/3b9d84704ca20be7e4784abe4e74b1f33d093f3f600e38adda17cff6b797fe68",
+    "company": "NCB FINANCIAL GROUP LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "13 Nov 2026 07:06 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4KBSE0ISQBIXR4SW/3b9d84704ca20be7e4784abe4e74b1f33d093f3f600e38adda17cff6b797fe68",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IHCB4A6FS9STWT92/3ef4a9e1f1fd45551befa1c0dc95f54e67134ddc7965f1f1cc5bf75726a8a921",
+    "company": "FIRST RESOURCES LIMITED",
+    "security": "FIRST RESOURCES LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Production and Financial Highlights for the Third Quarter and Nine Months ended 30 September 2026",
+    "timestamp": "13 Nov 2026 06:56 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IHCB4A6FS9STWT92/3ef4a9e1f1fd45551befa1c0dc95f54e67134ddc7965f1f1cc5bf75726a8a921",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/A94YZLVP752CIMCA/a165181a13f1447cd3b6e3baae922671f639029a0a13febc9311fe1def551e8d",
     "company": "SINGAPORE TECHNOLOGIES ENGINEERING LTD",
     "security": "SINGAPORE TECH ENGINEERING LTD",
