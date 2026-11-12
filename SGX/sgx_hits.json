@@ -1,5 +1,58 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4799GETDSET0FXCH/923c3130c786649a223d2d681161fa80e00c5f4ff836cd69da29699552f6cb1e",
+    "company": "IREIT GLOBAL GROUP PTE. LTD.",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update for the Third Quarter ended 30 September 2026",
+    "timestamp": "12 Nov 2026 07:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4799GETDSET0FXCH/923c3130c786649a223d2d681161fa80e00c5f4ff836cd69da29699552f6cb1e",
+    "rules": [
+      "Financial Results Release",
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/RW64OYUWIKJ0U6OG/f34c0bc2d4e02c31a36f2ee64443a0dadf8042bd3118fb4573d2fe1baabcfcee",
+    "company": "SEVENS ATELIER LIMITED",
+    "security": "SEVENS ATELIER LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 07:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/RW64OYUWIKJ0U6OG/f34c0bc2d4e02c31a36f2ee64443a0dadf8042bd3118fb4573d2fe1baabcfcee",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WXCU8KVLWYDOXKP1/ff5202e9bb6bd8651ef34f343f253f29a268baf2f8489262006ed6191b73a700",
+    "company": "GP INDUSTRIES LIMITED",
+    "security": "GP INDUSTRIES LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "12 Nov 2026 07:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WXCU8KVLWYDOXKP1/ff5202e9bb6bd8651ef34f343f253f29a268baf2f8489262006ed6191b73a700",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9LGFEQ03BKUNSQPV/8a08a933b786061bff2a3117eb752988c94180837adddd9501d1338868bf1758",
+    "company": "GP INDUSTRIES LIMITED",
+    "security": "GP INDUSTRIES LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement pursuant to Rule 706A of the SGX-ST Listing Manual",
+    "timestamp": "12 Nov 2026 07:23 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9LGFEQ03BKUNSQPV/8a08a933b786061bff2a3117eb752988c94180837adddd9501d1338868bf1758",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/JOPYZYY3NZA5NM4D/39780dd70b798d3646a5c6432a6401c1cfe26c3e0969429cce2d1ff437b79eb4",
     "company": "SINGAPORE SHIPPING CORPORATION LIMITED",
     "security": "SINGAPORE SHIPPING CORP LTD",
