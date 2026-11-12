@@ -1,5 +1,96 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/5PTWQ22B5NMEZN9U/aa1f612f10c587be19c0adb99407141e8bf954b33eea0d901a2a63a145a875de",
+    "company": "ATLANTIC NAVIGATION HOLDINGS (SINGAPORE) LIMITED",
+    "security": "ATLANTIC NAVIGATION HLDG(S)LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::Atlantic Navigation Maintains Operational Resilience For 3Q2026",
+    "timestamp": "12 Nov 2026 08:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/5PTWQ22B5NMEZN9U/aa1f612f10c587be19c0adb99407141e8bf954b33eea0d901a2a63a145a875de",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IR62QCCMGNVSQDZW/b29da90f28b3fcf020f7800301469af237b0c1325c51eca2f5c073e6487c7aca",
+    "company": "ASCENT BRIDGE LIMITED",
+    "security": "ASCENT BRIDGE LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "12 Nov 2026 08:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IR62QCCMGNVSQDZW/b29da90f28b3fcf020f7800301469af237b0c1325c51eca2f5c073e6487c7aca",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PRJGPOTA44WFX0JO/332e0ce54ec74afb2ee623400cc916121d9e7939ca5124c504869a01962e657b",
+    "company": "ASCENT BRIDGE LIMITED",
+    "security": "ASCENT BRIDGE LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "12 Nov 2026 08:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PRJGPOTA44WFX0JO/332e0ce54ec74afb2ee623400cc916121d9e7939ca5124c504869a01962e657b",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/P3JCJ2RTKX59VXQT/d37fd2d7cb75b1c60139177d342198058d4faa0194d7cba1f6c8136effd7227d",
+    "company": "ANNICA HOLDINGS LIMITED",
+    "security": "ANNICA HOLDINGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 08:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/P3JCJ2RTKX59VXQT/d37fd2d7cb75b1c60139177d342198058d4faa0194d7cba1f6c8136effd7227d",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DSKX6ZX9FQ630FG6/5aec3afaf2f879af0d5e09d7a113b533adccf5db1d104990f4835221e3e7786f",
+    "company": "EUROSPORTS GLOBAL LIMITED",
+    "security": "EUROSPORTS GLOBAL LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "12 Nov 2026 08:11 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DSKX6ZX9FQ630FG6/5aec3afaf2f879af0d5e09d7a113b533adccf5db1d104990f4835221e3e7786f",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OI4RF50S61GRFT1I/b8c93fbe768b580487dd171926998a6a2fac6d74e6cd2c94fcac904b1afa1083",
+    "company": "NAM CHEONG LIMITED",
+    "security": "NAM CHEONG LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "12 Nov 2026 08:08 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OI4RF50S61GRFT1I/b8c93fbe768b580487dd171926998a6a2fac6d74e6cd2c94fcac904b1afa1083",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JS5IN3AUHSGW2AU6/79a5ec26069bb8c6fc1355e5f476f3ca26afd2138b40a159687f620756bc755e",
+    "company": "CHINA MINING INTERNATIONAL LTD",
+    "security": "CHINA MINING INTERNATIONAL LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::First Quarter Results",
+    "timestamp": "12 Nov 2026 07:59 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JS5IN3AUHSGW2AU6/79a5ec26069bb8c6fc1355e5f476f3ca26afd2138b40a159687f620756bc755e",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/4799GETDSET0FXCH/923c3130c786649a223d2d681161fa80e00c5f4ff836cd69da29699552f6cb1e",
     "company": "IREIT GLOBAL GROUP PTE. LTD.",
     "security": "MULTIPLE",
