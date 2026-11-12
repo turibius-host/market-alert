@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/A94YZLVP752CIMCA/a165181a13f1447cd3b6e3baae922671f639029a0a13febc9311fe1def551e8d",
+    "company": "SINGAPORE TECHNOLOGIES ENGINEERING LTD",
+    "security": "SINGAPORE TECH ENGINEERING LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::ST Engineering 9M2026 Market Update",
+    "timestamp": "13 Nov 2026 06:22 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/A94YZLVP752CIMCA/a165181a13f1447cd3b6e3baae922671f639029a0a13febc9311fe1def551e8d",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/LCYDL2IVSBYOOR23/cb04e6b1b54d60b3af1c217f262562aaf17a3c63e3e579e1497cdebddc72cdb3",
     "company": "SAMURAI 2K AEROSOL LIMITED",
     "security": "SAMURAI 2K AEROSOL LTD",
