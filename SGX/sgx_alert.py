@@ -7,36 +7,30 @@ What this does
 2. Runs each announcement's title/category text through a keyword-rule
    engine that flags the categories most likely to move a share price
    the next trading day (takeovers, trading halts, profit warnings,
-   rights issues, SGX queries, etc).
-3. Keeps a local "seen" store so it only processes NEW announcements
-   each run.
-4. Writes/updates a local webpage (sgx_dashboard.html) listing every
-   market-moving announcement flagged so far, with the newest-run hits
-   highlighted. Just open that file in your browser to check it.
+   rights issues, SGX queries, quarterly updates, MOUs, etc).
+3. Keeps a "seen" store so it only processes NEW announcements each run.
+4. Writes/updates a webpage (index.html on GitHub) listing every
+   market-moving announcement flagged so far, newest-run hits highlighted.
+5. Emails new hits. If an email fails, it is retried on the next run.
 
 Why it's built this way
 ------------------------
-SGX's site sits behind bot-protection that specifically appears to
-detect and block fully-invisible ("headless") browsers -- a visible
-browser window gets the real content, a headless one gets an empty
-page. So this script drives a real (visible) Chromium window via
-Playwright. A brief Chrome window popping up each run is expected
-behavior, not a bug.
+SGX's site sits behind bot-protection that appears to block fully-invisible
+("headless") browsers, so this script drives a real (visible) Chromium window
+via Playwright (on GitHub it runs under a virtual display).
 
-Setup
------
-    pip install playwright
-    python -m playwright install chromium
-
-Fill in MAX_HISTORY below if you want, then either:
-  - run it manually: python sgx_alert.py
-  - or schedule it (Windows Task Scheduler) every 15-30 min
-    during SGX trading hours (9:00-17:00 SGT, Mon-Fri), with
-    "Run only when user is logged on" (a visible browser needs
-    an active desktop session).
-
-Each run only adds NEW announcements to the dashboard, so running it
-every 15 min will not create duplicate entries.
+CHANGES in this version
+-----------------------
+- New rules: strategic/business-development news (state-owned partners,
+  showcases, expos, joint ventures, cooperation agreements, contract wins),
+  letters of intent / term sheets, and "third quarter"-style results wording.
+- Tries to load more rows (scroll / "load more") so busy periods don't push
+  announcements off the page between runs.
+- Prints a [coverage] line every run, with a WARNING when every row on the
+  page was new (a sign that announcements may have been missed).
+- If the email fails, the hits are retried next run (they used to be lost).
+- The "seen" list now keeps the NEWEST 5000 ids (before, trimming was random).
+- Dashboard text is HTML-escaped.
 """
 import json
 import os
@@ -46,6 +40,7 @@ import ssl
 import sys
 from dataclasses import dataclass, field
 from email.mime.text import MIMEText
+from html import escape as esc
 from pathlib import Path
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -61,6 +56,10 @@ DASHBOARD_FILE = Path(os.environ.get("SGX_DASHBOARD_FILE",
 
 # How many flagged announcements to keep in the dashboard's history.
 MAX_HISTORY = 500
+# How many rows to try to read from the page each run.
+MAX_ROWS = 150
+# Most hits sent in one email (the rest go in the next one).
+MAX_EMAIL_ITEMS = 30
 
 
 def now_sgt() -> datetime:
@@ -189,6 +188,11 @@ RULES = [
             r"quarterly results",
             r"interim results",
             r"financial statements and related announcement.*results",
+            # quarter / period wording used in titles, e.g. "Third Quarter Results", "3Q2026 Results"
+            r"\b(first|second|third|fourth|1st|2nd|3rd|4th)\s+quarter\b",
+            r"\b[1-4]q\s?(fy)?\d{0,4}\b",
+            r"\b[12]h\s?(fy)?\d{2,4}\b",
+            r"\b9m\s?(fy)?\d{2,4}\b",
         ],
         weight=2,
         note="Actual numbers can surprise vs expectations even with no explicit warning.",
@@ -202,6 +206,7 @@ RULES = [
             r"production update",
             r"sales update",
             r"operational update",
+            r"quarter(ly)?\s+update",
             r"\b[1-4]q\d{0,4}\s*(business )?update",
         ],
         weight=2,
@@ -226,9 +231,27 @@ RULES = [
             r"\bmou(s)?\b",
             r"substantial investment",
             r"strategic (partnership|investment|collaboration)",
+            r"letter of intent",
+            r"\bloi\b",
+            r"term sheet",
+            r"heads of agreement",
         ],
         weight=2,
         note="Often early-stage/non-binding -- a leading indicator rather than a done deal.",
+    ),
+    Rule(
+        name="Strategic / Business Development News",
+        patterns=[
+            r"state[- ]owned",
+            r"\bshowcas(e|es|ed|ing)\b",
+            r"\b(ciie|expo|exhibition)\b",
+            r"joint venture|\bjv\b",
+            r"(collaboration|cooperation|framework|partnership|supply|offtake|licensing) agreement",
+            r"strategic cooperation",
+            r"\b(wins?|won|secures?|secured|clinch(es|ed)?|bags?|lands?)\b.{0,40}\b(contracts?|orders?|projects?|tenders?|deals?)\b",
+        ],
+        weight=2,
+        note="Company-promoted business news (new partners, contract wins, expos) -- often moves small caps.",
     ),
     Rule(
         name="Share Buyback",
@@ -268,15 +291,13 @@ class Announcement:
 
 # ============================ FETCH (Playwright) ==========================
 
-def fetch_announcements(max_rows: int = 60) -> list:
+def fetch_announcements(max_rows: int = MAX_ROWS) -> list:
     """
-    Loads the SGX announcements page in a real headless browser and
-    extracts the visible rows.
+    Loads the SGX announcements page in a real browser and extracts the
+    visible rows.
 
     NOTE: SGX's page is a JS single-page app, so the exact CSS
     selectors below may need adjusting if SGX changes their frontend.
-    Run once with headless=False the first time to visually confirm
-    the selectors still match, then switch back to headless=True.
     """
     from playwright.sync_api import sync_playwright
 
@@ -285,9 +306,7 @@ def fetch_announcements(max_rows: int = 60) -> list:
         # NOTE: headless=False on purpose. SGX's bot-protection appears to
         # detect a fully-invisible (headless) browser and hides the real
         # table content from it -- a visible browser window gets the real
-        # data. This means a Chrome window will briefly pop up each run.
-        # If you ever want to try headless again, change this to True,
-        # but re-test with test_fetch.py first to confirm rows come back.
+        # data. (On GitHub this runs under a virtual display.)
         browser = p.chromium.launch(headless=False)
         page = browser.new_page(
             user_agent=(
@@ -299,6 +318,32 @@ def fetch_announcements(max_rows: int = 60) -> list:
         page.goto(SGX_URL, wait_until="networkidle", timeout=60000)
         # Give the SPA time to hydrate the announcements table.
         page.wait_for_timeout(6000)
+
+        # --- Try to load more rows ------------------------------------------
+        # The page may only show the newest ~20 rows. Scroll and click any
+        # "load more" style button so busy periods don't push announcements
+        # off the page between runs. Harmless if the page has neither.
+        first_count = len(page.query_selector_all("table tbody tr"))
+        last_count = -1
+        for _ in range(10):
+            n = len(page.query_selector_all("table tbody tr"))
+            if n >= max_rows or n == last_count:
+                break
+            last_count = n
+            try:
+                btn = page.query_selector(
+                    "button:has-text('Load more'), button:has-text('Show more'), "
+                    "a:has-text('Load more'), a:has-text('Show more')"
+                )
+                if btn:
+                    btn.click()
+                else:
+                    page.mouse.wheel(0, 30000)
+                page.wait_for_timeout(2000)
+            except Exception:  # noqa: BLE001 - never let this step break the run
+                break
+        print(f"[fetch] rows visible: {first_count} at load -> "
+              f"{len(page.query_selector_all('table tbody tr'))} after trying to load more")
 
         # Confirmed live column order (23 Sep 2026 capture):
         # 0 = Date & Time, 1 = Issuer Name, 2 = Security Name,
@@ -343,32 +388,6 @@ def fetch_announcements(max_rows: int = 60) -> list:
     return rows
 
 
-# ---- Alternative fetch backend: Apify actor (paid, more robust) ---------
-# Swap fetch_announcements() for this if Akamai blocks your IP.
-#
-# def fetch_announcements(max_rows: int = 60) -> list:
-#     import requests
-#     APIFY_TOKEN = "your_apify_token"
-#     resp = requests.post(
-#         "https://api.apify.com/v2/acts/crawlerbros~sgx-company-announcements-scraper"
-#         f"/run-sync-get-dataset-items?token={APIFY_TOKEN}",
-#         json={"maxItems": max_rows},
-#         timeout=120,
-#     )
-#     resp.raise_for_status()
-#     out = []
-#     for item in resp.json():
-#         out.append(Announcement(
-#             id=item.get("pdfUrl") or item.get("title", ""),
-#             company=item.get("issuerName", ""),
-#             title=item.get("title", ""),
-#             category=item.get("category", ""),
-#             timestamp=item.get("publishDate", ""),
-#             url=item.get("pdfUrl", ""),
-#         ))
-#     return out
-
-
 # ============================ CLASSIFY ====================================
 
 def classify(ann: Announcement) -> Announcement:
@@ -386,26 +405,34 @@ def is_market_moving(ann: Announcement) -> bool:
 
 
 # ============================ STATE (dedup) ================================
+# The seen ids are kept as an ORDERED list (oldest first) so that when it is
+# trimmed, the oldest ids are dropped - never recent ones.
 
-def load_seen() -> set:
+def load_seen() -> list:
     if SEEN_STORE.exists():
-        return set(json.loads(SEEN_STORE.read_text()))
-    return set()
+        try:
+            return list(json.loads(SEEN_STORE.read_text()))
+        except (json.JSONDecodeError, OSError):
+            print("[state] sgx_seen.json unreadable - starting fresh.", file=sys.stderr)
+    return []
 
 
-def save_seen(seen: set) -> None:
-    # Keep the file from growing forever -- last 5000 IDs is plenty.
-    trimmed = list(seen)[-5000:]
-    SEEN_STORE.write_text(json.dumps(trimmed))
+def save_seen(seen_list: list) -> None:
+    # Keep the file from growing forever -- the newest 5000 IDs is plenty.
+    SEEN_STORE.write_text(json.dumps(seen_list[-5000:]))
 
 
 # ============================ HIT HISTORY ===================================
 # Every market-moving announcement we've ever flagged, newest first.
-# This is what the dashboard is built from.
+# This is what the dashboard is built from. Each entry also records whether
+# its email has been sent ("emailed"), so failed emails are retried.
 
 def load_hit_history() -> list:
     if HITS_STORE.exists():
-        return json.loads(HITS_STORE.read_text())
+        try:
+            return json.loads(HITS_STORE.read_text())
+        except (json.JSONDecodeError, OSError):
+            print("[state] sgx_hits.json unreadable - starting fresh.", file=sys.stderr)
     return []
 
 
@@ -424,6 +451,7 @@ def ann_to_dict(ann: Announcement) -> dict:
         "timestamp": ann.timestamp,
         "url": ann.url,
         "rules": [r.name for r in ann.matches],
+        "emailed": False,
     }
 
 
@@ -435,14 +463,14 @@ def generate_dashboard(history: list, new_ids: set) -> None:
         is_new = h["id"] in new_ids
         row_class = "new" if is_new else ""
         badge = '<span class="badge">NEW</span> ' if is_new else ""
-        rules = ", ".join(h["rules"])
+        rules = esc(", ".join(h["rules"]))
         rows_html.append(f"""
         <tr class="{row_class}">
-            <td>{h['timestamp']}</td>
-            <td>{h['company']}</td>
-            <td>{h['security']}</td>
-            <td>{h['category']}</td>
-            <td>{badge}<a href="{h['url']}" target="_blank">{h['title']}</a></td>
+            <td>{esc(h['timestamp'])}</td>
+            <td>{esc(h['company'])}</td>
+            <td>{esc(h['security'])}</td>
+            <td>{esc(h['category'])}</td>
+            <td>{badge}<a href="{esc(h['url'], quote=True)}" target="_blank" rel="noopener">{esc(h['title'])}</a></td>
             <td>{rules}</td>
         </tr>""")
 
@@ -483,31 +511,49 @@ def generate_dashboard(history: list, new_ids: set) -> None:
 
 # ============================== EMAIL =======================================
 
-def send_email(new_hits: list) -> None:
-    lines = [f"SGX market-moving announcements — {now_sgt():%d %b %Y %H:%M}\n"]
-    for ann in new_hits:
-        rule_names = ", ".join(r.name for r in ann.matches)
-        lines.append(f"[{rule_names}] {ann.company}")
-        lines.append(f"    {ann.title}")
-        lines.append(f"    {ann.timestamp} - {ann.url}\n")
+def send_email(hits: list) -> None:
+    """hits = list of history dicts (see ann_to_dict)."""
+    lines = [f"SGX market-moving announcements — {now_sgt():%d %b %Y %H:%M} SGT\n"]
+    for h in hits:
+        rule_names = ", ".join(h["rules"])
+        lines.append(f"[{rule_names}] {h['company']}")
+        lines.append(f"    {h['title']}")
+        lines.append(f"    {h['timestamp']} - {h['url']}\n")
     body = "\n".join(lines)
 
     msg = MIMEText(body)
-    msg["Subject"] = f"SGX Alert: {len(new_hits)} market-moving announcement(s)"
+    msg["Subject"] = f"SGX Alert: {len(hits)} market-moving announcement(s)"
     msg["From"] = ALERT_FROM
     msg["To"] = ALERT_TO
 
     context = ssl.create_default_context()
-    with smtplib.SMTP(SMTP_HOST, SMTP_PORT) as server:
+    with smtplib.SMTP(SMTP_HOST, SMTP_PORT, timeout=30) as server:
         server.starttls(context=context)
         server.login(SMTP_USER, SMTP_PASSWORD)
         server.sendmail(ALERT_FROM, [ALERT_TO], msg.as_string())
 
 
+def unsent(history: list) -> list:
+    """Hits whose email hasn't gone out yet (older entries without the flag count as sent)."""
+    return [h for h in history if not h.get("emailed", True)][:MAX_EMAIL_ITEMS]
+
+
 # ================================ MAIN ======================================
 
+def report_coverage(raw: list, new_count: int, had_seen: bool) -> None:
+    stamps = [a.timestamp for a in raw]
+    print(f"[coverage] rows read: {len(raw)} | newest: {stamps[0]} | oldest: {stamps[-1]} "
+          f"| new this run: {new_count}")
+    if had_seen and new_count == len(raw):
+        print("[coverage] WARNING: every row on the page was new. Announcements posted "
+              "since the last run may have scrolled off the page and been missed - "
+              "run more often or load more rows.")
+
+
 def main():
-    seen = load_seen()
+    seen_list = load_seen()
+    seen = set(seen_list)
+    had_seen = bool(seen_list)
     history = load_hit_history()
 
     try:
@@ -522,31 +568,42 @@ def main():
         sys.exit(1)
 
     new_hits = []
+    new_count = 0
     for ann in raw:
         if ann.id in seen:
             continue
         seen.add(ann.id)
+        seen_list.append(ann.id)
+        new_count += 1
         classify(ann)
         if is_market_moving(ann):
             new_hits.append(ann)
 
-    save_seen(seen)
+    report_coverage(raw, new_count, had_seen)
+    save_seen(seen_list)
 
     if new_hits:
         history = [ann_to_dict(a) for a in new_hits] + history
-        save_hit_history(history)
+    save_hit_history(history)   # saved BEFORE emailing, so nothing is lost if the email fails
 
     generate_dashboard(history, new_ids={a.id for a in new_hits})
 
-    if new_hits:
+    to_send = unsent(history)
+    if to_send:
         try:
-            send_email(new_hits)
+            send_email(to_send)
+            for h in to_send:
+                h["emailed"] = True
+            save_hit_history(history)
+            retried = len(to_send) - len(new_hits)
+            extra = f" (including {retried} retried from earlier runs)" if retried > 0 else ""
             print(f"Found {len(new_hits)} new market-moving announcement(s). "
-                  f"Emailed alert and updated sgx_dashboard.html.")
+                  f"Emailed {len(to_send)} item(s){extra} and updated the dashboard.")
         except Exception as e:
             print(f"[email error] {e}", file=sys.stderr)
             print(f"Found {len(new_hits)} new market-moving announcement(s), "
-                  f"but the email failed to send. Dashboard was still updated.")
+                  f"but the email failed to send - it will be retried next run. "
+                  f"Dashboard was still updated.")
     else:
         print(f"No new market-moving announcements this run "
               f"({len(raw)} total rows checked). Dashboard refreshed.")
