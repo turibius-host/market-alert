@@ -1,13 +1,25 @@
 """
 market_alert.py - Global market-moving news + price-move alerter
 
-Run by Windows Task Scheduler every 10 minutes. Each run it:
-  1. reads ~22 free news RSS feeds (in parallel),
+Run by GitHub Actions (or Windows Task Scheduler) every 10 minutes. Each run it:
+  1. reads ~30 free news RSS feeds (in parallel),
   2. scores every headline by keywords and removes duplicates,
-  3. checks Treasury yields, Brent oil and the VIX for sudden moves,
-  4. rewrites market_dashboard.html (open it once in your browser - it refreshes itself).
+  3. checks Treasury yields, Brent oil, the VIX and AI-trade stocks for sudden moves,
+  4. rewrites the dashboard HTML (open it once in your browser - it refreshes itself),
+  5. emails new URGENT items (with topic-level duplicate suppression).
 
-Everything it creates lives in the same folder as this script.
+Everything it creates lives in MARKET_ALERT_DIR (or next to this script).
+
+DUPLICATE-ALERT FIXES in this version:
+  - Topic cooldown now matches on shared specific keywords (hormuz, cxmt, openai...)
+    instead of an exact "two strongest keywords" key, so different headlines about the
+    same event no longer each trigger an email.
+  - A follow-up must score EMAIL_TOPIC_MARGIN higher than the last email to break the cooldown.
+  - send_email can no longer send twice if the first attempt succeeded but failed on exit.
+  - State is saved immediately after an email is sent, so a later crash can't lose the
+    "already emailed" flags.
+  - Price alerts: longer cooldown, and a fast-move alert also covers the day-gap alert so
+    one symbol doesn't email twice in a row.
 """
 
 import difflib
@@ -48,8 +60,10 @@ EMAIL_MAX_ITEMS = 15         # max headlines in one email (extras go in the next
 EMAIL_MAX_PER_DAY = 30       # safety cap so a busy news day can't flood your inbox
 STRONG_WEIGHT = 8            # a single-source headline is only emailed if it has a keyword this strong
                              # (or is confirmed by a second, different publisher)
-EMAIL_TOPIC_COOLDOWN_HOURS = 6   # after emailing a topic, hold back follow-ups on it this long
-                                 # (unless the new item is clearly bigger)
+EMAIL_TOPIC_COOLDOWN_HOURS = 12  # after emailing a topic, hold back follow-ups on it this long
+                                 # (unless the new item is clearly bigger - see margin below)
+EMAIL_TOPIC_MARGIN = 8           # a follow-up must score at least this much HIGHER than the last
+                                 # email on that topic to break the cooldown (lower = more emails)
 
 # Price-move alerts.
 #   kind "yield" -> thresholds in basis points (1 bp = 0.01%)
@@ -75,7 +89,7 @@ MARKETS = [
     ("005930.KS",  "Samsung Electronics",   "pct",   3.0,       5.0),
 ]
 PRICE_WINDOW_MIN = 60      # compare the latest price with the price ~this many minutes ago
-ALERT_COOLDOWN_MIN = 60    # don't repeat an alert for the same market within this time
+ALERT_COOLDOWN_MIN = 180   # don't repeat a fast-move alert for the same market within this time
 
 # ============================================================
 # NEWS SOURCES: (name, url, bonus)
@@ -311,6 +325,18 @@ COMBOS_COMPILED = [
      [(t.rstrip("*"), make_pattern(t)) for t in events])
     for floor, names, events in COMBOS
 ]
+
+# Words too general to identify a *topic* (used by the email topic cooldown).
+# "hormuz", "cxmt", "openai", "iran", "powell"... identify a topic; "stocks", "plunge",
+# "ai", "chips"... do not, because unrelated stories share them.
+GENERIC_TERMS = (
+    {t.rstrip("*") for t in KEYWORDS[2]}            # stocks, dollar, gold, oil, china...
+    | {"ai", "chip", "chips", "gpu", "semiconductor", "chipmaker", "memory", "llm",
+       "artificial intelligence", "war", "plunge", "tumble", "soar", "surge",
+       "sell-off", "selloff", "rally", "jump", "slump", "crash", "slide", "sink",
+       "sank", "tank", "plummet", "warns", "warning", "forecast", "outlook",
+       "guidance", "downgrade", "price", "prices", "price move"}
+)
 
 
 def score_text(text):
@@ -626,6 +652,11 @@ def check_markets(state, now):
         snapshots.append({"label": label, "value": value_text, "day": day_text,
                           "up": day_change >= 0, "ai": symbol in AI_SYMBOLS})
 
+        day_dir = "up" if day_change > 0 else "down"
+        day_key = f"{symbol}:day:{day_dir}:{prev:.4f}"
+        day_hit = day_threshold is not None and abs(day_change) >= day_threshold
+        fired = False
+
         # 1) fast move within about the last hour
         if (move is not None and abs(move) >= threshold
                 and not recently(last_alert, symbol, now, ALERT_COOLDOWN_MIN)):
@@ -633,16 +664,18 @@ def check_markets(state, now):
             title = (f"{label} {direction} {fmt(move)} in about "
                      f"{PRICE_WINDOW_MIN} min (now {value_text})")
             add_price_alert(state, now, symbol, title, symbol)
+            fired = True
+            if day_hit:
+                # this alert already covers the gap vs the previous close - don't send a
+                # second alert for the same symbol a few minutes later
+                last_alert[day_key] = now.isoformat()
 
         # 2) big move versus the previous close (catches gaps at the open).
         #    One alert per symbol per direction per trading day.
-        if day_threshold is not None and abs(day_change) >= day_threshold:
-            direction = "up" if day_change > 0 else "down"
-            key = f"{symbol}:day:{direction}:{prev:.4f}"
-            if key not in last_alert:
-                title = (f"{label} {direction} {abs(day_change):.1f}% versus the "
-                         f"previous close (now {value_text})")
-                add_price_alert(state, now, symbol, title, key)
+        if day_hit and not fired and day_key not in last_alert:
+            title = (f"{label} {day_dir} {abs(day_change):.1f}% versus the "
+                     f"previous close (now {value_text})")
+            add_price_alert(state, now, symbol, title, day_key)
 
     state["snapshots"] = snapshots
 
@@ -800,6 +833,7 @@ def send_email(cfg, subject, text_body, html_body):
     ctx = ssl.create_default_context()
     debug = 1 if "--debug" in sys.argv else 0
     errors = []
+    sent = False   # becomes True the moment Gmail accepts the message
     # Try port 465 (SSL) first; if something on the PC blocks it, try 587 (STARTTLS).
     for port in (465, 587):
         try:
@@ -810,6 +844,7 @@ def send_email(cfg, subject, text_body, html_body):
                     server.esmtp_features["auth"] = "PLAIN"   # one login method only
                     server.login(cfg["sender"], cfg["app_password"])
                     server.send_message(msg)
+                    sent = True
             else:
                 with smtplib.SMTP("smtp.gmail.com", 587, timeout=30) as server:
                     server.set_debuglevel(debug)
@@ -819,6 +854,7 @@ def send_email(cfg, subject, text_body, html_body):
                     server.esmtp_features["auth"] = "PLAIN"   # one login method only
                     server.login(cfg["sender"], cfg["app_password"])
                     server.send_message(msg)
+                    sent = True
             return
         except smtplib.SMTPAuthenticationError:
             raise RuntimeError(
@@ -827,6 +863,10 @@ def send_email(cfg, subject, text_body, html_body):
                 "App passwords are exactly 16 letters - create a new one and paste it in."
             )
         except (OSError, smtplib.SMTPException) as e:
+            if sent:
+                # The mail was already accepted; only the goodbye (QUIT) failed.
+                # Never try the other port - that would send the same email twice.
+                return
             errors.append(f"port {port}: {type(e).__name__}: {e}")
     raise RuntimeError(" | ".join(errors))
 
@@ -839,9 +879,10 @@ def is_confirmed(it):
     return len(set(pubs)) >= 2 or it.get("top", 0) >= STRONG_WEIGHT
 
 
-def topic_key(it):
-    """The two strongest keywords identify the topic, e.g. 'cxmt|dram'."""
-    return "|".join(sorted(it.get("hits", [])[:2]))
+def topic_terms(it):
+    """The specific keywords that identify what a headline is about
+    (e.g. {'hormuz', 'tanker'} or {'cxmt'}), without generic words like 'stocks' or 'plunge'."""
+    return {h for h in it.get("hits", []) if h not in GENERIC_TERMS}
 
 
 def send_alerts(state, now, first_run):
@@ -877,25 +918,30 @@ def send_alerts(state, now, first_run):
         log(f"Daily email limit ({EMAIL_MAX_PER_DAY}) reached - skipping.")
         return
 
-    # Topic cooldown: don't email a follow-up on a topic we emailed about recently,
-    # unless the new item is clearly bigger. Suppressed items still show on the dashboard.
-    topics = state.setdefault("topics", {})
+    # Topic cooldown: a headline that shares a specific keyword (hormuz, cxmt, openai...)
+    # with something emailed recently is a follow-up on the same story. It is only emailed
+    # if it scores clearly higher (EMAIL_TOPIC_MARGIN). Suppressed items still show on the
+    # dashboard.
+    topic_log = [r for r in state.get("topic_log", [])
+                 if parse_iso(r["t"]) > now - timedelta(days=1)]
+    state["topic_log"] = topic_log
     cooldown = timedelta(hours=EMAIL_TOPIC_COOLDOWN_HOURS)
-    for k in [k for k, v in topics.items() if parse_iso(v["t"]) < now - timedelta(days=3)]:
-        del topics[k]
 
     pending.sort(key=lambda it: (it["score"], it["published"]), reverse=True)
-    batch, batch_topics = [], set()
+    batch, batch_terms = [], []
     for it in pending:
         if "Market data" not in it["sources"]:
-            key = topic_key(it)
-            rec = topics.get(key)
-            if key in batch_topics or (
-                    rec and parse_iso(rec["t"]) > now - cooldown and it["score"] < rec["score"] + 3):
-                it["emailed"] = True          # treat as a follow-up: dashboard only
-                log(f"Follow-up not emailed (topic '{key}' already sent): {it['title'][:80]}")
-                continue
-            batch_topics.add(key)
+            terms = topic_terms(it)
+            if terms:
+                matches = [r for r in topic_log
+                           if parse_iso(r["t"]) > now - cooldown and terms & set(r["terms"])]
+                rec = max(matches, key=lambda r: r["score"]) if matches else None
+                in_batch = any(terms & bt for bt in batch_terms)
+                if in_batch or (rec and it["score"] < rec["score"] + EMAIL_TOPIC_MARGIN):
+                    it["emailed"] = True          # treat as a follow-up: dashboard only
+                    log(f"Follow-up not emailed (topic {sorted(terms)}): {it['title'][:80]}")
+                    continue
+                batch_terms.append(terms)
         batch.append(it)
         if len(batch) >= EMAIL_MAX_ITEMS:
             break
@@ -926,11 +972,15 @@ def send_alerts(state, now, first_run):
     for it in batch:
         it["emailed"] = True
         if "Market data" not in it["sources"]:
-            topics[topic_key(it)] = {"t": now.isoformat(), "score": it["score"]}
+            terms = topic_terms(it)
+            if terms:
+                topic_log.append({"t": now.isoformat(), "terms": sorted(terms), "score": it["score"]})
         pub_local = local(parse_iso(it["published"])).strftime("%d %b %H:%M")
         log(f"  emailed [{it['score']}] {it['title'][:90]} | {', '.join(it['sources'])} | published {pub_local}")
     times.append(now.isoformat())
     log(f"Email sent to {cfg['recipient']} with {len(batch)} item(s).")
+    # Save right away so a crash or timeout later in this run can't forget what was emailed.
+    save_state(state)
 
 
 def test_email():
