@@ -1,5 +1,83 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UJLSCUKI8RY6YR1E/d4456bb0db183f7b81bfb841a8e2282a33055d23bbf3fdaa34e687f68404983d",
+    "company": "DIGILIFE TECHNOLOGIES LIMITED",
+    "security": "DIGILIFE TECHNOLOGIES LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 09:00 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UJLSCUKI8RY6YR1E/d4456bb0db183f7b81bfb841a8e2282a33055d23bbf3fdaa34e687f68404983d",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JDUXC4HGQY3OBJRD/38ccb46697deebfa4b130468bc74bd88954bb7f17aba691830989aa06852b061",
+    "company": "FRASERS PROPERTY LIMITED",
+    "security": "FRASERS PROPERTY LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Announcement pursuant to Rule 706A of the SGX-ST Listing Manual",
+    "timestamp": "13 Nov 2026 08:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JDUXC4HGQY3OBJRD/38ccb46697deebfa4b130468bc74bd88954bb7f17aba691830989aa06852b061",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/W3LIWGWVO23H3YYE/ce5e439eaae9e67162392df41e6be37cdda7b2979dfa237f2b411fd1cf6a7fc0",
+    "company": "FRASERS PROPERTY LIMITED",
+    "security": "FRASERS PROPERTY LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "13 Nov 2026 08:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/W3LIWGWVO23H3YYE/ce5e439eaae9e67162392df41e6be37cdda7b2979dfa237f2b411fd1cf6a7fc0",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GT84PDSNPM4FCDW4/283fb74780f97c0607daf8f7062c7239f5c083e7f508d06c70e0762a16eefccd",
+    "company": "SHANGHAI TURBO ENTERPRISES LTD",
+    "security": "SHANGHAI TURBO ENTERPRISES LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 08:09 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GT84PDSNPM4FCDW4/283fb74780f97c0607daf8f7062c7239f5c083e7f508d06c70e0762a16eefccd",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/54IA6F2GHXCT9F50/40f93bfa24210e22dbd1e1bc526556e90d2f016729384d116054f3d6a7c87d1c",
+    "company": "TRANS-CHINA AUTOMOTIVE HOLDINGS LIMITED",
+    "security": "TRANS-CHINA AUTOMOTIVE HOLDINGS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::RENOUNCEABLE NON-UNDERWRITTEN RIGHTS ISSUE - USE OF PROCEEDS FROM THE RIGHTS ISSUE",
+    "timestamp": "13 Nov 2026 08:02 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/54IA6F2GHXCT9F50/40f93bfa24210e22dbd1e1bc526556e90d2f016729384d116054f3d6a7c87d1c",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GZQ0NZ46L13MISK8/d771883126e5ec53a9cde4aee9d6fea5bbcf5241508b1d918a52f732ad6d580f",
+    "company": "MEDI LIFESTYLE LIMITED",
+    "security": "MEDI LIFESTYLE LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 07:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GZQ0NZ46L13MISK8/d771883126e5ec53a9cde4aee9d6fea5bbcf5241508b1d918a52f732ad6d580f",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/YRDANKWZX3CTX53Y/84fec2d820e86c3607a8ee1c705974a10a573b26b702e2bafd775b49bbc206f0",
     "company": "DAIICHI LIFE INSURANCE CO., LTD.",
     "security": "",
