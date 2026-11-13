@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VI7GRJQQUWO3IQGY/e0858d4eafddd861743568bdf5d6a91747a406d9287bf3ca3c2aaa9b97853513",
+    "company": "STAMFORD LAND CORPORATION LTD",
+    "security": "STAMFORD LAND CORPORATION LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 05:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VI7GRJQQUWO3IQGY/e0858d4eafddd861743568bdf5d6a91747a406d9287bf3ca3c2aaa9b97853513",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IW8UDI0O0XR5DODW/4f50b545218a3a450149531b4a0374eddcbc74aae97e13b4d68538055b82528d",
+    "company": "JAPAN POST INSURANCE CO., LTD.",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Notice Concerning the Determination of Matters Related to the Acquisition of Treasury Stock",
+    "timestamp": "13 Nov 2026 05:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IW8UDI0O0XR5DODW/4f50b545218a3a450149531b4a0374eddcbc74aae97e13b4d68538055b82528d",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WPF5JLCMSE4EDIK8/06e4300813a3c8a8ae3bd80c483a98bcb45c84ea0f07ef944f7134d0a2d824e9",
+    "company": "JAPAN POST INSURANCE CO., LTD.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "13 Nov 2026 05:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WPF5JLCMSE4EDIK8/06e4300813a3c8a8ae3bd80c483a98bcb45c84ea0f07ef944f7134d0a2d824e9",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/7PPG01ZOFLOGLLOL/90efefdfed25965054d37c712b35cad9274ce60b05310ed84b1dbcdb6f862ab9",
     "company": "METAPLANET INC.",
     "security": "METAPLANET JPY52B Z311029",
