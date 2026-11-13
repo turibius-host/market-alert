@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/A4F5RDUPN7VHNVRR/a3b0496be8a2f744acbd76b20ae873a888bae011ef95e69a892e3d48dda87dc2",
+    "company": "BANCOLOMBIA S.A.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "14 Nov 2026 05:00 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/A4F5RDUPN7VHNVRR/a3b0496be8a2f744acbd76b20ae873a888bae011ef95e69a892e3d48dda87dc2",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/N1IWVSRV3VEA6F3Q/c01a5ee56d66a2788218526f92cb66c355ab5bd99cf8988f5c30fde7f619f76f",
     "company": "EDL-GENERATION PUBLIC COMPANY",
     "security": "MULTIPLE",
