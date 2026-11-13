@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7PPG01ZOFLOGLLOL/90efefdfed25965054d37c712b35cad9274ce60b05310ed84b1dbcdb6f862ab9",
+    "company": "METAPLANET INC.",
+    "security": "METAPLANET JPY52B Z311029",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 02:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7PPG01ZOFLOGLLOL/90efefdfed25965054d37c712b35cad9274ce60b05310ed84b1dbcdb6f862ab9",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZUOM53284NFL1R2W/abd07a220fe20b53de822e5efad8c4aa4c61e72ccc4aa24dca9ea9d0b1c3b859",
+    "company": "RAKUTEN GROUP, INC.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 02:45 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZUOM53284NFL1R2W/abd07a220fe20b53de822e5efad8c4aa4c61e72ccc4aa24dca9ea9d0b1c3b859",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MSDFW5WIRSHL4635/0f0ba031b9585207d0075a72173bfbc4ccfa84499a082a52a7c285174c29bc4d",
+    "company": "METAPLANET INC.",
+    "security": "METAPLANET JPY52B Z311029",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 02:42 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MSDFW5WIRSHL4635/0f0ba031b9585207d0075a72173bfbc4ccfa84499a082a52a7c285174c29bc4d",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZN4OD5YW6XYC35WO/a15329ad429b0e55547f343a4a0c795dae27e661a7cda78b762a2d2e0d52d40f",
     "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
     "security": "SINGAPORE INST OF ADV MED LTD.",
