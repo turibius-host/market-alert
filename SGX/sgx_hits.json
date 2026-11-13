@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/483YKZ0GXW8QNKWE/83e9e2a654a4289b227ec406b0c96b741dcc74386141a248c376743467732cbe",
+    "company": "OPTUS FINANCE PTY LIMITED",
+    "security": "OPTUS FIN EUR500M1%N290620",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 10:47 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/483YKZ0GXW8QNKWE/83e9e2a654a4289b227ec406b0c96b741dcc74386141a248c376743467732cbe",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/122NWQ0918KYGKC0/837b64848aae70fe1c4477603849396f42ca6cfec61601370a1bf6a6b4719272",
     "company": "UNITED HAMPSHIRE US REIT MANAGEMENT PTE. LTD.",
     "security": "UNITED HAMPSHIRE US REIT",
