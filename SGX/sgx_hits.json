@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/N1IWVSRV3VEA6F3Q/c01a5ee56d66a2788218526f92cb66c355ab5bd99cf8988f5c30fde7f619f76f",
+    "company": "EDL-GENERATION PUBLIC COMPANY",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 11:01 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/N1IWVSRV3VEA6F3Q/c01a5ee56d66a2788218526f92cb66c355ab5bd99cf8988f5c30fde7f619f76f",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/97ZD729RJR1P9X05/997c240e2ed3439e459ace4e51983c528476b2ad42dca9ebcc05e728efbcae22",
+    "company": "OCTOPUS (APAC) HOLDINGS LIMITED",
+    "security": "OCTOPUS (APAC) HOLDINGS LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 10:59 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/97ZD729RJR1P9X05/997c240e2ed3439e459ace4e51983c528476b2ad42dca9ebcc05e728efbcae22",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MWIDCZG7MF3AR2P8/86cb62be180482b55ec81054b35a4e4e828f9f4453839bd54b0d6fd25ffc9239",
+    "company": "ASIATIC GROUP (HOLDINGS) LIMITED",
+    "security": "ASIATIC GROUP (HOLDINGS) LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "13 Nov 2026 10:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MWIDCZG7MF3AR2P8/86cb62be180482b55ec81054b35a4e4e828f9f4453839bd54b0d6fd25ffc9239",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/TNKA5JHD79SQOLP4/549568435da31d0fd67b5acb61279fd02b7fd2e890bf5bd928d6e32bffd3d371",
     "company": "MERCURIUS CAP INVESTMENT LTD",
     "security": "MERCURIUS CAP INVESTMENT LTD",
