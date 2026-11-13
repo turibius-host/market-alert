@@ -1,5 +1,57 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/TNKA5JHD79SQOLP4/549568435da31d0fd67b5acb61279fd02b7fd2e890bf5bd928d6e32bffd3d371",
+    "company": "MERCURIUS CAP INVESTMENT LTD",
+    "security": "MERCURIUS CAP INVESTMENT LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 09:53 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/TNKA5JHD79SQOLP4/549568435da31d0fd67b5acb61279fd02b7fd2e890bf5bd928d6e32bffd3d371",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ARZSONGFJBOJBXMN/1f95492a1bee6b0a850edf2631027d0c2da454a7a822c80ddeab88985d465d60",
+    "company": "TUNG LOK RESTAURANTS (2000) LTD",
+    "security": "TUNG LOK RESTAURANTS(2000) LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 09:25 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ARZSONGFJBOJBXMN/1f95492a1bee6b0a850edf2631027d0c2da454a7a822c80ddeab88985d465d60",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MFZBWD5ST2S2JMVE/e89db0a92163f1b73df9af70543bc5f830674a2f25614b52f987b6dbb26a89fd",
+    "company": "HS OPTIMUS HOLDINGS LIMITED",
+    "security": "HS OPTIMUS HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 09:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MFZBWD5ST2S2JMVE/e89db0a92163f1b73df9af70543bc5f830674a2f25614b52f987b6dbb26a89fd",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SZGSYUUU1XU6LQSJ/02763b48b5d74966d52f2ee30915d07044d33785bbc8b9d3b59a3630a12ca4bc",
+    "company": "MM2 ASIA LTD.",
+    "security": "MM2 ASIA LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 09:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SZGSYUUU1XU6LQSJ/02763b48b5d74966d52f2ee30915d07044d33785bbc8b9d3b59a3630a12ca4bc",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/UJLSCUKI8RY6YR1E/d4456bb0db183f7b81bfb841a8e2282a33055d23bbf3fdaa34e687f68404983d",
     "company": "DIGILIFE TECHNOLOGIES LIMITED",
     "security": "DIGILIFE TECHNOLOGIES LIMITED",
