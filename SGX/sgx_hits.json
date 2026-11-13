@@ -1,5 +1,70 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YRDANKWZX3CTX53Y/84fec2d820e86c3607a8ee1c705974a10a573b26b702e2bafd775b49bbc206f0",
+    "company": "DAIICHI LIFE INSURANCE CO., LTD.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 07:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YRDANKWZX3CTX53Y/84fec2d820e86c3607a8ee1c705974a10a573b26b702e2bafd775b49bbc206f0",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/RPRCGXG1K6SXUPI5/1942ef2b2f6d699082a8cc337f613e63d23606f5372c471862fef2575650159e",
+    "company": "VCPLUS LIMITED",
+    "security": "VCPLUS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 07:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/RPRCGXG1K6SXUPI5/1942ef2b2f6d699082a8cc337f613e63d23606f5372c471862fef2575650159e",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8NTBKEWOEA3H0EW0/df9eadf9ea5cb92075c0175256cdb51d7807855e2d39749fdc9c222b7496a2d8",
+    "company": "HIAP SENG INDUSTRIES LIMITED",
+    "security": "HIAP SENG INDUSTRIES LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 07:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8NTBKEWOEA3H0EW0/df9eadf9ea5cb92075c0175256cdb51d7807855e2d39749fdc9c222b7496a2d8",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VIGNSSA1ZA4NOYVV/e2c792fa6dbd9c3df23f2d06c374da9596b179c22fc9d820020b643380ea920c",
+    "company": "NET PACIFIC HOLDINGS LIMITED",
+    "security": "NET PACIFIC HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::First Quarter Results",
+    "timestamp": "13 Nov 2026 07:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VIGNSSA1ZA4NOYVV/e2c792fa6dbd9c3df23f2d06c374da9596b179c22fc9d820020b643380ea920c",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/D3WJGEFNKNT7R5DD/15cca1c4977f8d22eeca4b9d37ab420ef834e3d75f4dc393ba708e74cf5c595b",
+    "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
+    "security": "SINGAPORE INST OF ADV MED LTD.",
+    "category": "General Announcement",
+    "title": "General Announcement::Clarification On 1Q2027 Unaudited Condensed Interim Consolidated Financial Statements",
+    "timestamp": "13 Nov 2026 07:01 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/D3WJGEFNKNT7R5DD/15cca1c4977f8d22eeca4b9d37ab420ef834e3d75f4dc393ba708e74cf5c595b",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/VZG4I1YLBKJWO9FU/7da9c125a9078b9b3bdefb75c288f271f530dc02cf9c9cd8fce4d68c630542e4",
     "company": "UNUSUAL LIMITED",
     "security": "UNUSUAL LIMITED",
