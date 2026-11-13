@@ -1,5 +1,109 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VZG4I1YLBKJWO9FU/7da9c125a9078b9b3bdefb75c288f271f530dc02cf9c9cd8fce4d68c630542e4",
+    "company": "UNUSUAL LIMITED",
+    "security": "UNUSUAL LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 06:37 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VZG4I1YLBKJWO9FU/7da9c125a9078b9b3bdefb75c288f271f530dc02cf9c9cd8fce4d68c630542e4",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EA05AA8BDK2CZ648/d600c6f01c123fcb17301e326f0927659f71d7e9a7d75638bf545cebe5fa9fb2",
+    "company": "FIRST REIT MANAGEMENT LIMITED",
+    "security": "FIRST REAL ESTATE INV TRUST",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Sale of the Lentor Residence, 51 Lentor Avenue Singapore 786876",
+    "timestamp": "13 Nov 2026 06:33 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EA05AA8BDK2CZ648/d600c6f01c123fcb17301e326f0927659f71d7e9a7d75638bf545cebe5fa9fb2",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ATSOCCIF6CA3EV4C/a7e772d4b575d2a7e8c7da6beb963847a8c088a0828e508cedcf0a801905a692",
+    "company": "AZEUS SYSTEMS HOLDINGS LTD.",
+    "security": "AZEUS SYSTEMS HOLDINGS LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 06:31 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ATSOCCIF6CA3EV4C/a7e772d4b575d2a7e8c7da6beb963847a8c088a0828e508cedcf0a801905a692",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2Z3FUFWGLS5EH02S/64ba5f5868c88915e90a9dfa1990e3d41b2db278ce183712c8603084dad00c27",
+    "company": "HONGKONG LAND HOLDINGS LIMITED",
+    "security": "HONGKONG LAND HOLDINGS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Capital Recycling Update; Share Buyback Expansion",
+    "timestamp": "13 Nov 2026 06:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2Z3FUFWGLS5EH02S/64ba5f5868c88915e90a9dfa1990e3d41b2db278ce183712c8603084dad00c27",
+    "rules": [
+      "Share Buyback"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/HPD5MWUVJG9JO810/da1816a6c5b6f21e7934c3e96ec4041e35b168b042f9543be8d3f7abfc94899f",
+    "company": "PAN HONG HOLDINGS GROUP LIMITED",
+    "security": "PAN HONG HOLDINGS GROUP LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 06:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/HPD5MWUVJG9JO810/da1816a6c5b6f21e7934c3e96ec4041e35b168b042f9543be8d3f7abfc94899f",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/6ABVCPZDN338TDZZ/e45d4f3d2b899d889add1a42e38e24ade8467f77dafc39fba2e8548a2b9110a0",
+    "company": "MDR LIMITED",
+    "security": "MDR LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Quarterly Update (Q3-2026) on the Proceeds raised from the Rights cum Warrants Issue",
+    "timestamp": "13 Nov 2026 06:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/6ABVCPZDN338TDZZ/e45d4f3d2b899d889add1a42e38e24ade8467f77dafc39fba2e8548a2b9110a0",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1U4D56KTNPGY8RL7/d19240815fb87a372653f944c094198eb163059196ce25f99ec214b487fe118c",
+    "company": "POLARIS E&M LIMITED",
+    "security": "POLARIS E&M LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "13 Nov 2026 06:23 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1U4D56KTNPGY8RL7/d19240815fb87a372653f944c094198eb163059196ce25f99ec214b487fe118c",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YTEKWAYYO1K22HOP/cecd68e40c6c320bbbc80486362d499aae31dbda1b301632d59f6d04c59db28e",
+    "company": "METRO HOLDINGS LTD",
+    "security": "METRO HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 06:20 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YTEKWAYYO1K22HOP/cecd68e40c6c320bbbc80486362d499aae31dbda1b301632d59f6d04c59db28e",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/VI7GRJQQUWO3IQGY/e0858d4eafddd861743568bdf5d6a91747a406d9287bf3ca3c2aaa9b97853513",
     "company": "STAMFORD LAND CORPORATION LTD",
     "security": "STAMFORD LAND CORPORATION LTD",
