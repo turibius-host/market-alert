@@ -1,5 +1,83 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZN4OD5YW6XYC35WO/a15329ad429b0e55547f343a4a0c795dae27e661a7cda78b762a2d2e0d52d40f",
+    "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
+    "security": "SINGAPORE INST OF ADV MED LTD.",
+    "category": "General Announcement",
+    "title": "General Announcement::Sponsor's Statement for the announcement released on the Request for Lifting of Trading Halt",
+    "timestamp": "13 Nov 2026 12:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZN4OD5YW6XYC35WO/a15329ad429b0e55547f343a4a0c795dae27e661a7cda78b762a2d2e0d52d40f",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7KW3LZRJGN3LO0YF/19e0b55265da32d4eeba2bc286cd03b084ffe03117ea1f412d2d5278c2ac97c2",
+    "company": "ADVANTEST CORPORATION",
+    "security": "ADVANTEST CORP JPY100B Z310328",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 12:26 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7KW3LZRJGN3LO0YF/19e0b55265da32d4eeba2bc286cd03b084ffe03117ea1f412d2d5278c2ac97c2",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZJNQMVSVBW9L5QO2/643b8b5362b70944b109ee8aa789e56aaaf47dd7ccfff96fcb1dccea0253de03",
+    "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
+    "security": "SINGAPORE INST OF ADV MED LTD.",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "13 Nov 2026 12:25 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZJNQMVSVBW9L5QO2/643b8b5362b70944b109ee8aa789e56aaaf47dd7ccfff96fcb1dccea0253de03",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3AHU5TCHKVWU7ARP/9116d40b1cc67a4773c2da58e4a24b23338ec665c0771ae1f258d60e67f20ee1",
+    "company": "DELUGE CORPORATION LIMITED",
+    "security": "DELUGE CORPORATION LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "13 Nov 2026 12:22 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3AHU5TCHKVWU7ARP/9116d40b1cc67a4773c2da58e4a24b23338ec665c0771ae1f258d60e67f20ee1",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/J1AU7RE1R5IHR1HP/0537a57947bceaf93956ac29b2309affd2aa21bc5d28a32e98ba50c485ea688c",
+    "company": "SINGAPORE INSTITUTE OF ADVANCED MEDICINE HOLDINGS LTD.",
+    "security": "SINGAPORE INST OF ADV MED LTD.",
+    "category": "Placements",
+    "title": "Placements::Proposed Placement to HNM of 1,730,000,000 Shares and 500,000,000 Warrants",
+    "timestamp": "13 Nov 2026 12:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/J1AU7RE1R5IHR1HP/0537a57947bceaf93956ac29b2309affd2aa21bc5d28a32e98ba50c485ea688c",
+    "rules": [
+      "Rights Issue / Placement / Fundraising"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OJ0D2WH84PRPDND6/3029d2b11a99c1fb40bb2d676cdbb280c83992d62b193de1dc29c171d3023e92",
+    "company": "NCB FINANCIAL GROUP LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "REPL::Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "13 Nov 2026 12:13 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OJ0D2WH84PRPDND6/3029d2b11a99c1fb40bb2d676cdbb280c83992d62b193de1dc29c171d3023e92",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/483YKZ0GXW8QNKWE/83e9e2a654a4289b227ec406b0c96b741dcc74386141a248c376743467732cbe",
     "company": "OPTUS FINANCE PTY LIMITED",
     "security": "OPTUS FIN EUR500M1%N290620",
