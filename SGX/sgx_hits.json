@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3E8HKNJSQLPCG54I/a2ab38ae86043babbc258e567be511f7a0e89fd770a1db6bcb5aae50c016271b",
+    "company": "MARY CHIA HOLDINGS LIMITED",
+    "security": "MARY CHIA HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "14 Nov 2026 01:19 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3E8HKNJSQLPCG54I/a2ab38ae86043babbc258e567be511f7a0e89fd770a1db6bcb5aae50c016271b",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/A4F5RDUPN7VHNVRR/a3b0496be8a2f744acbd76b20ae873a888bae011ef95e69a892e3d48dda87dc2",
     "company": "BANCOLOMBIA S.A.",
     "security": "MULTIPLE",
