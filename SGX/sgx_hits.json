@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Q3L42BQKJ11HF4SG/403ab43443f69071233b10f8207a945c3b6d33bcc78aae56cc1438d7a71cc0d0",
+    "company": "DEBAO PROPERTY DEVELOPMENT LTD.",
+    "security": "DEBAO PROPERTY DEVELOPMENT LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "14 Nov 2026 06:36 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Q3L42BQKJ11HF4SG/403ab43443f69071233b10f8207a945c3b6d33bcc78aae56cc1438d7a71cc0d0",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/N5DHFG552QQOOWWY/8dcd4a4df5a4209b0e3108a1e6320809f3505e9b88abb6ae355187a5a981671a",
     "company": "SINOSTAR PEC HOLDINGS LIMITED",
     "security": "SINOSTAR PEC HOLDINGS LIMITED",
