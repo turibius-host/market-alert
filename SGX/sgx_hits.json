@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KTY0Y7FSH05CBL7A/92e1a79654ac7ec42621942a53121e44320fff833fb16901af00ed49a01abba2",
+    "company": "GCCP RESOURCES LIMITED",
+    "security": "GCCP RESOURCES LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "14 Nov 2026 10:40 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KTY0Y7FSH05CBL7A/92e1a79654ac7ec42621942a53121e44320fff833fb16901af00ed49a01abba2",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UTRVMERRYDIWZS79/e490b8906e9a52b418c2eb4fd095c19f35c3d2c33b3b301d2013a97cfd84bd4c",
+    "company": "SALT INVESTMENTS LIMITED",
+    "security": "SALT INVESTMENTS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "14 Nov 2026 10:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UTRVMERRYDIWZS79/e490b8906e9a52b418c2eb4fd095c19f35c3d2c33b3b301d2013a97cfd84bd4c",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/HEPRGET14B3BKG2L/33a7f9c2996ba33a6c2b59fe0720d8016c3d49b9af486d9334f43922c29f8af4",
     "company": "METECH INTERNATIONAL LIMITED",
     "security": "METECH INTERNATIONAL LTD",
