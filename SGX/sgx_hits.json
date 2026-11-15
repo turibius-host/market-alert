@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LE9WEFSO7QOQSVD8/1369022febdba5d7e853e2b3d54536c50f1c9badb5f97626edaae58853f818c0",
+    "company": "CENTURION CORPORATION LIMITED",
+    "security": "CENTURION CORPORATION LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of 3 Kim Chuan Lane, Singapore and Establishment of Subsidiaries",
+    "timestamp": "16 Nov 2026 07:31 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LE9WEFSO7QOQSVD8/1369022febdba5d7e853e2b3d54536c50f1c9badb5f97626edaae58853f818c0",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/7R9OUUH29L72T03N/b4fcf5a8c255fcfe47e71b6eae8d0b69f9c1e333349f7115aed4d5dea1486315",
     "company": "SALT INVESTMENTS LIMITED",
     "security": "SALT INVESTMENTS LIMITED",
@@ -6076,18 +6089,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/IF9ZGKKATVFIZXUH/f02b893d40f13be3d7bcb0e9bb92d2083f2acadd2ed7db92053b127634163719",
     "rules": [
       "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IQ3A17NU2KXPW3QC/ab693fa86d7d5dd0dcaa4582d5250bd63f25d10588d1bf01cf66f72c1daabab6",
-    "company": "GMR HYDERABAD INTERNATIONAL AIRPORT LIMITED",
-    "security": "",
-    "category": "General Announcement",
-    "title": "General Announcement::Upgradation of Credit Ratings by Standard and Poor",
-    "timestamp": "30 Sep 2026 07:47 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IQ3A17NU2KXPW3QC/ab693fa86d7d5dd0dcaa4582d5250bd63f25d10588d1bf01cf66f72c1daabab6",
-    "rules": [
-      "Credit Rating / Going Concern / Audit Qualification"
     ]
   }
 ]
