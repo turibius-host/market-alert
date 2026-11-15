@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7R9OUUH29L72T03N/b4fcf5a8c255fcfe47e71b6eae8d0b69f9c1e333349f7115aed4d5dea1486315",
+    "company": "SALT INVESTMENTS LIMITED",
+    "security": "SALT INVESTMENTS LIMITED",
+    "category": "Financial Statements",
+    "title": "REPL::Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "15 Nov 2026 10:38 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7R9OUUH29L72T03N/b4fcf5a8c255fcfe47e71b6eae8d0b69f9c1e333349f7115aed4d5dea1486315",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PK6X4SPG2MFLQOAA/e138bdad696c533c94bff7590cadf1628b59cd32f4e57fbe23af62f78b45a37f",
+    "company": "SALT INVESTMENTS LIMITED",
+    "security": "SALT INVESTMENTS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Press Release in relation to Results Announcement for 1H FY2027",
+    "timestamp": "15 Nov 2026 10:11 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PK6X4SPG2MFLQOAA/e138bdad696c533c94bff7590cadf1628b59cd32f4e57fbe23af62f78b45a37f",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/KTY0Y7FSH05CBL7A/92e1a79654ac7ec42621942a53121e44320fff833fb16901af00ed49a01abba2",
     "company": "GCCP RESOURCES LIMITED",
     "security": "GCCP RESOURCES LIMITED",
