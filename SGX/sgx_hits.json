@@ -1,5 +1,83 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PUE7SYUAANL3K4PF/4c79b85b57637780793d4d454ec4d27dd7fa439675a2ff190db4d48b35793ada",
+    "company": "DIGITAL CORE REIT MANAGEMENT PTE. LTD.",
+    "security": "DIGITAL CORE REIT",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of Proposed Acquisition in Japan and Singapore",
+    "timestamp": "16 Nov 2026 07:07 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PUE7SYUAANL3K4PF/4c79b85b57637780793d4d454ec4d27dd7fa439675a2ff190db4d48b35793ada",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IP1DRTNAUAKK7883/ed272a0278257a464c9c3a2dec471dfbfe98cfa568bf69349a8ca93e074b3d04",
+    "company": "LEADER ENVIRONMENTAL TECHNOLOGIES LIMITED",
+    "security": "LEADER ENVIRONMENTAL TECH LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Disposal of Equity Interest in Associated Company, NTi Technology Pte Ltd",
+    "timestamp": "16 Nov 2026 06:41 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IP1DRTNAUAKK7883/ed272a0278257a464c9c3a2dec471dfbfe98cfa568bf69349a8ca93e074b3d04",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/93Q4TVKU4QQYNJ61/dd27bc6b2a6cf8b1ab59201e50c35c037b5dfb38c896dc3ffac24022148db3fe",
+    "company": "ASPIAL LIFESTYLE LIMITED",
+    "security": "ASPIAL LIFESTYLE LIMITED",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::Daily Share Buy-Back",
+    "timestamp": "16 Nov 2026 06:32 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/93Q4TVKU4QQYNJ61/dd27bc6b2a6cf8b1ab59201e50c35c037b5dfb38c896dc3ffac24022148db3fe",
+    "rules": [
+      "Watchlist: Aspial Lifestyle"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/93KUMPLXTE6DCGVV/fddabd5bfcb9bc511b95e1bf3cfab5856f073b2ebf5143624fc0b378a76ca6e2",
+    "company": "ENECO ENERGY LIMITED",
+    "security": "ENECO ENERGY LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of the Proposed Acquisition of the Property Located at 15 Gul Way, Singapore 629193",
+    "timestamp": "16 Nov 2026 06:31 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/93KUMPLXTE6DCGVV/fddabd5bfcb9bc511b95e1bf3cfab5856f073b2ebf5143624fc0b378a76ca6e2",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IVJNNSWVMMNAFSQ4/d6511bf4d27dc6211da8585d09faaca2129e745d98514dbb4c3aa050d01128d3",
+    "company": "ESR-REIT MANAGEMENT (S) LIMITED",
+    "security": "ESR REIT",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::ESR-REIT Completes Divestment of 15 Gul Way in Singapore",
+    "timestamp": "16 Nov 2026 06:30 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IVJNNSWVMMNAFSQ4/d6511bf4d27dc6211da8585d09faaca2129e745d98514dbb4c3aa050d01128d3",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/S7SA9UHP55TKJ4GC/f64ed5e690e392903b02ad763239a0883c8b1f7c14b85fbcbc00d8772fd3dae5",
+    "company": "OTS HOLDINGS LIMITED",
+    "security": "OTS HOLDINGS LIMITED",
+    "category": "Other Scheme of Arrangement",
+    "title": "Other Scheme of Arrangement::Grant of Leave to Convene the Scheme Meeting",
+    "timestamp": "16 Nov 2026 06:08 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/S7SA9UHP55TKJ4GC/f64ed5e690e392903b02ad763239a0883c8b1f7c14b85fbcbc00d8772fd3dae5",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/BK0HTD41IO9TJR3B/c0626caa2228fd4f8247f76641a6dcf428694fd1d7cfb35d582090d96c7e31d1",
     "company": "OUE HEALTHCARE LIMITED",
     "security": "OUE HEALTHCARE LIMITED",
@@ -6030,78 +6108,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/I4ECF8937YYPWAPD/407b4831e5c18d2abb096b7fe7be81d43f38da47bfabc7d57de581fb09308b59",
     "rules": [
       "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AGLBZAIHM6FUXY1I/bbcf6d96f06337b323e2d7d1b85ce4549a46bde2f1fe852692e24f8dd2f21ba5",
-    "company": "KEPPEL LTD.",
-    "security": "KEPPEL LTD.",
-    "category": "General Announcement",
-    "title": "General Announcement::Notice of Dates for Business Updates",
-    "timestamp": "02 Oct 2026 05:21 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AGLBZAIHM6FUXY1I/bbcf6d96f06337b323e2d7d1b85ce4549a46bde2f1fe852692e24f8dd2f21ba5",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JM3V6H9MUNNH2LT4/4eb0d0bea37e6db25a07e4efb586881847c4609efc2aa7ec2bb7a95d9bd79138",
-    "company": "WLB ASSET II D PTE. LTD.",
-    "security": "MULTIPLE",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "02 Oct 2026 05:10 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JM3V6H9MUNNH2LT4/4eb0d0bea37e6db25a07e4efb586881847c4609efc2aa7ec2bb7a95d9bd79138",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LOB8XKD6ZJL4KM19/bca572247fa93e309178e49cfb33bee51834e7cf6ad062087746b97d7743a37a",
-    "company": "GLP PTE. LTD.",
-    "security": "",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "02 Oct 2026 01:30 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LOB8XKD6ZJL4KM19/bca572247fa93e309178e49cfb33bee51834e7cf6ad062087746b97d7743a37a",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/U3U6WJ9PVN8324RF/d629252128403ea690bda70a2ae26acac1bcdd69af0d4c744bdf0e60c5ef7fa1",
-    "company": "ASIATIC GROUP (HOLDINGS) LIMITED",
-    "security": "ASIATIC GROUP (HOLDINGS) LTD",
-    "category": "General Announcement",
-    "title": "General Announcement::Request for Lifting of Trading Halt - Sponsor's Statement",
-    "timestamp": "02 Oct 2026 07:36 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/U3U6WJ9PVN8324RF/d629252128403ea690bda70a2ae26acac1bcdd69af0d4c744bdf0e60c5ef7fa1",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MN2Q3T28VMRRE3N6/b2301f7495019622bd528665984dc158480fe31c78a6d89a1d776c23f59f47b6",
-    "company": "ASIATIC GROUP (HOLDINGS) LIMITED",
-    "security": "ASIATIC GROUP (HOLDINGS) LTD",
-    "category": "Request for Lifting of Trading Halt",
-    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
-    "timestamp": "02 Oct 2026 07:33 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MN2Q3T28VMRRE3N6/b2301f7495019622bd528665984dc158480fe31c78a6d89a1d776c23f59f47b6",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4MN25PXVJV7Q1RQJ/449c83611e7080ab8c16e1c556848cbfa9ed67a83382f7658a122fd2045f2601",
-    "company": "ASIATIC GROUP (HOLDINGS) LIMITED",
-    "security": "ASIATIC GROUP (HOLDINGS) LTD",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::PROPOSED ACQUISITION OF KARRUS MOBILITY SDN. BHD.",
-    "timestamp": "01 Oct 2026 07:48 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4MN25PXVJV7Q1RQJ/449c83611e7080ab8c16e1c556848cbfa9ed67a83382f7658a122fd2045f2601",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
