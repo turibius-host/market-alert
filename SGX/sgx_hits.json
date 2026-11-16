@@ -1,5 +1,32 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GNTC6WALWEKMKOKE/64537191831d05a4d55edf48fe4eafc7806c6068fabc2cfefa4363d5e6f32fbb",
+    "company": "GEO ENERGY RESOURCES LIMITED",
+    "security": "GEO ENERGY RESOURCES LIMITED",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "16 Nov 2026 09:58 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GNTC6WALWEKMKOKE/64537191831d05a4d55edf48fe4eafc7806c6068fabc2cfefa4363d5e6f32fbb",
+    "rules": [
+      "Watchlist: Geo Energy",
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VLTE4CWU8ZA8BRJR/a36124ee64528fed191afd2438f317f0cdf358e7cae57407fca90044c9cb17a6",
+    "company": "SUMITOMO MITSUI FINANCE AND LEASING COMPANY, LIMITED",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "16 Nov 2026 09:44 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VLTE4CWU8ZA8BRJR/a36124ee64528fed191afd2438f317f0cdf358e7cae57407fca90044c9cb17a6",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/8NAE8O7R9TPKBPOU/2b1b4fe04f2fe2e82612246c4c0df6eb96fb07c9d0c037b246c57c5748540b9a",
     "company": "SINGAPORE AIRLINES LIMITED",
     "security": "MULTIPLE",
@@ -6069,30 +6096,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/3CZD1OM0VXYDJOM8/d15a8804d0a73e01b2c6c74e04e266576cc0d0792eed0ca95eb445ea86da7c96",
     "rules": [
       "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4QCGMD1OZBNR0SR4/5fca59030fad7270c33583367b10421ef9d6fb3e066e74f51ca5e70c0d2228e4",
-    "company": "CIMIC FINANCE (USA) PTY LTD.",
-    "security": "MULTIPLE",
-    "category": "General Announcement",
-    "title": "General Announcement::CIMIC GROUPS SEDGMAN AWARDED CONTRACT FOR JERVOIS COPPER PROJECT IN AUSTRALIA",
-    "timestamp": "01 Oct 2026 08:04 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4QCGMD1OZBNR0SR4/5fca59030fad7270c33583367b10421ef9d6fb3e066e74f51ca5e70c0d2228e4",
-    "rules": [
-      "Major Contract / Litigation"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/6FNEOF1XNKLVAFQA/58b45419d30c5fd6d752649f9e64eb0a4300ff5d1dceb4c1201092b46a9e5872",
-    "company": "CIMIC FINANCE LIMITED",
-    "security": "MULTIPLE",
-    "category": "General Announcement",
-    "title": "General Announcement::CIMIC GROUPS SEDGMAN AWARDED CONTRACT FOR JERVOIS COPPER PROJECT IN AUSTRALIA",
-    "timestamp": "01 Oct 2026 08:01 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/6FNEOF1XNKLVAFQA/58b45419d30c5fd6d752649f9e64eb0a4300ff5d1dceb4c1201092b46a9e5872",
-    "rules": [
-      "Major Contract / Litigation"
     ]
   }
 ]
