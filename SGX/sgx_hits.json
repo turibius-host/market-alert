@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/C2TSC1K09TZF41V2/b5c371de46043f41e1d561ed64805ecb70476b5d19346a9b5769e683f3b03bfe",
+    "company": "THAI BEVERAGE PUBLIC CO LTD",
+    "security": "THAI BEVERAGE PUBLIC CO LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "17 Nov 2026 07:39 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/C2TSC1K09TZF41V2/b5c371de46043f41e1d561ed64805ecb70476b5d19346a9b5769e683f3b03bfe",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2A2OW8UOJDZVSU0C/12e95980977ab2508a2d9376f3294523c605795f9fb63a8a946aec7db8b7b441",
+    "company": "FRASER AND NEAVE LIMITED.",
+    "security": "FRASER AND NEAVE, LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::ANNOUNCEMENT PURSUANT TO LISTING RULE 706A",
+    "timestamp": "17 Nov 2026 07:34 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2A2OW8UOJDZVSU0C/12e95980977ab2508a2d9376f3294523c605795f9fb63a8a946aec7db8b7b441",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IA7ZLYTC5CMPMB6N/df89efce9b1bfb0e3910d4755c8ea87d9ee9a698460651bb42be677a5f7ffacc",
+    "company": "FRASER AND NEAVE LIMITED.",
+    "security": "FRASER AND NEAVE, LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "17 Nov 2026 07:29 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IA7ZLYTC5CMPMB6N/df89efce9b1bfb0e3910d4755c8ea87d9ee9a698460651bb42be677a5f7ffacc",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/K4WT7SIFZGRQ6V9E/0a3981613ada9e466683f0535e615ed13dbd2dc30deaf335ca928d27718e872a",
     "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
     "security": "SINGTEL",
@@ -6073,42 +6112,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/UYOU2BFIVUNEEPCM/ec5f65109cc7e16cc5161d7bafd704e25f678efbdaf2e8606ab22332db7f7a0c",
     "rules": [
       "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UOSAPC7ZQD65G7Y8/d2009038806f35c4739fbab37640f793126f334552afb6dca2ff7239f7c80a7e",
-    "company": "UMS INTEGRATION LIMITED",
-    "security": "UMS INTEGRATION LIMITED",
-    "category": "Placements",
-    "title": "Placements::Proposed Placement of up to 52,941,100 New Ordinary Shares - Receipt of Approval-In-Principle",
-    "timestamp": "05 Oct 2026 07:29 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UOSAPC7ZQD65G7Y8/d2009038806f35c4739fbab37640f793126f334552afb6dca2ff7239f7c80a7e",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8OGO92G9MIQSW325/0aef6fb2e7fb87879e31a7ca3e3c334dd2848af460f135e79877ed5ed38be42e",
-    "company": "HAW PAR CORPORATION LIMITED",
-    "security": "HAW PAR CORP LTD",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed disposal of the entire issued and paid-up capital of Haw Par Land (Malaysia) Sdn. Bhd.",
-    "timestamp": "02 Oct 2026 07:15 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8OGO92G9MIQSW325/0aef6fb2e7fb87879e31a7ca3e3c334dd2848af460f135e79877ed5ed38be42e",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/X9GJH3KDL4CPND0W/524d05fb011ec3fbd44467dc1a2a4e99fb3d58f766ba52e3587a1da91e847f0f",
-    "company": "FRASERS LOGISTICS & COMMERCIAL ASSET MANAGEMENT PTE. LTD.",
-    "security": "FRASERS LOGISTICS & COMMERCIAL TRUST",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Notification of Results Release",
-    "timestamp": "02 Oct 2026 06:14 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/X9GJH3KDL4CPND0W/524d05fb011ec3fbd44467dc1a2a4e99fb3d58f766ba52e3587a1da91e847f0f",
-    "rules": [
-      "Financial Results Release"
     ]
   }
 ]
