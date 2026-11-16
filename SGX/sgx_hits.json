@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/K4WT7SIFZGRQ6V9E/0a3981613ada9e466683f0535e615ed13dbd2dc30deaf335ca928d27718e872a",
+    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+    "security": "SINGTEL",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::S$2Bn Value Realisation Share Buy-back Programme",
+    "timestamp": "16 Nov 2026 10:56 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/K4WT7SIFZGRQ6V9E/0a3981613ada9e466683f0535e615ed13dbd2dc30deaf335ca928d27718e872a",
+    "rules": [
+      "Share Buyback"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/PUE7SYUAANL3K4PF/4c79b85b57637780793d4d454ec4d27dd7fa439675a2ff190db4d48b35793ada",
     "company": "DIGITAL CORE REIT MANAGEMENT PTE. LTD.",
     "security": "DIGITAL CORE REIT",
@@ -6096,18 +6109,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/X9GJH3KDL4CPND0W/524d05fb011ec3fbd44467dc1a2a4e99fb3d58f766ba52e3587a1da91e847f0f",
     "rules": [
       "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/I4ECF8937YYPWAPD/407b4831e5c18d2abb096b7fe7be81d43f38da47bfabc7d57de581fb09308b59",
-    "company": "ELITE UK REIT MANAGEMENT PTE. LTD.",
-    "security": "MULTIPLE",
-    "category": "General Announcement",
-    "title": "General Announcement::Date of Release of Business Update for Third Quarter Ended 30 September 2026",
-    "timestamp": "02 Oct 2026 05:49 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/I4ECF8937YYPWAPD/407b4831e5c18d2abb096b7fe7be81d43f38da47bfabc7d57de581fb09308b59",
-    "rules": [
-      "Trading / Business / Delivery Update"
     ]
   }
 ]
