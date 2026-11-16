@@ -1,5 +1,57 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8NAE8O7R9TPKBPOU/2b1b4fe04f2fe2e82612246c4c0df6eb96fb07c9d0c037b246c57c5748540b9a",
+    "company": "SINGAPORE AIRLINES LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "16 Nov 2026 08:20 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8NAE8O7R9TPKBPOU/2b1b4fe04f2fe2e82612246c4c0df6eb96fb07c9d0c037b246c57c5748540b9a",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/595DTQCZ1RWSVZYF/015fbc3766f6bbb7c9ebda984c3fba79dfd58bedb17cc386b409caf1227c63e6",
+    "company": "SIA ENGINEERING COMPANY LIMITED",
+    "security": "SIA ENGINEERING CO LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::SIA Engineering Company Signs MOU to Explore MRO Collaboration in Shenzhen, China",
+    "timestamp": "16 Nov 2026 07:50 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/595DTQCZ1RWSVZYF/015fbc3766f6bbb7c9ebda984c3fba79dfd58bedb17cc386b409caf1227c63e6",
+    "rules": [
+      "MOU / Strategic Investment / Partnership"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/R001J294DU7UO5S0/c13c6547cec129dfb814751810e961235f4656728e22fc8b6190a7d2dcd9fab6",
+    "company": "GOODLAND GROUP LIMITED",
+    "security": "",
+    "category": "Change in Corporate Information",
+    "title": "Change - Change in Corporate Information::ESTABLISHMENT OF JOINT VENTURE COMPANY - MACRITCHIE KIM CHUAN PTE. LTD.",
+    "timestamp": "16 Nov 2026 07:46 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/R001J294DU7UO5S0/c13c6547cec129dfb814751810e961235f4656728e22fc8b6190a7d2dcd9fab6",
+    "rules": [
+      "Strategic / Business Development News"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/6N9NYBAHVMELV2B9/573ac10554f217b65f608178cee2b99002a6b72bf8c3cae744f1158ab6400c82",
+    "company": "GOODLAND GROUP LIMITED",
+    "security": "GOODLAND GROUP LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::PROPOSED SALE OF THE PROPERTY",
+    "timestamp": "16 Nov 2026 07:45 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/6N9NYBAHVMELV2B9/573ac10554f217b65f608178cee2b99002a6b72bf8c3cae744f1158ab6400c82",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/LE9WEFSO7QOQSVD8/1369022febdba5d7e853e2b3d54536c50f1c9badb5f97626edaae58853f818c0",
     "company": "CENTURION CORPORATION LIMITED",
     "security": "CENTURION CORPORATION LIMITED",
@@ -6041,54 +6093,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/6FNEOF1XNKLVAFQA/58b45419d30c5fd6d752649f9e64eb0a4300ff5d1dceb4c1201092b46a9e5872",
     "rules": [
       "Major Contract / Litigation"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZCJ6MOQYYL1JRPTS/653d11584b0ae43ed41f5ee45835334acf0cfa6e955f8afaef0bb2369255edd7",
-    "company": "AIMS APAC REIT MANAGEMENT LIMITED",
-    "security": "AIMS APAC REIT",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Notification of Results Release",
-    "timestamp": "01 Oct 2026 07:53 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZCJ6MOQYYL1JRPTS/653d11584b0ae43ed41f5ee45835334acf0cfa6e955f8afaef0bb2369255edd7",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Z655CC8FLCGN4EXA/1cd51486aa086ae6b3a993a105576952d0398039f60b651a0a9f5e347f37fe41",
-    "company": "JARDINE MATHESON HLDGS LTD",
-    "security": "JARDINE MATHESON HOLDINGS LTD",
-    "category": "General Announcement",
-    "title": "General Announcement::Jardines completes acquisition of I-MED Radiology",
-    "timestamp": "01 Oct 2026 07:45 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Z655CC8FLCGN4EXA/1cd51486aa086ae6b3a993a105576952d0398039f60b651a0a9f5e347f37fe41",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JHXQ26VA7CXZN7WO/0db8f83aa42de55c2839aa55fb281cb1c583691d20e379aab2484e5e5986b83e",
-    "company": "MAPLETREE INDUSTRIAL TRUST MANAGEMENT LTD.",
-    "security": "MAPLETREE INDUSTRIAL TRUST",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "REPL::Asset Acquisitions and Disposals::Completion of Divestment of 3255 Neil Armstrong Boulevard, Eagan, Minnesota",
-    "timestamp": "01 Oct 2026 07:12 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JHXQ26VA7CXZN7WO/0db8f83aa42de55c2839aa55fb281cb1c583691d20e379aab2484e5e5986b83e",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IF9ZGKKATVFIZXUH/f02b893d40f13be3d7bcb0e9bb92d2083f2acadd2ed7db92053b127634163719",
-    "company": "LHN LIMITED",
-    "security": "LHN LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Disposal of Coliwoo RV1 & Coliwoo RV2 and Leaseback of Properties at 298 & 288 River Valley Road",
-    "timestamp": "01 Oct 2026 07:05 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IF9ZGKKATVFIZXUH/f02b893d40f13be3d7bcb0e9bb92d2083f2acadd2ed7db92053b127634163719",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
