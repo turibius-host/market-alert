@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/I97095JORJ5R9JSF/291f6781c9d54026d1fdaad1866d74a8498f3eea1fa377fd605108c6d4996502",
+    "company": "ULTRATECH CEMENT LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Credit rating by Fitch Ratings",
+    "timestamp": "17 Nov 2026 09:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/I97095JORJ5R9JSF/291f6781c9d54026d1fdaad1866d74a8498f3eea1fa377fd605108c6d4996502",
+    "rules": [
+      "Credit Rating / Going Concern / Audit Qualification"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/H1VNJL85QIXAE5YJ/81e737b0876797c3d415dc98a4eef4d8ed942b5c964211a393a831b70e656d1c",
     "company": "GEO ENERGY RESOURCES LIMITED",
     "security": "GEO ENERGY RESOURCES LIMITED",
@@ -6113,18 +6126,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/H6V5WOJS77EG7S0W/832a70ef70d6f6e4b024f11fe4154e9fc66891dde90396103687cb7913947187",
     "rules": [
       "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/189M33PJB0X7STD1/cfea0ddf5f0d23b111c7c4e305680dee6818257e8a519f8fea749b5c69fd0c7f",
-    "company": "TOP GLOVE CORPORATION BHD",
-    "security": "TOP GLOVE CORPORATION BHD",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Full Yearly Results",
-    "timestamp": "06 Oct 2026 01:46 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/189M33PJB0X7STD1/cfea0ddf5f0d23b111c7c4e305680dee6818257e8a519f8fea749b5c69fd0c7f",
-    "rules": [
-      "Financial Results Release"
     ]
   }
 ]
