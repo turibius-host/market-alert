@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/TLPPXYHUQKU8AJEZ/093d0086421ba3e9a3e3d1fddfea2a007e116e0811ffb69935fd3899d3e0c30f",
+    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+    "security": "SINGTEL",
+    "category": "Share Buy Back-On Market",
+    "title": "REPL::Share Buy Back - Daily Share Buy-Back Notice::S$2Bn Value Realisation Share Buy-back Programme",
+    "timestamp": "18 Nov 2026 12:58 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/TLPPXYHUQKU8AJEZ/093d0086421ba3e9a3e3d1fddfea2a007e116e0811ffb69935fd3899d3e0c30f",
+    "rules": [
+      "Share Buyback"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/I97095JORJ5R9JSF/291f6781c9d54026d1fdaad1866d74a8498f3eea1fa377fd605108c6d4996502",
     "company": "ULTRATECH CEMENT LIMITED",
     "security": "",
@@ -6114,18 +6127,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/9M6QWOXZBJH79E1X/4b6fe83fd94a71a966bedf9c20c74f159945e5b929124f4ff5b8af6de9fe509e",
     "rules": [
       "Share Buyback"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/H6V5WOJS77EG7S0W/832a70ef70d6f6e4b024f11fe4154e9fc66891dde90396103687cb7913947187",
-    "company": "TOP GLOVE CORPORATION BHD",
-    "security": "TOP GLOVE CORPORATION BHD",
-    "category": "Request for Lifting of Trading Halt",
-    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
-    "timestamp": "06 Oct 2026 02:18 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/H6V5WOJS77EG7S0W/832a70ef70d6f6e4b024f11fe4154e9fc66891dde90396103687cb7913947187",
-    "rules": [
-      "Trading Halt / Suspension"
     ]
   }
 ]
