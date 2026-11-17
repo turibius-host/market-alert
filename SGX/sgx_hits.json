@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/H1VNJL85QIXAE5YJ/81e737b0876797c3d415dc98a4eef4d8ed942b5c964211a393a831b70e656d1c",
+    "company": "GEO ENERGY RESOURCES LIMITED",
+    "security": "GEO ENERGY RESOURCES LIMITED",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "17 Nov 2026 08:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/H1VNJL85QIXAE5YJ/81e737b0876797c3d415dc98a4eef4d8ed942b5c964211a393a831b70e656d1c",
+    "rules": [
+      "Watchlist: Geo Energy",
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9HCKQFOLE3WN6AVK/9b4b5878f2427dc353a2ccdb4854b8d3168887575e374b4b4839cec505b14b59",
+    "company": "RIVERSTONE HOLDINGS LIMITED",
+    "security": "RIVERSTONE HOLDINGS LIMITED",
+    "category": "Announcement of Cessation",
+    "title": "Change - Announcement of Cessation::Cessation of Chief Executive Director",
+    "timestamp": "17 Nov 2026 08:02 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9HCKQFOLE3WN6AVK/9b4b5878f2427dc353a2ccdb4854b8d3168887575e374b4b4839cec505b14b59",
+    "rules": [
+      "Key Executive Resignation"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FJ732FICL67B8MQJ/19c567ea5a07be537b5c464313c00d67e92067d5ea048a5c4652100573ebe33b",
+    "company": "MINISO GROUP HOLDING LIMITED",
+    "security": "MINISO USD550M0.5%320114",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "17 Nov 2026 07:58 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FJ732FICL67B8MQJ/19c567ea5a07be537b5c464313c00d67e92067d5ea048a5c4652100573ebe33b",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/1VX6WDVVAZZ2R3NW/37ec557af934323617eae0a04646e41aa8cf475f1082ca476e93ebb10ede4e0a",
     "company": "RIVERSTONE HOLDINGS LIMITED",
     "security": "RIVERSTONE HOLDINGS LIMITED",
@@ -6085,42 +6125,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/189M33PJB0X7STD1/cfea0ddf5f0d23b111c7c4e305680dee6818257e8a519f8fea749b5c69fd0c7f",
     "rules": [
       "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4TITAPIRANQVLJ7W/eb292c7cdcb0bfa6d1bf8a597d3cb93966c2fcd0e116ec0c6c1bdebf47667c7a",
-    "company": "TOP GLOVE CORPORATION BHD",
-    "security": "TOP GLOVE CORPORATION BHD",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Half",
-    "timestamp": "06 Oct 2026 12:37 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4TITAPIRANQVLJ7W/eb292c7cdcb0bfa6d1bf8a597d3cb93966c2fcd0e116ec0c6c1bdebf47667c7a",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0ES61ETVNUNDMV3Z/7fc310421f66b899f64fdf6e751dd9d16986ede559d24c57a97a43b4f5ecfc75",
-    "company": "GEO ENERGY RESOURCES LIMITED",
-    "security": "GEO ENERGY RESOURCES LIMITED",
-    "category": "General Announcement",
-    "title": "General Announcement::GEO ENERGY STEPS UP SHARE BUYBACKS AMID STRONG 2H2026 OUTLOOK",
-    "timestamp": "05 Oct 2026 07:58 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0ES61ETVNUNDMV3Z/7fc310421f66b899f64fdf6e751dd9d16986ede559d24c57a97a43b4f5ecfc75",
-    "rules": [
-      "Share Buyback"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/A94LCF2NYVYCWTPE/8da8188ed6271fc52aac7c795a8df939bd3a007552f98ed7cd78e4ccdc7df3c6",
-    "company": "MAPLETREE LOGISTICS TRUST MANAGEMENT LTD.",
-    "security": "MAPLETREE LOGISTICS TRUST",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Completion of Divestment of 39 Changi South Avenue 2",
-    "timestamp": "05 Oct 2026 07:37 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/A94LCF2NYVYCWTPE/8da8188ed6271fc52aac7c795a8df939bd3a007552f98ed7cd78e4ccdc7df3c6",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
