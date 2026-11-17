@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1VX6WDVVAZZ2R3NW/37ec557af934323617eae0a04646e41aa8cf475f1082ca476e93ebb10ede4e0a",
+    "company": "RIVERSTONE HOLDINGS LIMITED",
+    "security": "RIVERSTONE HOLDINGS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Unaudited Business Update for the Third Quarter ended 30 September 2026",
+    "timestamp": "17 Nov 2026 07:41 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1VX6WDVVAZZ2R3NW/37ec557af934323617eae0a04646e41aa8cf475f1082ca476e93ebb10ede4e0a",
+    "rules": [
+      "Financial Results Release",
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/B4FR2VII0U2LFSTG/cecdbf59bc71d285ab895d72f9ce473aa9122e5de512e23bfbe4ca1d9a400aa3",
     "company": "DELUGE CORPORATION LIMITED",
     "security": "DELUGE CORPORATION LIMITED",
@@ -6107,18 +6121,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/A94LCF2NYVYCWTPE/8da8188ed6271fc52aac7c795a8df939bd3a007552f98ed7cd78e4ccdc7df3c6",
     "rules": [
       "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AT3UAQFK5C4N92LM/0a2e3cbc9a8047f71d596c9b0308c86bbe1511bc428b6bb4fc0a552f09e537b8",
-    "company": "MARY CHIA HOLDINGS LIMITED",
-    "security": "MARY CHIA HOLDINGS LIMITED",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Halt",
-    "timestamp": "05 Oct 2026 02:01 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AT3UAQFK5C4N92LM/0a2e3cbc9a8047f71d596c9b0308c86bbe1511bc428b6bb4fc0a552f09e537b8",
-    "rules": [
-      "Trading Halt / Suspension"
     ]
   }
 ]
