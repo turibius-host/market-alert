@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/RWSJYB0HMTGI1CDN/177ff34fa7cf5688dcc5f36fe176104816d44a03d0d5f9a1c520431b80badb09",
+    "company": "BARTLETT INVESTMENTS LIMITED",
+    "security": "BARTLETTINVUS$266M8.25%N280227",
+    "category": "Delisting of Security",
+    "title": "Delisting of Security::Mandatory",
+    "timestamp": "17 Nov 2026 12:08 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/RWSJYB0HMTGI1CDN/177ff34fa7cf5688dcc5f36fe176104816d44a03d0d5f9a1c520431b80badb09",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/C2TSC1K09TZF41V2/b5c371de46043f41e1d561ed64805ecb70476b5d19346a9b5769e683f3b03bfe",
     "company": "THAI BEVERAGE PUBLIC CO LTD",
     "security": "THAI BEVERAGE PUBLIC CO LTD",
@@ -6100,18 +6113,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/KAA0FIK2B22EUXLC/9b032b9e0207895cd376df2c1d1ea7c3d409d24881deeff8bea489a8d727fc7d",
     "rules": [
       "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UYOU2BFIVUNEEPCM/ec5f65109cc7e16cc5161d7bafd704e25f678efbdaf2e8606ab22332db7f7a0c",
-    "company": "FAR EAST ORCHARD LIMITED",
-    "security": "FAR EAST ORCHARD LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::ACQUISITION OF SHARES IN THE MANAGERS OF FAR EAST HOSPITALITY TRUST",
-    "timestamp": "05 Oct 2026 07:30 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UYOU2BFIVUNEEPCM/ec5f65109cc7e16cc5161d7bafd704e25f678efbdaf2e8606ab22332db7f7a0c",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
