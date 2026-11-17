@@ -1,5 +1,19 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PUZC9EZI60DE9GTH/2b43654019bfe80a40cd16f0a95ee8078c810695159df4457c6921305580f26d",
+    "company": "SING HOLDINGS LIMITED",
+    "security": "SING HOLDINGS LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Tender for Land Parcel at Town Hall Link",
+    "timestamp": "17 Nov 2026 05:45 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PUZC9EZI60DE9GTH/2b43654019bfe80a40cd16f0a95ee8078c810695159df4457c6921305580f26d",
+    "rules": [
+      "Watchlist: SingHoldings",
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/Y850EBRFOVE0PIXU/d3244596b6c2156274cf7bba424a6fea0afcb3edfc3c7771a2735a1879d3096c",
     "company": "TATA STEEL LIMITED",
     "security": "",
@@ -6103,18 +6117,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/7KHHK3YVKTWFYOBO/82edf6aad30902ed30d77a45ba8215d358746c8d9821de815bae4cd801f68847",
     "rules": [
       "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/B7OSBR8BYQYQ97FA/cb60aec7edd1c1616a5352c5bd1a772abf77e2357c2cf66cbbd13e839aca0a9c",
-    "company": "TOSEI CORPORATION",
-    "security": "TOSEI CORPORATION",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Profit Guidance",
-    "timestamp": "05 Oct 2026 01:40 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/B7OSBR8BYQYQ97FA/cb60aec7edd1c1616a5352c5bd1a772abf77e2357c2cf66cbbd13e839aca0a9c",
-    "rules": [
-      "Profit Guidance / Profit Warning"
     ]
   }
 ]
