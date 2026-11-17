@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Y850EBRFOVE0PIXU/d3244596b6c2156274cf7bba424a6fea0afcb3edfc3c7771a2735a1879d3096c",
+    "company": "TATA STEEL LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Acquisition of equity shares in Creative Port Development Private Limited",
+    "timestamp": "17 Nov 2026 01:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Y850EBRFOVE0PIXU/d3244596b6c2156274cf7bba424a6fea0afcb3edfc3c7771a2735a1879d3096c",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BIFZBKRN5HRCZ31J/bfc9f135b90f144e956560a62be76e7fc29a70f6b12a24abe08586b7557db31f",
+    "company": "RESONA BANK, LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "17 Nov 2026 01:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BIFZBKRN5HRCZ31J/bfc9f135b90f144e956560a62be76e7fc29a70f6b12a24abe08586b7557db31f",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/RWSJYB0HMTGI1CDN/177ff34fa7cf5688dcc5f36fe176104816d44a03d0d5f9a1c520431b80badb09",
     "company": "BARTLETT INVESTMENTS LIMITED",
     "security": "BARTLETTINVUS$266M8.25%N280227",
@@ -6089,30 +6115,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/B7OSBR8BYQYQ97FA/cb60aec7edd1c1616a5352c5bd1a772abf77e2357c2cf66cbbd13e839aca0a9c",
     "rules": [
       "Profit Guidance / Profit Warning"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/37I4BVGY35D7QUFP/df096eac89bcca6ce32fddb54ccd20a7fc527b21963b6b990c6ff9ef641a2537",
-    "company": "TOSEI CORPORATION",
-    "security": "TOSEI CORPORATION",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Third Quarter Results",
-    "timestamp": "05 Oct 2026 01:37 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/37I4BVGY35D7QUFP/df096eac89bcca6ce32fddb54ccd20a7fc527b21963b6b990c6ff9ef641a2537",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KAA0FIK2B22EUXLC/9b032b9e0207895cd376df2c1d1ea7c3d409d24881deeff8bea489a8d727fc7d",
-    "company": "TOSEI CORPORATION",
-    "security": "TOSEI CORPORATION",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Halt",
-    "timestamp": "05 Oct 2026 01:34 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KAA0FIK2B22EUXLC/9b032b9e0207895cd376df2c1d1ea7c3d409d24881deeff8bea489a8d727fc7d",
-    "rules": [
-      "Trading Halt / Suspension"
     ]
   }
 ]
