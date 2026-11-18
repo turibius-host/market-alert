@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KBYQF1TEQM18PY3F/de4ef38313a32646f546150415ba61494b47b0f093436d47ab9e003ea936306f",
+    "company": "HEPTAMAX INTERNATIONAL LIMITED",
+    "security": "HEPTAMAX INTERNATIONAL LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of the Entire Issued and Paid-Up Share Capital of Racks Central Pte. Ltd.",
+    "timestamp": "18 Nov 2026 08:22 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KBYQF1TEQM18PY3F/de4ef38313a32646f546150415ba61494b47b0f093436d47ab9e003ea936306f",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/BM4GG2JWJD80HTY7/d95c48fad04c11c4695ffc85a8a7378ed3dfea9d8d6aeeefa39a6e0c74419a1d",
     "company": "WILTON RESOURCES CORPORATION LIMITED",
     "security": "WILTON RESOURCES CORP LIMITED",
@@ -6128,18 +6141,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/W9NWVLO0SG61K5FC/c2e3ee15c103f675fd79f7f5015a23f0055131d352e156adb5fb11b9f57ea9a7",
     "rules": [
       "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0CCXHF8OQ50IXS09/80b1ad863d8d2cf5d43ee465f5d1d06e1fdf8d79bce8d33828cc7629fe591eae",
-    "company": "OKP HOLDINGS LIMITED",
-    "security": "OKP HOLDINGS LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::PURCHASE OF PROPERTY AT 455 JALAN AHMAD IBRAHIM SINGAPORE 639936",
-    "timestamp": "08 Oct 2026 09:23 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0CCXHF8OQ50IXS09/80b1ad863d8d2cf5d43ee465f5d1d06e1fdf8d79bce8d33828cc7629fe591eae",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
