@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BM4GG2JWJD80HTY7/d95c48fad04c11c4695ffc85a8a7378ed3dfea9d8d6aeeefa39a6e0c74419a1d",
+    "company": "WILTON RESOURCES CORPORATION LIMITED",
+    "security": "WILTON RESOURCES CORP LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::First Quarter Results",
+    "timestamp": "18 Nov 2026 06:01 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BM4GG2JWJD80HTY7/d95c48fad04c11c4695ffc85a8a7378ed3dfea9d8d6aeeefa39a6e0c74419a1d",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BEJMW50JTHRVVNH7/bf6466dab48e682c733759117db002c8bdd1ad37f5303383c37f8b5740dc3d0e",
+    "company": "ASPIAL LIFESTYLE LIMITED",
+    "security": "ASPIAL LIFESTYLE LIMITED",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::Daily Share Buy-Back",
+    "timestamp": "18 Nov 2026 05:42 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BEJMW50JTHRVVNH7/bf6466dab48e682c733759117db002c8bdd1ad37f5303383c37f8b5740dc3d0e",
+    "rules": [
+      "Watchlist: Aspial Lifestyle"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/SJC2MDXHM279M6QF/9c1a513fb853c0bfcef669fe7806d1869de38cceea9bc10591619b999786b06b",
     "company": "ULTRAGREEN.AI LIMITED",
     "security": "MULTIPLE",
@@ -6112,30 +6138,6 @@
     "title": "Asset Acquisitions and Disposals::PURCHASE OF PROPERTY AT 455 JALAN AHMAD IBRAHIM SINGAPORE 639936",
     "timestamp": "08 Oct 2026 09:23 PM",
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/0CCXHF8OQ50IXS09/80b1ad863d8d2cf5d43ee465f5d1d06e1fdf8d79bce8d33828cc7629fe591eae",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VL41WIR3ZHG46GYG/19acf9ae8bf25bda5873ced3076a0a434fe8f9a895242a7c73c9f283793ee988",
-    "company": "YAMADA GREEN RESOURCES LIMITED",
-    "security": "YAMADA GREEN RESOURCES LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Acquisition of Land and Building in Osaka City, Japan",
-    "timestamp": "08 Oct 2026 07:44 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VL41WIR3ZHG46GYG/19acf9ae8bf25bda5873ced3076a0a434fe8f9a895242a7c73c9f283793ee988",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/TM9B9QI6SLU6HG24/df0512f3fd1c22ab7d6660ba2f9aca22969b80fde4003e803bb771c1233e375e",
-    "company": "QUANTUM HEALTHCARE LIMITED",
-    "security": "QUANTUM HEALTHCARE LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::PROPOSED DISPOSAL OF THE ENTIRE ISSUED AND PAID-UP SHARE CAPITAL OF QT VASCULAR LTD.",
-    "timestamp": "08 Oct 2026 06:49 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/TM9B9QI6SLU6HG24/df0512f3fd1c22ab7d6660ba2f9aca22969b80fde4003e803bb771c1233e375e",
     "rules": [
       "Major Asset Acquisition / Disposal"
     ]
