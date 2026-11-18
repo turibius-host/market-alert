@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9W9KBRZTBMUK2IJZ/d50dc852e795609e941ee56f4166bd0252cd1c480c7aec4fcf1b5bbc0103565a",
+    "company": "AJJ MEDTECH HOLDINGS LIMITED",
+    "security": "AJJ MEDTECH HOLDINGS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update: First Overseas Commercial Order for AJJ-Branded Hemodialyzers",
+    "timestamp": "18 Nov 2026 08:08 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9W9KBRZTBMUK2IJZ/d50dc852e795609e941ee56f4166bd0252cd1c480c7aec4fcf1b5bbc0103565a",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/TLPPXYHUQKU8AJEZ/093d0086421ba3e9a3e3d1fddfea2a007e116e0811ffb69935fd3899d3e0c30f",
     "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
     "security": "SINGTEL",
@@ -6115,18 +6128,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/RYH0AEXE1OA1G002/046e0bf9729d045140ea5c133d2fdc78de2a82733c07d4d032436a7b4d561131",
     "rules": [
       "MOU / Strategic Investment / Partnership"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9M6QWOXZBJH79E1X/4b6fe83fd94a71a966bedf9c20c74f159945e5b929124f4ff5b8af6de9fe509e",
-    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
-    "security": "SINGTEL",
-    "category": "Share Buy Back-On Market",
-    "title": "Share Buy Back - Daily Share Buy-Back Notice::S$2Bn Value Realisation Share Buy-back Programme",
-    "timestamp": "06 Oct 2026 06:59 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9M6QWOXZBJH79E1X/4b6fe83fd94a71a966bedf9c20c74f159945e5b929124f4ff5b8af6de9fe509e",
-    "rules": [
-      "Share Buyback"
     ]
   }
 ]
