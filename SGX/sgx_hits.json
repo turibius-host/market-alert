@@ -1,5 +1,83 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/W9H7TRD2X0DZP40S/7c997add336345123a682b7fe7839dd96430056bac5671d41393d35c80db0833",
+    "company": "THE NORINCHUKIN BANK",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "19 Nov 2026 04:44 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/W9H7TRD2X0DZP40S/7c997add336345123a682b7fe7839dd96430056bac5671d41393d35c80db0833",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QUF4T9AW36ZMRY5D/84109bd66eb0702577cd4df68ff14ee02f6536f128d9739c70a03bfb117def3f",
+    "company": "PETRON CORPORATION",
+    "security": "PETRON CORP US$475M7.35%PCS",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "19 Nov 2026 04:42 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QUF4T9AW36ZMRY5D/84109bd66eb0702577cd4df68ff14ee02f6536f128d9739c70a03bfb117def3f",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1INRYK9MC48IDFOC/ff4fe5893a9f1e2ccbcbfe46e7f0d235b7b438c013f05ae99b6f130d698974db",
+    "company": "SOMPO HOLDINGS, INC.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
+    "timestamp": "19 Nov 2026 04:13 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1INRYK9MC48IDFOC/ff4fe5893a9f1e2ccbcbfe46e7f0d235b7b438c013f05ae99b6f130d698974db",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7DCOZTFP8OGG6SIC/1ad56154884fa2525676fa99dfd15decb2cbf8e51ad9bd678cbfe482ec4ce46e",
+    "company": "DELHI INTERNATIONAL AIRPORT LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "19 Nov 2026 01:25 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7DCOZTFP8OGG6SIC/1ad56154884fa2525676fa99dfd15decb2cbf8e51ad9bd678cbfe482ec4ce46e",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JVMS2ODQCAO38453/f6cd19ee0e171831a19ad6c0d06e374a9ad8d3f4419e8df5bba79f5f514690dc",
+    "company": "ULTRAGREEN.AI LIMITED",
+    "security": "MULTIPLE",
+    "category": "Disclosure of Interest/ Changes in Interest",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer - Ravinder Sajwan",
+    "timestamp": "19 Nov 2026 12:01 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JVMS2ODQCAO38453/f6cd19ee0e171831a19ad6c0d06e374a9ad8d3f4419e8df5bba79f5f514690dc",
+    "rules": [
+      "Watchlist: UltraGreen.ai"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7L1R4I1U5YYQPFGS/5e1a2cc9a52879c7240d034c58ebd8e9fe06ec62d846044ab93259330321082e",
+    "company": "INTERNATIONAL CONTAINER TERMINAL SERVICES, INC.",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "19 Nov 2026 11:28 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7L1R4I1U5YYQPFGS/5e1a2cc9a52879c7240d034c58ebd8e9fe06ec62d846044ab93259330321082e",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/9Y7EVK75R49ANHDG/1e5a8331f49ceef11bb24d9f1537297f9799b8ce5ec93a141c805fc33bc442ac",
     "company": "JX ADVANCED METALS CORPORATION",
     "security": "MULTIPLE",
@@ -6072,78 +6150,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/BHODQEPGAH7G2FIC/36a5d6ffb24302c3adc81c58f58e0f642ff7c2cd9989cef9c5e0481e7fbfd18e",
     "rules": [
       "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/S3QWT475WBGIR2ZK/2f479b981c6178ed0f952566fbf64805693cd09634126190794dc2587efadbb5",
-    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
-    "security": "SINGTEL",
-    "category": "Share Buy Back-On Market",
-    "title": "Share Buy Back - Daily Share Buy-Back Notice::S$2Bn Value Realisation Share Buy-back Programme",
-    "timestamp": "12 Oct 2026 07:36 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/S3QWT475WBGIR2ZK/2f479b981c6178ed0f952566fbf64805693cd09634126190794dc2587efadbb5",
-    "rules": [
-      "Share Buyback"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/J84AOP004I6Q5LQX/3d4813dd68baa14249849fde2b038514cb9ff395d23c504e7a934ab8053c4d5f",
-    "company": "QUANTA COMPUTER INC.",
-    "security": "MULTIPLE",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "12 Oct 2026 11:22 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/J84AOP004I6Q5LQX/3d4813dd68baa14249849fde2b038514cb9ff395d23c504e7a934ab8053c4d5f",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/74XGQ44TB8YTES0X/fc5c71c6431e5653b25d2b07db972f27bb9ef5383c60aff717a7d877ecf69e09",
-    "company": "WILTON RESOURCES CORPORATION LIMITED",
-    "security": "WILTON RESOURCES CORP LIMITED",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Halt",
-    "timestamp": "12 Oct 2026 07:31 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/74XGQ44TB8YTES0X/fc5c71c6431e5653b25d2b07db972f27bb9ef5383c60aff717a7d877ecf69e09",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CMZKGU5K9ZHF5FGA/edb3e227699f20fb11d9f7725fc61a525d9ec6e8884e98b8751237391093e17d",
-    "company": "UMS INTEGRATION LIMITED",
-    "security": "UMS INTEGRATION LIMITED",
-    "category": "Placements",
-    "title": "Placements::Proposed Placement of up to 52,941,100 New Ordinary Shares - Listing and Quotation of New Shares",
-    "timestamp": "12 Oct 2026 07:27 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CMZKGU5K9ZHF5FGA/edb3e227699f20fb11d9f7725fc61a525d9ec6e8884e98b8751237391093e17d",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/IHOBXCOSZEGUJ3HH/f067efa607312adfb58004b45cd7bada70f37ae93cd7cc111425c4da0742cfd9",
-    "company": "CANARA BANK",
-    "security": "",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
-    "timestamp": "09 Oct 2026 04:11 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/IHOBXCOSZEGUJ3HH/f067efa607312adfb58004b45cd7bada70f37ae93cd7cc111425c4da0742cfd9",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FZ78OTIUBDGJ9XZ2/8c7290bf37d7c80cf2f56b9ad18a888a9f9ef9d630a98633a88bc234a2ba8b5e",
-    "company": "OSG CORPORATION",
-    "security": "OSG CORP JPY22B Z301220",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
-    "timestamp": "09 Oct 2026 02:31 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FZ78OTIUBDGJ9XZ2/8c7290bf37d7c80cf2f56b9ad18a888a9f9ef9d630a98633a88bc234a2ba8b5e",
-    "rules": [
-      "Financial Results Release"
     ]
   }
 ]
