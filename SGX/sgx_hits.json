@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9Y7EVK75R49ANHDG/1e5a8331f49ceef11bb24d9f1537297f9799b8ce5ec93a141c805fc33bc442ac",
+    "company": "JX ADVANCED METALS CORPORATION",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "19 Nov 2026 08:55 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9Y7EVK75R49ANHDG/1e5a8331f49ceef11bb24d9f1537297f9799b8ce5ec93a141c805fc33bc442ac",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YYXHWJXHC27C62CE/2b00e32751e78095ca4cf0a46bd1cfce40522f24480ad38755f9f1137c6c42fe",
+    "company": "THAKRAL CORPORATION LTD",
+    "security": "THAKRAL CORPORATION LTD",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "19 Nov 2026 07:39 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YYXHWJXHC27C62CE/2b00e32751e78095ca4cf0a46bd1cfce40522f24480ad38755f9f1137c6c42fe",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PVH6ZGKAJFQKI2ZR/016183459113095ee515cc13864c4fc7ffeba120caf5e0cfe4b73aaa5af1e522",
+    "company": "CONSTELLATION OIL SERVICES HOLDING S.A.",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Constellation Reports 3Q26 Results and Announces US$64.0 Million Share Premium Distribution",
+    "timestamp": "19 Nov 2026 05:58 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PVH6ZGKAJFQKI2ZR/016183459113095ee515cc13864c4fc7ffeba120caf5e0cfe4b73aaa5af1e522",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/KBYQF1TEQM18PY3F/de4ef38313a32646f546150415ba61494b47b0f093436d47ab9e003ea936306f",
     "company": "HEPTAMAX INTERNATIONAL LIMITED",
     "security": "HEPTAMAX INTERNATIONAL LIMITED",
@@ -6105,42 +6144,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/FZ78OTIUBDGJ9XZ2/8c7290bf37d7c80cf2f56b9ad18a888a9f9ef9d630a98633a88bc234a2ba8b5e",
     "rules": [
       "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7O21YW77EAVB8HOX/569bd67ada75fa2225ba0941da29d026454f470524525c7d7814c265625e26d9",
-    "company": "OSG CORPORATION",
-    "security": "OSG CORP JPY22B Z301220",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Third Quarter Results",
-    "timestamp": "09 Oct 2026 02:30 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7O21YW77EAVB8HOX/569bd67ada75fa2225ba0941da29d026454f470524525c7d7814c265625e26d9",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3DUPF4ZHJ6Y2ZQA2/4ae9b57a4653d6fada05107d920402e68352a32415b3b9371a5a88e95ec85e7e",
-    "company": "UMS INTEGRATION LIMITED",
-    "security": "UMS INTEGRATION LIMITED",
-    "category": "Placements",
-    "title": "Placements::Proposed Placement of up to 52,941,100 New Ordinary Shares - Allotment and Issuance of New Shares",
-    "timestamp": "09 Oct 2026 12:26 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3DUPF4ZHJ6Y2ZQA2/4ae9b57a4653d6fada05107d920402e68352a32415b3b9371a5a88e95ec85e7e",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/W9NWVLO0SG61K5FC/c2e3ee15c103f675fd79f7f5015a23f0055131d352e156adb5fb11b9f57ea9a7",
-    "company": "UMS INTEGRATION LIMITED",
-    "security": "UMS INTEGRATION LIMITED",
-    "category": "Placements",
-    "title": "Placements::Proposed Placement of up to 52,941,100 New Ordinary Shares - Additional Listing Announcement",
-    "timestamp": "09 Oct 2026 12:26 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/W9NWVLO0SG61K5FC/c2e3ee15c103f675fd79f7f5015a23f0055131d352e156adb5fb11b9f57ea9a7",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
     ]
   }
 ]
