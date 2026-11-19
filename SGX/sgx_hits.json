@@ -1,5 +1,99 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SDLDLLS16M4Q5ZF5/fef27678b3fcb388e169326fbe89c3a190470bf5eb90a8539f27e93723eeae63",
+    "company": "THAKRAL CORPORATION LTD",
+    "security": "THAKRAL CORPORATION LTD",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "19 Nov 2026 11:24 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SDLDLLS16M4Q5ZF5/fef27678b3fcb388e169326fbe89c3a190470bf5eb90a8539f27e93723eeae63",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SIDIHOTITE8F4C9R/85a5696bb57cb6cf22ab3e5a6735fbe7adddba55d74fbdd03ac1bfea399cbd40",
+    "company": "THAKRAL CORPORATION LTD",
+    "security": "THAKRAL CORPORATION LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Disposal of the Company's entire approximately 6.1% interest in The Beauty Tech Group plc",
+    "timestamp": "19 Nov 2026 11:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SIDIHOTITE8F4C9R/85a5696bb57cb6cf22ab3e5a6735fbe7adddba55d74fbdd03ac1bfea399cbd40",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QHCW3T7ECPZ929FS/9ceef53964ba7000599bbe773ae71486d1ca002cdbdbe38b985dc9ec5b5cff89",
+    "company": "ASL MARINE HOLDINGS LTD.",
+    "security": "ASL MARINE HOLDINGS LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Disposal of PT. Cemara Intan Shipyard",
+    "timestamp": "19 Nov 2026 11:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QHCW3T7ECPZ929FS/9ceef53964ba7000599bbe773ae71486d1ca002cdbdbe38b985dc9ec5b5cff89",
+    "rules": [
+      "Watchlist: ASL Marine",
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BPYVAXZUJXBDDO4H/e658b2ccc6943101abef7a3d85373fcf5d43da8e22d03e173be5e0e430d9e9fc",
+    "company": "TUAN SING HOLDINGS LIMITED",
+    "security": "TUAN SING HOLDINGS LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Acquisition of Assets from PT Senimba Bay Resort - Update Announcement",
+    "timestamp": "19 Nov 2026 10:56 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BPYVAXZUJXBDDO4H/e658b2ccc6943101abef7a3d85373fcf5d43da8e22d03e173be5e0e430d9e9fc",
+    "rules": [
+      "Watchlist: SingHoldings",
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GQN4GQGJ7PVDZBZW/d6836d63d0694fffb63b2a0ead25fa83cb71d98fd441968917ae2038009220bf",
+    "company": "FOUNDATION HEALTHCARE HOLDINGS LIMITED",
+    "security": "FOUNDATION HEALTHCARE HOLDINGS",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of The Skin Specialists and Laser Clinic Pte. Ltd.",
+    "timestamp": "19 Nov 2026 09:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GQN4GQGJ7PVDZBZW/d6836d63d0694fffb63b2a0ead25fa83cb71d98fd441968917ae2038009220bf",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/W7KM44JQEDBDXZ8D/4394bde438dac3b993cf41b462522aac323c93ce7329ab0a3cbf4a8d658cf89e",
+    "company": "FOUNDATION HEALTHCARE HOLDINGS LIMITED",
+    "security": "FOUNDATION HEALTHCARE HOLDINGS",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of Anaesthesia Connect Pte. Ltd.",
+    "timestamp": "19 Nov 2026 09:53 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/W7KM44JQEDBDXZ8D/4394bde438dac3b993cf41b462522aac323c93ce7329ab0a3cbf4a8d658cf89e",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DP7CEA7NSRUCJVFZ/0034fc12bb7ca63a1e0f8ea12b94be8c9c197b734204b3ee5c79650038f5e98b",
+    "company": "EUROSPORTS GLOBAL LIMITED",
+    "security": "EUROSPORTS GLOBAL LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Non-Binding Term Sheet in Relation to the Proposed Disposal of Shares in Prosper Auto Pte. Ltd.",
+    "timestamp": "19 Nov 2026 09:11 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DP7CEA7NSRUCJVFZ/0034fc12bb7ca63a1e0f8ea12b94be8c9c197b734204b3ee5c79650038f5e98b",
+    "rules": [
+      "Major Asset Acquisition / Disposal",
+      "MOU / Strategic Investment / Partnership"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/W9H7TRD2X0DZP40S/7c997add336345123a682b7fe7839dd96430056bac5671d41393d35c80db0833",
     "company": "THE NORINCHUKIN BANK",
     "security": "MULTIPLE",
@@ -6066,90 +6160,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/GQERRWDTE5VZW8D1/aa868df774e1291fcc1d47d564a474c49f12847e0673d32a422fd6ad986e1972",
     "rules": [
       "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/SEJND0D7OD5RSMWM/741ea4dcb67ebfde701563ea4f8b5e534fb4da866e6de81a515fe12274c69e84",
-    "company": "LONZA GROUP LTD",
-    "security": "LONZA GROUP LTD",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Halt",
-    "timestamp": "14 Oct 2026 12:01 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/SEJND0D7OD5RSMWM/741ea4dcb67ebfde701563ea4f8b5e534fb4da866e6de81a515fe12274c69e84",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/52FQIRTQ5X3Z6QHF/6f01917dbba5fb8e66c22e511d70ecd88901ea1ed09e8e951783c5054a5cf394",
-    "company": "PARKWAY TRUST MANAGEMENT LIMITED",
-    "security": "PARKWAYLIFE REIT",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Acquisition of Three Nursing Homes in France",
-    "timestamp": "14 Oct 2026 07:32 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/52FQIRTQ5X3Z6QHF/6f01917dbba5fb8e66c22e511d70ecd88901ea1ed09e8e951783c5054a5cf394",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EE8NZOISVRH7CLHA/f9f79b8990100fd89db0f27a59409eb2c8e51c874400ad6e6abe7734ee3dd03d",
-    "company": "MANULIFE US REAL ESTATE MANAGEMENT PTE. LTD.",
-    "security": "MANULIFE US REIT",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Notification of Results Release",
-    "timestamp": "14 Oct 2026 07:17 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EE8NZOISVRH7CLHA/f9f79b8990100fd89db0f27a59409eb2c8e51c874400ad6e6abe7734ee3dd03d",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KCDNVZ3H5VZP65M6/912f74d6ce055a05e1db666366164285259e8d322f92ab13abe6f37709c6bf3c",
-    "company": "SIA ENGINEERING COMPANY LIMITED",
-    "security": "SIA ENGINEERING CO LTD",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Notification of Results Release",
-    "timestamp": "13 Oct 2026 08:14 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KCDNVZ3H5VZP65M6/912f74d6ce055a05e1db666366164285259e8d322f92ab13abe6f37709c6bf3c",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/5EYDKGVW87LLS3RC/dfe3d9dd25374b8303af683e19aae29c93696775974c0c9b95dc24610b214332",
-    "company": "GREEN BUILD TECHNOLOGY LIMITED",
-    "security": "GREEN BUILD TECHNOLOGY LIMITED",
-    "category": "General Announcement",
-    "title": "General Announcement::Proposed Placement of Subscription Shares & Warrants - Change in Subscriber's Shareholding Structure",
-    "timestamp": "13 Oct 2026 07:37 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/5EYDKGVW87LLS3RC/dfe3d9dd25374b8303af683e19aae29c93696775974c0c9b95dc24610b214332",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/O2YU7J1RY811BSA7/09973cff8aae23e135dc0451209f84d2ba371eec9829c7633a818ade525f0134",
-    "company": "FRASERS PROPERTY LIMITED",
-    "security": "FRASERS PROPERTY LIMITED",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Notification of Results Release",
-    "timestamp": "12 Oct 2026 08:26 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/O2YU7J1RY811BSA7/09973cff8aae23e135dc0451209f84d2ba371eec9829c7633a818ade525f0134",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BHODQEPGAH7G2FIC/36a5d6ffb24302c3adc81c58f58e0f642ff7c2cd9989cef9c5e0481e7fbfd18e",
-    "company": "CAPALLIANZ HOLDINGS LIMITED",
-    "security": "CAPALLIANZ HOLDINGS LIMITED",
-    "category": "Placements",
-    "title": "REPL::Placements::Proposed Placement of 1,929,395,064 New Ordinary Shares - Completion of Proposed Placement",
-    "timestamp": "12 Oct 2026 08:23 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BHODQEPGAH7G2FIC/36a5d6ffb24302c3adc81c58f58e0f642ff7c2cd9989cef9c5e0481e7fbfd18e",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
     ]
   }
 ]
