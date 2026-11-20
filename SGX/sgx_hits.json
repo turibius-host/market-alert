@@ -1,5 +1,45 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CAE0ADW54JXQNPJK/880ba5bb15dde7f706d43006f227dfc5c7d14a838348da28a85f13e2c57649ed",
+    "company": "Q & M DENTAL GROUP (SINGAPORE) LIMITED",
+    "security": "Q & M DENTAL GROUP (S) LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Termination of Non-Binding MOU for Proposed Disposal of Subsidiary",
+    "timestamp": "20 Nov 2026 05:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CAE0ADW54JXQNPJK/880ba5bb15dde7f706d43006f227dfc5c7d14a838348da28a85f13e2c57649ed",
+    "rules": [
+      "Major Asset Acquisition / Disposal",
+      "MOU / Strategic Investment / Partnership"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LEEVA5UAZCPGA81H/33ed776a465a652774a8862dd57e9c7744e2ab9eca07a981984ac304713b73bf",
+    "company": "ASPIAL LIFESTYLE LIMITED",
+    "security": "ASPIAL LIFESTYLE LIMITED",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::Daily Share Buy-Back",
+    "timestamp": "20 Nov 2026 05:52 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LEEVA5UAZCPGA81H/33ed776a465a652774a8862dd57e9c7744e2ab9eca07a981984ac304713b73bf",
+    "rules": [
+      "Watchlist: Aspial Lifestyle"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/E33CK5QA9VXCI5LE/7f59c425e2122f64915e148ac81c80f145ac1e98eb51d73b7e4de29b9e15b29e",
+    "company": "GDS GLOBAL LIMITED",
+    "security": "GDS GLOBAL LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::Business Update - November 2026",
+    "timestamp": "20 Nov 2026 05:48 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/E33CK5QA9VXCI5LE/7f59c425e2122f64915e148ac81c80f145ac1e98eb51d73b7e4de29b9e15b29e",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/SDLDLLS16M4Q5ZF5/fef27678b3fcb388e169326fbe89c3a190470bf5eb90a8539f27e93723eeae63",
     "company": "THAKRAL CORPORATION LTD",
     "security": "THAKRAL CORPORATION LTD",
@@ -6124,42 +6164,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/1CF5SZRLRY0ATECZ/1f906df6bb9e8317cedc9682cc49f1d75686214f214034c1566175f5529b0318",
     "rules": [
       "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LJVG1FWM54CROOUK/b10946f3d96e58c2f3f8beb9377c1dcb6b656936665bdabd7074a23070a3879d",
-    "company": "INFO-TECH SYSTEMS LTD.",
-    "security": "INFO-TECH SYSTEMS LTD.",
-    "category": "General Announcement",
-    "title": "General Announcement::Notice of 3Q2026 Business Update Release Date",
-    "timestamp": "14 Oct 2026 06:52 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LJVG1FWM54CROOUK/b10946f3d96e58c2f3f8beb9377c1dcb6b656936665bdabd7074a23070a3879d",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/S4CKT3HGXEJAFSIV/fb7d0435af6e75eb9cfe4bcfe74f44b36bda18798aa4a8fa2e2b09ac94ae2051",
-    "company": "CANARA BANK",
-    "security": "",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Second Quarter and/ or Half Yearly Results",
-    "timestamp": "14 Oct 2026 03:29 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/S4CKT3HGXEJAFSIV/fb7d0435af6e75eb9cfe4bcfe74f44b36bda18798aa4a8fa2e2b09ac94ae2051",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GQERRWDTE5VZW8D1/aa868df774e1291fcc1d47d564a474c49f12847e0673d32a422fd6ad986e1972",
-    "company": "LONZA GROUP LTD",
-    "security": "LONZA GROUP LTD",
-    "category": "Request for Lifting of Trading Halt",
-    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
-    "timestamp": "14 Oct 2026 01:00 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GQERRWDTE5VZW8D1/aa868df774e1291fcc1d47d564a474c49f12847e0673d32a422fd6ad986e1972",
-    "rules": [
-      "Trading Halt / Suspension"
     ]
   }
 ]
