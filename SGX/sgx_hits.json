@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/MWBF5V6DW9L0HJ3B/fcab512f2ac82e952accc51c13cc8dd9dfda13a409aebd02074a76c816e75311",
+    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+    "security": "SINGTEL",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::S$2Bn Value Realisation Share Buy-back Programme",
+    "timestamp": "20 Nov 2026 10:31 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/MWBF5V6DW9L0HJ3B/fcab512f2ac82e952accc51c13cc8dd9dfda13a409aebd02074a76c816e75311",
+    "rules": [
+      "Share Buyback"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Y2I03DTC9106VESL/965e1723ffa718628c7825e1315f9fec3f4574a14da9fa539ee0b326b1bc39d6",
+    "company": "MARCO POLO MARINE LTD.",
+    "security": "MARCO POLO MARINE LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Profit Guidance",
+    "timestamp": "20 Nov 2026 10:07 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Y2I03DTC9106VESL/965e1723ffa718628c7825e1315f9fec3f4574a14da9fa539ee0b326b1bc39d6",
+    "rules": [
+      "Profit Guidance / Profit Warning"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/CAE0ADW54JXQNPJK/880ba5bb15dde7f706d43006f227dfc5c7d14a838348da28a85f13e2c57649ed",
     "company": "Q & M DENTAL GROUP (SINGAPORE) LIMITED",
     "security": "Q & M DENTAL GROUP (S) LIMITED",
@@ -6140,30 +6166,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/Q5A2LX2ULKFFWKXO/33a366ef1ffa7a306ef4a7c4866b022fd478b64a54bd5601cfdcc444228e5ff8",
     "rules": [
       "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7BZKM3XFZNYB9DD4/cbc9f88e5419914d2893d3a5274a82d1862f47c1c7ab7e41417cb62ecb1ba6d8",
-    "company": "AVEPOINT, INC.",
-    "security": "AVEPOINT, INC.",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Third Quarter Results",
-    "timestamp": "14 Oct 2026 08:22 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7BZKM3XFZNYB9DD4/cbc9f88e5419914d2893d3a5274a82d1862f47c1c7ab7e41417cb62ecb1ba6d8",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1CF5SZRLRY0ATECZ/1f906df6bb9e8317cedc9682cc49f1d75686214f214034c1566175f5529b0318",
-    "company": "GREEN BUILD TECHNOLOGY LIMITED",
-    "security": "GREEN BUILD TECHNOLOGY LIMITED",
-    "category": "Placements",
-    "title": "Placements::Completion of Proposed Placement of 600,000,000 Subscription Shares and 360,000,000 Warrants",
-    "timestamp": "14 Oct 2026 08:08 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1CF5SZRLRY0ATECZ/1f906df6bb9e8317cedc9682cc49f1d75686214f214034c1566175f5529b0318",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
     ]
   }
 ]
