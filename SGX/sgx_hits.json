@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GDX7ZY6W2QS4GT4C/eee5d49331616732e125490cb2b086c39eb3ccaaaa4fb55b2fee73900ccf0c42",
+    "company": "SINGAPORE SHIPPING CORPORATION LIMITED",
+    "security": "SINGAPORE SHIPPING CORP LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of Two Newbuilding Pure Car and Truck Carriers",
+    "timestamp": "21 Nov 2026 09:19 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GDX7ZY6W2QS4GT4C/eee5d49331616732e125490cb2b086c39eb3ccaaaa4fb55b2fee73900ccf0c42",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/MWBF5V6DW9L0HJ3B/fcab512f2ac82e952accc51c13cc8dd9dfda13a409aebd02074a76c816e75311",
     "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
     "security": "SINGTEL",
@@ -6154,18 +6167,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/L3B6QLJ85NS8WTU4/e87eee4935111868e683ec55e9acdbe75d7a243d33c82f1a5a854190ddac9990",
     "rules": [
       "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Q5A2LX2ULKFFWKXO/33a366ef1ffa7a306ef4a7c4866b022fd478b64a54bd5601cfdcc444228e5ff8",
-    "company": "ASIATIC GROUP (HOLDINGS) LIMITED",
-    "security": "ASIATIC GROUP (HOLDINGS) LTD",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::PROPOSED ACQUISITION OF KARRUS MOBILITY SDN. BHD. - REVISION TO THE VALUATION RANGE",
-    "timestamp": "14 Oct 2026 08:26 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Q5A2LX2ULKFFWKXO/33a366ef1ffa7a306ef4a7c4866b022fd478b64a54bd5601cfdcc444228e5ff8",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
