@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ACOH5HQFQIQ8K7F6/da7940cafb1322f2ff6d4457ad4cfd59004584fc486b37a1e3b839e9295e3613",
+    "company": "MALAYAN BANKING BERHAD",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Third Quarter Financial Results",
+    "timestamp": "23 Nov 2026 01:02 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ACOH5HQFQIQ8K7F6/da7940cafb1322f2ff6d4457ad4cfd59004584fc486b37a1e3b839e9295e3613",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XJSOJTEW67NXD5PW/b230c320d52956614f2960f54339e93beb4cf6cd86bd71cffb60055d3543bf9d",
+    "company": "ULTRAGREEN.AI LIMITED",
+    "security": "MULTIPLE",
+    "category": "Disclosure of Interest/ Changes in Interest",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer - Ravinder Sajwan",
+    "timestamp": "23 Nov 2026 12:07 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XJSOJTEW67NXD5PW/b230c320d52956614f2960f54339e93beb4cf6cd86bd71cffb60055d3543bf9d",
+    "rules": [
+      "Watchlist: UltraGreen.ai"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/GDX7ZY6W2QS4GT4C/eee5d49331616732e125490cb2b086c39eb3ccaaaa4fb55b2fee73900ccf0c42",
     "company": "SINGAPORE SHIPPING CORPORATION LIMITED",
     "security": "SINGAPORE SHIPPING CORP LTD",
@@ -6143,30 +6169,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/GMCXILNPY4QUUVWX/f116e8cc4f32f40756c69c43baa98a33a706066a453916a8a30ce737b8aed2e8",
     "rules": [
       "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EAX7M3NZ5HIGEL6Y/fd53304e32c23d5eeddcf987e205805d31d45bed175fbf9732f86fd27b137981",
-    "company": "AIMS APAC REIT MANAGEMENT LIMITED",
-    "security": "AIMS APAC REIT",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "15 Oct 2026 07:06 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EAX7M3NZ5HIGEL6Y/fd53304e32c23d5eeddcf987e205805d31d45bed175fbf9732f86fd27b137981",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/L3B6QLJ85NS8WTU4/e87eee4935111868e683ec55e9acdbe75d7a243d33c82f1a5a854190ddac9990",
-    "company": "AMP LIMITED",
-    "security": "AMP LIMITED A$275MF261109",
-    "category": "General Announcement",
-    "title": "General Announcement::AMP Limited provides 3Q 26 cashflows and business update",
-    "timestamp": "15 Oct 2026 05:43 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/L3B6QLJ85NS8WTU4/e87eee4935111868e683ec55e9acdbe75d7a243d33c82f1a5a854190ddac9990",
-    "rules": [
-      "Trading / Business / Delivery Update"
     ]
   }
 ]
