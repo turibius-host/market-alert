@@ -1,5 +1,70 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VHP29K96ZQ9QLHBV/69d52fdd0e7ef2c978456bf04c105fa95156703b77ff0cfc4b919e2d13ddb987",
+    "company": "TATA STEEL LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Acquisition of equity stake in APL Apollo Tubes Limited",
+    "timestamp": "23 Nov 2026 10:58 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VHP29K96ZQ9QLHBV/69d52fdd0e7ef2c978456bf04c105fa95156703b77ff0cfc4b919e2d13ddb987",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CMIF727VKJJZPS1D/7d75ea1cdcd70e8c97b3ad947f6ef4973eaf0392f6b6f372e94a572de2d45041",
+    "company": "HOMESTOLIFE LTD",
+    "security": "HOMESTOLIFE LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "23 Nov 2026 09:41 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CMIF727VKJJZPS1D/7d75ea1cdcd70e8c97b3ad947f6ef4973eaf0392f6b6f372e94a572de2d45041",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/L7FUL57PNFDJUN5P/17021376dd902c8fad0fbe8a0b58d535d532fa4590b26d1746a7c3d5ff632309",
+    "company": "ENECO ENERGY LIMITED",
+    "security": "ENECO ENERGY LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::The Proposed Acquisition of Property Located at 500 Chai Chee Lane, Singapore 469024",
+    "timestamp": "23 Nov 2026 09:36 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/L7FUL57PNFDJUN5P/17021376dd902c8fad0fbe8a0b58d535d532fa4590b26d1746a7c3d5ff632309",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/L5BWV5TKR0MIRETY/d2e4576b7e83d4274f73b1f1d91d1c51a4228410f49c189a3543a8cde0fa6045",
+    "company": "SINGAPORE TELECOMMUNICATIONS LIMITED",
+    "security": "SINGTEL",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::S$2Bn Value Realisation Share Buy-back Programme",
+    "timestamp": "23 Nov 2026 08:18 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/L5BWV5TKR0MIRETY/d2e4576b7e83d4274f73b1f1d91d1c51a4228410f49c189a3543a8cde0fa6045",
+    "rules": [
+      "Share Buyback"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7HGBGSNSX0WX1JJF/106d3896d0c2dbd32a4f7d908b2459495a71ed65d74fb6dd2e3b7b8601b5da49",
+    "company": "THOMSON MEDICAL GROUP LIMITED",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Announcement by TMC Life Sciences Berhad - 1QFY2027 Results Announcement",
+    "timestamp": "23 Nov 2026 07:53 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7HGBGSNSX0WX1JJF/106d3896d0c2dbd32a4f7d908b2459495a71ed65d74fb6dd2e3b7b8601b5da49",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/ACOH5HQFQIQ8K7F6/da7940cafb1322f2ff6d4457ad4cfd59004584fc486b37a1e3b839e9295e3613",
     "company": "MALAYAN BANKING BERHAD",
     "security": "",
@@ -6109,66 +6174,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/LXY9QPVRXIXMN2V1/812adf1e808d109e7ef1270b7bfaa838ab9e637c3c66154e7ab2efaad6d3482e",
     "rules": [
       "Takeover / Privatisation Offer"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VTXVICNMD6AG00V1/7331bf0ad0e0b22fc32219527d69fd1f583291e58a93bffbe77f1b9d6f1ab3ba",
-    "company": "VERSALINK HOLDINGS LIMITED",
-    "security": "VERSALINK HOLDINGS LIMITED",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "15 Oct 2026 10:01 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VTXVICNMD6AG00V1/7331bf0ad0e0b22fc32219527d69fd1f583291e58a93bffbe77f1b9d6f1ab3ba",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Y7ZV6A3MR3GHHMJ7/0b69089fca14190512be3ee7efe0c90fe89505b4000c4fdec720c9aecec2e9bd",
-    "company": "FOOD INNOVATORS HOLDINGS LIMITED",
-    "security": "FOOD INNOVATORS HOLDINGS",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "15 Oct 2026 07:52 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Y7ZV6A3MR3GHHMJ7/0b69089fca14190512be3ee7efe0c90fe89505b4000c4fdec720c9aecec2e9bd",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/T2WFH12BUXF5Q491/a180e40cc3a1f6141efee7dc37c4619d379e579592aef18ac5a5927b1ff92064",
-    "company": "UNITED HAMPSHIRE US REIT MANAGEMENT PTE. LTD.",
-    "security": "UNITED HAMPSHIRE US REIT",
-    "category": "General Announcement",
-    "title": "General Announcement::Date of Release of Operational Updates For The Third Quarter Ended 30 September 2026",
-    "timestamp": "15 Oct 2026 07:29 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/T2WFH12BUXF5Q491/a180e40cc3a1f6141efee7dc37c4619d379e579592aef18ac5a5927b1ff92064",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/E8OQFH0HEMQI7JS4/e8ac10199c1722c1c2c6863409f0379b97502fb116eca5847de29b1d9d57e6fe",
-    "company": "WILTON RESOURCES CORPORATION LIMITED",
-    "security": "WILTON RESOURCES CORP LIMITED",
-    "category": "General Announcement",
-    "title": "General Announcement::Request for Lifting of Trading Halt - Sponsor's Statement",
-    "timestamp": "15 Oct 2026 07:43 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/E8OQFH0HEMQI7JS4/e8ac10199c1722c1c2c6863409f0379b97502fb116eca5847de29b1d9d57e6fe",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GMCXILNPY4QUUVWX/f116e8cc4f32f40756c69c43baa98a33a706066a453916a8a30ce737b8aed2e8",
-    "company": "WILTON RESOURCES CORPORATION LIMITED",
-    "security": "WILTON RESOURCES CORP LIMITED",
-    "category": "Request for Lifting of Trading Halt",
-    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
-    "timestamp": "15 Oct 2026 07:41 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GMCXILNPY4QUUVWX/f116e8cc4f32f40756c69c43baa98a33a706066a453916a8a30ce737b8aed2e8",
-    "rules": [
-      "Trading Halt / Suspension"
     ]
   }
 ]
