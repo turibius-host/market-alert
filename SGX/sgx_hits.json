@@ -1,5 +1,57 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CV5DWN99944MADBL/b2f415bf7b06f7bb63c4765c884d390f91a1b8d701bbe1b4b81d766eeec4aad0",
+    "company": "COLIWOO HOLDINGS LIMITED",
+    "security": "COLIWOO HOLDINGS LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "24 Nov 2026 10:49 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CV5DWN99944MADBL/b2f415bf7b06f7bb63c4765c884d390f91a1b8d701bbe1b4b81d766eeec4aad0",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4TOMYDGADJIFNYSK/1974bb76471534314b3b7ca10d8856dcf6afb40950b2a77aab29138056618b6a",
+    "company": "ASPIAL LIFESTYLE LIMITED",
+    "security": "ASPIAL LIFESTYLE LIMITED",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::Daily Share Buy-Back",
+    "timestamp": "24 Nov 2026 10:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4TOMYDGADJIFNYSK/1974bb76471534314b3b7ca10d8856dcf6afb40950b2a77aab29138056618b6a",
+    "rules": [
+      "Watchlist: Aspial Lifestyle"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/HNHJBAXUZH2R3BMH/57d2d869639bf0c0e36af66d4f415f175d3471aacb63be31a81344314cf29fb3",
+    "company": "BRC ASIA LIMITED",
+    "security": "BRC ASIA LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "24 Nov 2026 10:12 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/HNHJBAXUZH2R3BMH/57d2d869639bf0c0e36af66d4f415f175d3471aacb63be31a81344314cf29fb3",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7XM8ZOUVQW0SBGWE/a30f68e8b6c2bbc4cb2124b463ec317889ab32df8300cebbb9e56ec97041d65b",
+    "company": "KEPPEL LTD.",
+    "security": "KEPPEL LTD.",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Transcript of Q&A session - Proposed Combination of M1 Limited and StarHub Ltd.",
+    "timestamp": "24 Nov 2026 09:58 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7XM8ZOUVQW0SBGWE/a30f68e8b6c2bbc4cb2124b463ec317889ab32df8300cebbb9e56ec97041d65b",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/3AFR83JQRPBPF4VT/be8516421963544086e183e18e119cf3105aadf9acff3e8b8dedff5df105a643",
     "company": "ULTRAGREEN.AI LIMITED",
     "security": "MULTIPLE",
@@ -6130,54 +6182,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/CUA3I6QA3F4QZPWC/53172e0e607d421998f21011e2b7066c0837b4fe49b3f7ca4294d5002c75f0f4",
     "rules": [
       "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/23J6Z9OVCLEU0NL9/4a5957a369d849b285f4fee0812f57e918a5a2d1652fef5cf022d203bc9bfa09",
-    "company": "ZIXIN GROUP HOLDINGS LIMITED",
-    "security": "ZIXIN GROUP HOLDINGS LIMITED",
-    "category": "Bonus Issue/ Capitalisation Issue",
-    "title": "REPL::Bonus Issue/ Capitalisation Issue::Mandatory",
-    "timestamp": "19 Oct 2026 10:40 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/23J6Z9OVCLEU0NL9/4a5957a369d849b285f4fee0812f57e918a5a2d1652fef5cf022d203bc9bfa09",
-    "rules": [
-      "Bonus Issue / Capitalisation Issue"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PUP0S0FDCCZYPWZA/e7e78372e7a4d866bb9c062e2eca1ee2417f23c69350a4d1998441f3c8ea6786",
-    "company": "CENTURION CORPORATION LIMITED",
-    "security": "CENTURION CORPORATION LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Completion of Acquisition of Worker Accommodation Business & Land Assets in Karratha, Australia",
-    "timestamp": "19 Oct 2026 07:58 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PUP0S0FDCCZYPWZA/e7e78372e7a4d866bb9c062e2eca1ee2417f23c69350a4d1998441f3c8ea6786",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AA8TASMK62KEJR0P/b85d5df921543057ecf56cfe4a1bcb2423f8091e592e05de788ecc8636fe4e98",
-    "company": "SHENGRONG HOLDING LTD.",
-    "security": "SHENGRONG HOLDING LTD.",
-    "category": "General Announcement",
-    "title": "General Announcement::Voluntary Delisting of Shares from the Main Board of the SGX",
-    "timestamp": "19 Oct 2026 09:01 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AA8TASMK62KEJR0P/b85d5df921543057ecf56cfe4a1bcb2423f8091e592e05de788ecc8636fe4e98",
-    "rules": [
-      "Takeover / Privatisation Offer"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/83CNTTDVJ7E1UV8A/30c3609a02e4412b3b0a6bd2137843102d220b46be309f176c2d914f95610d3b",
-    "company": "STOCKLAND FINANCE PTY LIMITED",
-    "security": "",
-    "category": "General Announcement",
-    "title": "General Announcement::Stockland 1Q27 Operational update",
-    "timestamp": "19 Oct 2026 06:44 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/83CNTTDVJ7E1UV8A/30c3609a02e4412b3b0a6bd2137843102d220b46be309f176c2d914f95610d3b",
-    "rules": [
-      "Trading / Business / Delivery Update"
     ]
   }
 ]
