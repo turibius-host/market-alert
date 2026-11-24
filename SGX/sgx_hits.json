@@ -1,5 +1,57 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3AFR83JQRPBPF4VT/be8516421963544086e183e18e119cf3105aadf9acff3e8b8dedff5df105a643",
+    "company": "ULTRAGREEN.AI LIMITED",
+    "security": "MULTIPLE",
+    "category": "Disclosure of Interest/ Changes in Interest",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer - Ravinder Sajwan",
+    "timestamp": "24 Nov 2026 12:31 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3AFR83JQRPBPF4VT/be8516421963544086e183e18e119cf3105aadf9acff3e8b8dedff5df105a643",
+    "rules": [
+      "Watchlist: UltraGreen.ai"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3JKS4RUYVXCB8EZP/d7f83b8b7f6bc6db6e4d09766b4221347fd5eaf75421ba72464fe1c852df325b",
+    "company": "KEPPEL LTD.",
+    "security": "MULTIPLE",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "24 Nov 2026 12:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3JKS4RUYVXCB8EZP/d7f83b8b7f6bc6db6e4d09766b4221347fd5eaf75421ba72464fe1c852df325b",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/EAST6NFDSOO3LGDG/d09358f9821049edaefd203dffca41e291a07247b1671edaba918c0109847136",
+    "company": "STARHUB LTD.",
+    "security": "MULTIPLE",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "24 Nov 2026 12:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/EAST6NFDSOO3LGDG/d09358f9821049edaefd203dffca41e291a07247b1671edaba918c0109847136",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0AWFP4WHM2ZGUCC9/c6b0300809f803d7710cb725d8f7f3dea7623c33c14368321a0ce5d5cb34aea7",
+    "company": "KEPPEL LTD.",
+    "security": "KEPPEL LTD.",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Briefing to media and analysts on the proposed merger of M1 and StarHub, 24 November 2026",
+    "timestamp": "24 Nov 2026 10:00 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0AWFP4WHM2ZGUCC9/c6b0300809f803d7710cb725d8f7f3dea7623c33c14368321a0ce5d5cb34aea7",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/VHP29K96ZQ9QLHBV/69d52fdd0e7ef2c978456bf04c105fa95156703b77ff0cfc4b919e2d13ddb987",
     "company": "TATA STEEL LIMITED",
     "security": "",
@@ -6126,54 +6178,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/83CNTTDVJ7E1UV8A/30c3609a02e4412b3b0a6bd2137843102d220b46be309f176c2d914f95610d3b",
     "rules": [
       "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/A2F9E8DQDQFF3NAR/924cda2da2e1e424aad957dd2539a16af038cb1669db5a23ab77193dd255b5cb",
-    "company": "RENAISSANCE UNITED LIMITED",
-    "security": "RENAISSANCE UNITED LIMITED",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::First Quarter Results",
-    "timestamp": "16 Oct 2026 11:00 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/A2F9E8DQDQFF3NAR/924cda2da2e1e424aad957dd2539a16af038cb1669db5a23ab77193dd255b5cb",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/C9C36JVLGFN1NK5R/25b655697825aa7e4e22ee85fef36d0a1efb7c6cd5311103a0bfeff1006d64f0",
-    "company": "ZHONGXIN FRUIT AND JUICE LIMITED",
-    "security": "ZHONGXIN FRUIT AND JUICE LTD",
-    "category": "General Announcement",
-    "title": "General Announcement::COMPULSORY ACQUISITION OF THE GROUP'S LAND AND BUILDINGS",
-    "timestamp": "16 Oct 2026 09:47 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/C9C36JVLGFN1NK5R/25b655697825aa7e4e22ee85fef36d0a1efb7c6cd5311103a0bfeff1006d64f0",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VC7KH5TZZ107T9S7/25fc725b44cab3cdec57e2fd59c80f3347c96b1ed48705b66909ac324de05f37",
-    "company": "BUMITAMA AGRI LTD.",
-    "security": "BUMITAMA AGRI LTD.",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Halt",
-    "timestamp": "16 Oct 2026 12:52 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VC7KH5TZZ107T9S7/25fc725b44cab3cdec57e2fd59c80f3347c96b1ed48705b66909ac324de05f37",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/LXY9QPVRXIXMN2V1/812adf1e808d109e7ef1270b7bfaa838ab9e637c3c66154e7ab2efaad6d3482e",
-    "company": "OUE HEALTHCARE LIMITED",
-    "security": "OUE HEALTHCARE LIMITED",
-    "category": "Other Scheme of Arrangement",
-    "title": "Other Scheme of Arrangement::Electronic Dissemination of Scheme Document and Notice of Scheme Meeting",
-    "timestamp": "16 Oct 2026 08:00 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/LXY9QPVRXIXMN2V1/812adf1e808d109e7ef1270b7bfaa838ab9e637c3c66154e7ab2efaad6d3482e",
-    "rules": [
-      "Takeover / Privatisation Offer"
     ]
   }
 ]
