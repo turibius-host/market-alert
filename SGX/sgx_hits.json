@@ -1,5 +1,70 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XQ2JTH6ZYE327KOK/65160a8caaec56a016b86f46ddebfc7bac3800c758354dc29ece5a20e084a11b",
+    "company": "IX BIOPHARMA LTD.",
+    "security": "IX BIOPHARMA LTD.",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "25 Nov 2026 07:59 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XQ2JTH6ZYE327KOK/65160a8caaec56a016b86f46ddebfc7bac3800c758354dc29ece5a20e084a11b",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Y8807GLNYFCS6DC9/fd10c625f4dbbd4bb65b7b1720ca77a92ea91bc6534236edb705af1fd31b1d9c",
+    "company": "KOH BROTHERS GROUP LIMITED",
+    "security": "",
+    "category": "General Announcement",
+    "title": "General Announcement::Koh Brothers Eco Engineering:Update on Legal Proceedings- Receipt of Final Award for SCA Arbitration",
+    "timestamp": "25 Nov 2026 07:50 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Y8807GLNYFCS6DC9/fd10c625f4dbbd4bb65b7b1720ca77a92ea91bc6534236edb705af1fd31b1d9c",
+    "rules": [
+      "Major Contract / Litigation"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UYEJBE1U5ZOWQR44/66f5c756b1b8909bbb627f7564a9fdca0b7b1a22453f692e4bd1707511ad7775",
+    "company": "KOH BROTHERS ECO ENGINEERING LIMITED",
+    "security": "KOH BROTHERS ECO ENGG LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::UPDATE ON LEGAL PROCEEDINGS - RECEIPT OF FINAL AWARD FOR SCA ARBITRATION",
+    "timestamp": "25 Nov 2026 07:39 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UYEJBE1U5ZOWQR44/66f5c756b1b8909bbb627f7564a9fdca0b7b1a22453f692e4bd1707511ad7775",
+    "rules": [
+      "Major Contract / Litigation"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DW4AR7T0BUFSP21K/048fc4f65aa887d0c76ddee53846241525306e93eb838203e163f6c3ddc7b58d",
+    "company": "MANULIFE US REAL ESTATE MANAGEMENT PTE. LTD.",
+    "security": "MANULIFE US REIT",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "25 Nov 2026 07:20 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DW4AR7T0BUFSP21K/048fc4f65aa887d0c76ddee53846241525306e93eb838203e163f6c3ddc7b58d",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/N3QWHL21BVH7NXGG/ecbfdee5d2d2852aae05905a150205fc2b854074beb770469f816ac26baa21c5",
+    "company": "TH INTERNATIONAL LIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "25 Nov 2026 06:35 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/N3QWHL21BVH7NXGG/ecbfdee5d2d2852aae05905a150205fc2b854074beb770469f816ac26baa21c5",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/CV5DWN99944MADBL/b2f415bf7b06f7bb63c4765c884d390f91a1b8d701bbe1b4b81d766eeec4aad0",
     "company": "COLIWOO HOLDINGS LIMITED",
     "security": "COLIWOO HOLDINGS LIMITED",
@@ -6122,66 +6187,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/V5ZRW1130KPRG40H/0f017a3814f6f6a53f20808221f6d8b0196f8d3ba57b447fba241ab91d64d5fa",
     "rules": [
       "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/V2Q3BF7LPR0AWNOQ/d4800384bfa510c28275ac72129cbe2a811ee1964500eb853ad6312a1a84be4a",
-    "company": "SOFTBANK GROUP CORP.",
-    "security": "SOFTBANK EUR800M2.875%N270106",
-    "category": "Delisting of Security",
-    "title": "Delisting of Security::Mandatory",
-    "timestamp": "20 Oct 2026 11:00 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/V2Q3BF7LPR0AWNOQ/d4800384bfa510c28275ac72129cbe2a811ee1964500eb853ad6312a1a84be4a",
-    "rules": [
-      "Takeover / Privatisation Offer"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JTDZLL32YD2NXK7T/716b6e4f6c6884fcf2697d85423b37698f116e02ef9ca6b576d3142af19105be",
-    "company": "KEPPEL REIT MANAGEMENT LIMITED",
-    "security": "KEPPEL REIT",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of 51.0% interest in Keppel South Central",
-    "timestamp": "20 Oct 2026 07:00 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JTDZLL32YD2NXK7T/716b6e4f6c6884fcf2697d85423b37698f116e02ef9ca6b576d3142af19105be",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/0KVG18N9GVYZ532R/d55127dcb3392f3ab4e888dc76deebc6eebf4eada4ae3ba79590b62d2238a9d1",
-    "company": "KEPPEL LTD.",
-    "security": "KEPPEL LTD.",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Divestment of 51% Interest in Keppel South Central",
-    "timestamp": "20 Oct 2026 07:00 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/0KVG18N9GVYZ532R/d55127dcb3392f3ab4e888dc76deebc6eebf4eada4ae3ba79590b62d2238a9d1",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8NKGUF5AUNS41Y0Z/32c76abd228941af671c7dd693e00c60f537db408a3917bc26d3b6cf38ed4683",
-    "company": "BH GLOBAL CORPORATION LIMITED",
-    "security": "BH GLOBAL CORPORATION LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Acquisition and Disposal of Shares in Zion Mobility Pte. Ltd.",
-    "timestamp": "20 Oct 2026 02:00 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8NKGUF5AUNS41Y0Z/32c76abd228941af671c7dd693e00c60f537db408a3917bc26d3b6cf38ed4683",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/CUA3I6QA3F4QZPWC/53172e0e607d421998f21011e2b7066c0837b4fe49b3f7ca4294d5002c75f0f4",
-    "company": "SHEN YAO HOLDINGS LIMITED",
-    "security": "SHEN YAO HOLDINGS LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of Zion Mobility Pte. Ltd. as Reverse Takeover and Related Transactions",
-    "timestamp": "19 Oct 2026 11:35 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/CUA3I6QA3F4QZPWC/53172e0e607d421998f21011e2b7066c0837b4fe49b3f7ca4294d5002c75f0f4",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
