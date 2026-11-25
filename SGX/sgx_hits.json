@@ -1,5 +1,83 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/70M9BAVGI3C3FZ92/bcdf8318532a71e8844cf5019728f5eea06218b181d25d75b844454e6d519540",
+    "company": "INFRAESTRUCTURA ENERGETICA NOVA, S.A.B. DE C.V.",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::2026 3Q financial statement announcement - IEnova",
+    "timestamp": "25 Nov 2026 11:53 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/70M9BAVGI3C3FZ92/bcdf8318532a71e8844cf5019728f5eea06218b181d25d75b844454e6d519540",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QQ5FT6TQUT3R4UDY/2eeef7ebfff3afec9f4db0cc2c83d41c3ae423512a8facf3c95fdc92c73924fb",
+    "company": "IX BIOPHARMA LTD.",
+    "security": "IX BIOPHARMA LTD.",
+    "category": "General Announcement",
+    "title": "General Announcement::Request for Lifting of Trading Halt - Sponsor's Statement",
+    "timestamp": "25 Nov 2026 11:30 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QQ5FT6TQUT3R4UDY/2eeef7ebfff3afec9f4db0cc2c83d41c3ae423512a8facf3c95fdc92c73924fb",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/G2L465ES5RFM8FL8/6e78464f4d3a541ce60f3c9bc7cb2551a434f01019801a2b07fe129f91b9e3b6",
+    "company": "IX BIOPHARMA LTD.",
+    "security": "IX BIOPHARMA LTD.",
+    "category": "Request for Lifting of Trading Halt",
+    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
+    "timestamp": "25 Nov 2026 11:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/G2L465ES5RFM8FL8/6e78464f4d3a541ce60f3c9bc7cb2551a434f01019801a2b07fe129f91b9e3b6",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/K06XO3CFPNTM6FXV/1b78fe83ed283fbd1c1095d822d534194eeaa0fc8d30433b24bb2826f61c66d2",
+    "company": "SINGAPORE KITCHEN EQUIPMENT LIMITED",
+    "security": "SINGAPORE KITCHEN EQUIPMENTLTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::COMPLETION OF THE PROPOSED DISPOSAL OF THE PROPERTY LOCATED AT 209 HENDERSON ROAD",
+    "timestamp": "25 Nov 2026 10:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/K06XO3CFPNTM6FXV/1b78fe83ed283fbd1c1095d822d534194eeaa0fc8d30433b24bb2826f61c66d2",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/HUQCQJATO683CUOS/7930dd3ec82877e233e663d849b03f08802ecc85def15fa5c15cd9fe210e170e",
+    "company": "TUAN SING HOLDINGS LIMITED",
+    "security": "TUAN SING HOLDINGS LIMITED",
+    "category": "Disclosure of Interest/ Changes in Interest",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director, Mdm Michelle Liem Mei Fung",
+    "timestamp": "25 Nov 2026 10:04 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/HUQCQJATO683CUOS/7930dd3ec82877e233e663d849b03f08802ecc85def15fa5c15cd9fe210e170e",
+    "rules": [
+      "Watchlist: SingHoldings"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FU73JHVE3A56DT1T/39bfcfa063fcb855be4f24a152ffb915a2687b918f915c40c94a1d176124d6af",
+    "company": "TUAN SING HOLDINGS LIMITED",
+    "security": "TUAN SING HOLDINGS LIMITED",
+    "category": "Disclosure of Interest/ Changes in Interest",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Change in Interest of Director and CEO, Mr William Nursalim alias William Liem",
+    "timestamp": "25 Nov 2026 10:03 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FU73JHVE3A56DT1T/39bfcfa063fcb855be4f24a152ffb915a2687b918f915c40c94a1d176124d6af",
+    "rules": [
+      "Watchlist: SingHoldings"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/OO1EVWR9MQMLOM6H/01e5c7438ea6c5c1159d4a65369a75c8dd9ebf52c24c1d1b9a54c71a765f2414",
     "company": "KIMLY LIMITED",
     "security": "KIMLY LIMITED",
@@ -6119,78 +6197,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/UV2LUVQ4IJIUOZ6C/e5b6a9dc87e637d117b5ff04541cecaa7220e222e09b6bacebe6472acaff2c92",
     "rules": [
       "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/12QZMUTT9DQ1NP2I/5d2f1ae269d4d95136dad856c2b35ffe6182b7eb80037f6f8ebc9d9af033b843",
-    "company": "ESR-REIT MANAGEMENT (S) LIMITED",
-    "security": "ESR REIT",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::ESR-REIT Completes Divestment of 30 Pioneer Road in Singapore",
-    "timestamp": "21 Oct 2026 06:00 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/12QZMUTT9DQ1NP2I/5d2f1ae269d4d95136dad856c2b35ffe6182b7eb80037f6f8ebc9d9af033b843",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/E0NHOVSXXC243NIK/a2dafa98e1f49c35bacdebde93d68b9aefbcb5398d083d2168920f9c72bd7d83",
-    "company": "GKE CORPORATION LIMITED",
-    "security": "GKE CORPORATION LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Completion of the Acquisition of the Property at 30 Pioneer Road and Use of Share Placement Proceeds",
-    "timestamp": "21 Oct 2026 06:00 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/E0NHOVSXXC243NIK/a2dafa98e1f49c35bacdebde93d68b9aefbcb5398d083d2168920f9c72bd7d83",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WI6IJHT6FBZ79WOF/27bb89ed2d917c9d0facfd52706b14157bdf7b1b09c7d2c99756a84d40ae5746",
-    "company": "EDITION LTD.",
-    "security": "EDITION LTD.",
-    "category": "General Announcement",
-    "title": "General Announcement::Update on Arbitration",
-    "timestamp": "21 Oct 2026 05:34 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WI6IJHT6FBZ79WOF/27bb89ed2d917c9d0facfd52706b14157bdf7b1b09c7d2c99756a84d40ae5746",
-    "rules": [
-      "Major Contract / Litigation"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/45FCG3CXBCR9B51E/cebb1396d682f9fe4fe66d65a0d89bbcc3645d175b889f9a030ce9a1de8c07d0",
-    "company": "OUE LIMITED",
-    "security": "OUE LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of Crowne Plaza Changi Airport - Exercise of Call Option",
-    "timestamp": "21 Oct 2026 05:27 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/45FCG3CXBCR9B51E/cebb1396d682f9fe4fe66d65a0d89bbcc3645d175b889f9a030ce9a1de8c07d0",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/NLVNQRBL52EBZAAT/685d637ca36563c2c32233e10cf74256085231bb3d2ea03772555a0a8c98b450",
-    "company": "OUE LIMITED",
-    "security": "OUE LIMITED",
-    "category": "General Announcement",
-    "title": "General Announcement::OUE REIT - Update to the Divestment of Crowne Plaza Changi Airport",
-    "timestamp": "21 Oct 2026 05:26 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/NLVNQRBL52EBZAAT/685d637ca36563c2c32233e10cf74256085231bb3d2ea03772555a0a8c98b450",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8Q2F9R8WD9QLS3KH/49f8cf33ef343c19c2ebdbdf4f663f2d5d15671085aee24a05087eeccd884279",
-    "company": "OUE REIT MANAGEMENT PTE. LTD.",
-    "security": "OUE REIT",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Update to the Divestment of Crowne Plaza Changi Airport",
-    "timestamp": "21 Oct 2026 05:24 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8Q2F9R8WD9QLS3KH/49f8cf33ef343c19c2ebdbdf4f663f2d5d15671085aee24a05087eeccd884279",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
