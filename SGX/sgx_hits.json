@@ -1,5 +1,57 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OO1EVWR9MQMLOM6H/01e5c7438ea6c5c1159d4a65369a75c8dd9ebf52c24c1d1b9a54c71a765f2414",
+    "company": "KIMLY LIMITED",
+    "security": "KIMLY LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "25 Nov 2026 08:39 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OO1EVWR9MQMLOM6H/01e5c7438ea6c5c1159d4a65369a75c8dd9ebf52c24c1d1b9a54c71a765f2414",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/38W4S8T8C5MQL1V3/7b851ca574a387c60d6d518b348bb5feea4f1c69a5bb48b389ac25029e2d5e31",
+    "company": "COLIWOO HOLDINGS LIMITED",
+    "security": "COLIWOO HOLDINGS LIMITED",
+    "category": "General Announcement",
+    "title": "General Announcement::FY2026 Business Updates",
+    "timestamp": "25 Nov 2026 08:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/38W4S8T8C5MQL1V3/7b851ca574a387c60d6d518b348bb5feea4f1c69a5bb48b389ac25029e2d5e31",
+    "rules": [
+      "Trading / Business / Delivery Update"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/E6M22ZSU7BN8LB95/efe5060d5a712285e9287e18e6a2d53d250ab80d37b1363e828d541894d3db5e",
+    "company": "INNOTEK LIMITED",
+    "security": "INNOTEK LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of a 60% interest in Ablewin Technology Sdn. Bhd.",
+    "timestamp": "25 Nov 2026 07:32 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/E6M22ZSU7BN8LB95/efe5060d5a712285e9287e18e6a2d53d250ab80d37b1363e828d541894d3db5e",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XR9NXPCLMGX7YSUI/6f6825e3def018f9bdc0b2f1d0b52573fb89c8e19d8775dd3d735c47bf791958",
+    "company": "GEO ENERGY RESOURCES LIMITED",
+    "security": "GEO ENERGY RESOURCES LIMITED",
+    "category": "Share Buy Back-On Market",
+    "title": "Share Buy Back - Daily Share Buy-Back Notice::Daily Share Buy - Back Notice",
+    "timestamp": "25 Nov 2026 07:14 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XR9NXPCLMGX7YSUI/6f6825e3def018f9bdc0b2f1d0b52573fb89c8e19d8775dd3d735c47bf791958",
+    "rules": [
+      "Watchlist: Geo Energy"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/XQ2JTH6ZYE327KOK/65160a8caaec56a016b86f46ddebfc7bac3800c758354dc29ece5a20e084a11b",
     "company": "IX BIOPHARMA LTD.",
     "security": "IX BIOPHARMA LTD.",
@@ -6139,54 +6191,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/8Q2F9R8WD9QLS3KH/49f8cf33ef343c19c2ebdbdf4f663f2d5d15671085aee24a05087eeccd884279",
     "rules": [
       "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/T0F1RJPBA22288CN/a0d7609fb5061c4f11adff66064055cdd2c148479b76e3dceb568d061070d216",
-    "company": "TOKU LTD.",
-    "security": "TOKU LTD.",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Acquisition - Entry into a Non-Binding Term Sheet",
-    "timestamp": "21 Oct 2026 05:22 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/T0F1RJPBA22288CN/a0d7609fb5061c4f11adff66064055cdd2c148479b76e3dceb568d061070d216",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/G4UT3V8HBFJVDXE6/d48b293ca1b2b2029248baff5631f1424e6db569b29661949fde65a87661741f",
-    "company": "BACUI TECHNOLOGIES INTERNATIONAL LTD.",
-    "security": "BACUI TECHNOLOGIES INTL LTD.",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Disposal of 35% Stake in Meizhou Jiayin Urban Operation Co., Ltd.",
-    "timestamp": "20 Oct 2026 10:35 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/G4UT3V8HBFJVDXE6/d48b293ca1b2b2029248baff5631f1424e6db569b29661949fde65a87661741f",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/6OFPQAX2A6G7FKY6/c2a0a445282aaaf4b87bd77b912181b0efed5f08e2260535ebbacdfa3b0dfa8b",
-    "company": "HC SURGICAL SPECIALISTS LIMITED",
-    "security": "HC SURGICAL SPECIALISTSLIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::ACQUISITION OF THE REMAINING 65% OF THE ENTIRE ISSUED SHARE CAPITAL IN TOTAL ORTHOPAEDICS PTE. LTD.",
-    "timestamp": "20 Oct 2026 08:42 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/6OFPQAX2A6G7FKY6/c2a0a445282aaaf4b87bd77b912181b0efed5f08e2260535ebbacdfa3b0dfa8b",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/V5ZRW1130KPRG40H/0f017a3814f6f6a53f20808221f6d8b0196f8d3ba57b447fba241ab91d64d5fa",
-    "company": "BANGKOK BANK PUBLIC COMPANY LIMITED",
-    "security": "MULTIPLE",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Third Quarter Results",
-    "timestamp": "20 Oct 2026 08:10 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/V5ZRW1130KPRG40H/0f017a3814f6f6a53f20808221f6d8b0196f8d3ba57b447fba241ab91d64d5fa",
-    "rules": [
-      "Financial Results Release"
     ]
   }
 ]
