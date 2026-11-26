@@ -1,5 +1,44 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WA61KS5GGEFR91CI/34823b22812e6f6e370d80f874d110d43b9697fa2f12972886b2abf34fa9d63c",
+    "company": "KEPPEL LTD.",
+    "security": "KEPPEL LTD.",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Discussion with investors on Keppel's rationale for proposed divestment of M1",
+    "timestamp": "26 Nov 2026 12:17 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WA61KS5GGEFR91CI/34823b22812e6f6e370d80f874d110d43b9697fa2f12972886b2abf34fa9d63c",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/PKYEIVBYZZNFXAPN/1c3b31f5c33024f6b367e7e901611e7800b991526af80f11d623ccd177b0e299",
+    "company": "UNI-ASIA GROUP LIMITED",
+    "security": "UNI-ASIA GROUP LIMITED",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Completion of the Acquisition of the Vessel MV Uni Harmony from Quest Bulkship S.A.",
+    "timestamp": "26 Nov 2026 12:16 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/PKYEIVBYZZNFXAPN/1c3b31f5c33024f6b367e7e901611e7800b991526af80f11d623ccd177b0e299",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/C6O9DS91HSI67ROL/e373f827b8779cbed179a19fd73bbdd729a1ec16ed473bea1a212a21d47f2da8",
+    "company": "ULTRAGREEN.AI LIMITED",
+    "security": "MULTIPLE",
+    "category": "Disclosure of Interest/ Changes in Interest",
+    "title": "Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer::Disclosure of Interest/ Changes in Interest of Director/ Chief Executive Officer - Ravinder Sajwan",
+    "timestamp": "26 Nov 2026 12:07 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/C6O9DS91HSI67ROL/e373f827b8779cbed179a19fd73bbdd729a1ec16ed473bea1a212a21d47f2da8",
+    "rules": [
+      "Watchlist: UltraGreen.ai"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/70M9BAVGI3C3FZ92/bcdf8318532a71e8844cf5019728f5eea06218b181d25d75b844454e6d519540",
     "company": "INFRAESTRUCTURA ENERGETICA NOVA, S.A.B. DE C.V.",
     "security": "MULTIPLE",
@@ -6161,42 +6200,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/9N12FT4XHADFAZT2/3dad10530244c8ce3e427019caee19118a74814a23c5eb4a3073c13a2db32cfa",
     "rules": [
       "Profit Guidance / Profit Warning"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/YLIG8IJ81YFDWIC6/348051c509bafa2ecd76952c3e006f8a218097f14c1bb15cadaf5af98a79bf95",
-    "company": "FIRST SPONSOR GROUP LIMITED",
-    "security": "FIRST SPONSOR GROUP LIMITED",
-    "category": "General Announcement",
-    "title": "General Announcement::RESULTS OF THE RIGHTS ISSUE",
-    "timestamp": "21 Oct 2026 09:28 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/YLIG8IJ81YFDWIC6/348051c509bafa2ecd76952c3e006f8a218097f14c1bb15cadaf5af98a79bf95",
-    "rules": [
-      "Rights Issue / Placement / Fundraising"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/B5JFH52QMSEI27HB/a578b9e25e50498d1ce5a22f74ebe24197840e5eeaf00a432be166d47f04ab52",
-    "company": "OUE LIMITED",
-    "security": "OUE LIMITED",
-    "category": "General Announcement",
-    "title": "General Announcement::OUE REIT - Third Quarter 2026 Business Update",
-    "timestamp": "21 Oct 2026 06:46 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/B5JFH52QMSEI27HB/a578b9e25e50498d1ce5a22f74ebe24197840e5eeaf00a432be166d47f04ab52",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UV2LUVQ4IJIUOZ6C/e5b6a9dc87e637d117b5ff04541cecaa7220e222e09b6bacebe6472acaff2c92",
-    "company": "OUE REIT MANAGEMENT PTE. LTD.",
-    "security": "OUE REIT",
-    "category": "General Announcement",
-    "title": "General Announcement::Third Quarter 2026 Business Update",
-    "timestamp": "21 Oct 2026 06:42 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UV2LUVQ4IJIUOZ6C/e5b6a9dc87e637d117b5ff04541cecaa7220e222e09b6bacebe6472acaff2c92",
-    "rules": [
-      "Trading / Business / Delivery Update"
     ]
   }
 ]
