@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1607ASUJHP5BNL6T/5f63e47354402cfce4fc1cebcf153bd20440d67b816af518c698b2cd0a44b2c8",
+    "company": "FUJI OFFSET PLATES MANUFACTURING LTD",
+    "security": "FUJI OFFSET PLATES MFG LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Proposed Disposal of 20% Equity Interest in Ipark Development Sdn. Bhd. Pursuant to the Proposed RTO",
+    "timestamp": "26 Nov 2026 09:21 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1607ASUJHP5BNL6T/5f63e47354402cfce4fc1cebcf153bd20440d67b816af518c698b2cd0a44b2c8",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/WA61KS5GGEFR91CI/34823b22812e6f6e370d80f874d110d43b9697fa2f12972886b2abf34fa9d63c",
     "company": "KEPPEL LTD.",
     "security": "KEPPEL LTD.",
@@ -6188,18 +6201,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZS01EQU0E4NMCRBY/9828c1d0659253dea70e66d91bc91df79dd853832f41cc0e3d507cb29881c1cf",
     "rules": [
       "Credit Rating / Going Concern / Audit Qualification"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9N12FT4XHADFAZT2/3dad10530244c8ce3e427019caee19118a74814a23c5eb4a3073c13a2db32cfa",
-    "company": "DELUGE CORPORATION LIMITED",
-    "security": "DELUGE CORPORATION LIMITED",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Profit Guidance",
-    "timestamp": "21 Oct 2026 11:02 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9N12FT4XHADFAZT2/3dad10530244c8ce3e427019caee19118a74814a23c5eb4a3073c13a2db32cfa",
-    "rules": [
-      "Profit Guidance / Profit Warning"
     ]
   }
 ]
