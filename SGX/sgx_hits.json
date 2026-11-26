@@ -1,5 +1,96 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/FHZU07H4C7IRD933/3f3b145e7039a46e29f4fef75f9710c6fdfe7f9cc1dd3f63d1efbff47af01a91",
+    "company": "TOTM TECHNOLOGIES LIMITED",
+    "security": "TOTM TECHNOLOGIES LIMITED",
+    "category": "Request for Trading Halt",
+    "title": "Request for Trading Halt::Request for Trading Halt",
+    "timestamp": "27 Nov 2026 07:31 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/FHZU07H4C7IRD933/3f3b145e7039a46e29f4fef75f9710c6fdfe7f9cc1dd3f63d1efbff47af01a91",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ICAP94A4CL27OXZO/877f1510a4cf2626c196a41b5f7eae3adb91506e308b997494252388552069b8",
+    "company": "OTS HOLDINGS LIMITED",
+    "security": "OTS HOLDINGS LIMITED",
+    "category": "Other Scheme of Arrangement",
+    "title": "Other Scheme of Arrangement::Electronic Dissemination of Scheme Document and Notice of Scheme Meeting",
+    "timestamp": "27 Nov 2026 07:28 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ICAP94A4CL27OXZO/877f1510a4cf2626c196a41b5f7eae3adb91506e308b997494252388552069b8",
+    "rules": [
+      "Takeover / Privatisation Offer"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/QP0R6HLKL0QEAO20/73c03fb784436426f46f18d13c65d6765a0fcce7a574ac5d150b6f167216bd44",
+    "company": "InterCement Financial Operations B.V.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "27 Nov 2026 07:22 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/QP0R6HLKL0QEAO20/73c03fb784436426f46f18d13c65d6765a0fcce7a574ac5d150b6f167216bd44",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/XA1KMBZGFML8U4QD/c5258addec8cd815deebd5fcca0cb1f36c89170003056a8bff9db09e232ad043",
+    "company": "MARCO POLO MARINE LTD.",
+    "security": "MARCO POLO MARINE LTD.",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "27 Nov 2026 06:03 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/XA1KMBZGFML8U4QD/c5258addec8cd815deebd5fcca0cb1f36c89170003056a8bff9db09e232ad043",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/C5GTREF9KYYIG67T/218372140be49eac4c9c0608af82e109079eb8fd303852e5825d349decf97610",
+    "company": "SARINE TECHNOLOGIES LTD.",
+    "security": "SARINE TECHNOLOGIES LTD",
+    "category": "Asset Acquisitions and Disposals",
+    "title": "Asset Acquisitions and Disposals::Acquisition of 30% membership interest in GCAL USA, LLC",
+    "timestamp": "27 Nov 2026 04:25 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/C5GTREF9KYYIG67T/218372140be49eac4c9c0608af82e109079eb8fd303852e5825d349decf97610",
+    "rules": [
+      "Major Asset Acquisition / Disposal"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UVQP34Z1K1F1ZJZB/7c588fdebccf62fdaf854e21e71a56a644f013ea0e172248678608ab4cafd5be",
+    "company": "ADVANCED SYSTEMS AUTOMATION LIMITED",
+    "security": "ADVANCEDSYSTEMS AUTOMATION",
+    "category": "General Announcement",
+    "title": "General Announcement::Commencement of Legal Proceedings Against the Company",
+    "timestamp": "26 Nov 2026 11:54 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UVQP34Z1K1F1ZJZB/7c588fdebccf62fdaf854e21e71a56a644f013ea0e172248678608ab4cafd5be",
+    "rules": [
+      "Major Contract / Litigation"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VZV5KV3J0I6BI5QY/3a1f731e70e8103d647e0f850c4c42ce7a8b577d6b721f6678f332afddabe601",
+    "company": "WOM MOBILE SPA",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "26 Nov 2026 11:50 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VZV5KV3J0I6BI5QY/3a1f731e70e8103d647e0f850c4c42ce7a8b577d6b721f6678f332afddabe601",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/1607ASUJHP5BNL6T/5f63e47354402cfce4fc1cebcf153bd20440d67b816af518c698b2cd0a44b2c8",
     "company": "FUJI OFFSET PLATES MANUFACTURING LTD",
     "security": "FUJI OFFSET PLATES MFG LTD",
@@ -6117,90 +6208,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/06HEBRB6X3FC9DT7/83af70d17595d898fcea28e2a700ae78c89b264b415bb983aaf5c6b24da8eb6d",
     "rules": [
       "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/U0V91G99DNYAIAWO/e369b30a126c4b9eb16a397f24e8d41f6f6b04b607d775f96c53b1a814b68082",
-    "company": "BANK OF THE PHILIPPINE ISLANDS",
-    "security": "MULTIPLE",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Third Quarter Results",
-    "timestamp": "22 Oct 2026 08:58 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/U0V91G99DNYAIAWO/e369b30a126c4b9eb16a397f24e8d41f6f6b04b607d775f96c53b1a814b68082",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/GWD7LCJNV64S2UGJ/295a1b01db8264e3ce8def81b133d6c84fc24975680ce8bbf4c572e8dc9676d4",
-    "company": "BANK OF THE PHILIPPINE ISLANDS",
-    "security": "MULTIPLE",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Third Quarter Results",
-    "timestamp": "22 Oct 2026 08:56 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/GWD7LCJNV64S2UGJ/295a1b01db8264e3ce8def81b133d6c84fc24975680ce8bbf4c572e8dc9676d4",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/76KWVQV9VKUW63KC/3c4bdacd93ff802f17c9d6358bc5c86e0ddbbd5482afc41c15b7c15240218eb4",
-    "company": "ALPHA INTEGRATED REIT MANAGEMENT PTE. LTD.",
-    "security": "ALPHA INTEGRATED REIT",
-    "category": "General Announcement",
-    "title": "General Announcement::3Q 2026 Business Updates",
-    "timestamp": "22 Oct 2026 08:45 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/76KWVQV9VKUW63KC/3c4bdacd93ff802f17c9d6358bc5c86e0ddbbd5482afc41c15b7c15240218eb4",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/R81Y31HG94EM2FIC/1321c32926012690e15a36686e5a71e532c79ae7e6eff3812803ffd5f1802620",
-    "company": "FRASERS CENTREPOINT ASSET MANAGEMENT LTD.",
-    "security": "FRASERS CENTREPOINT TRUST",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Announcement pursuant to Rule 706A of the SGX-ST Listing Manual",
-    "timestamp": "22 Oct 2026 07:23 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/R81Y31HG94EM2FIC/1321c32926012690e15a36686e5a71e532c79ae7e6eff3812803ffd5f1802620",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/M4QRVBSKO5F899Z2/e21337b85a00b20d3c62f3419a9c1e38d2ae0a84fa9c949a06b41fe656832c28",
-    "company": "FRASERS CENTREPOINT ASSET MANAGEMENT LTD.",
-    "security": "FRASERS CENTREPOINT TRUST",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Full Yearly Results",
-    "timestamp": "22 Oct 2026 07:18 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/M4QRVBSKO5F899Z2/e21337b85a00b20d3c62f3419a9c1e38d2ae0a84fa9c949a06b41fe656832c28",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/718HEYPM82M2QFBL/9f0643feeccdf76cbffcb263205a2b353d4c0463201774edcc059a26c0775983",
-    "company": "ADANI INTERNATIONAL CONTAINER TERMINAL PRIVATE LIMITED",
-    "security": "MULTIPLE",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "21 Oct 2026 11:57 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/718HEYPM82M2QFBL/9f0643feeccdf76cbffcb263205a2b353d4c0463201774edcc059a26c0775983",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZS01EQU0E4NMCRBY/9828c1d0659253dea70e66d91bc91df79dd853832f41cc0e3d507cb29881c1cf",
-    "company": "RELIANCE INDUSTRIES LIMITED",
-    "security": "MULTIPLE",
-    "category": "General Announcement",
-    "title": "General Announcement::Intimation of Credit Rating assigned by ICRA Limited",
-    "timestamp": "21 Oct 2026 11:22 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZS01EQU0E4NMCRBY/9828c1d0659253dea70e66d91bc91df79dd853832f41cc0e3d507cb29881c1cf",
-    "rules": [
-      "Credit Rating / Going Concern / Audit Qualification"
     ]
   }
 ]
