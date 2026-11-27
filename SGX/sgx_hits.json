@@ -1,5 +1,161 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2YKZVBI2MNQDI2HY/fb85481b37ab586684d53c6118efa516e895a7be0bd3bcde7ca811c8b888f05a",
+    "company": "UNITED OVERSEAS AUSTRALIA LTD",
+    "security": "UNITED OVERSEAS AUSTRALIA LTD",
+    "category": "General Announcement",
+    "title": "General Announcement::UOA Development Bhd - Profit Result (3rd Quarter 2026)",
+    "timestamp": "27 Nov 2026 02:45 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2YKZVBI2MNQDI2HY/fb85481b37ab586684d53c6118efa516e895a7be0bd3bcde7ca811c8b888f05a",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WEXTVM2739JVDME5/5d50637566314c5eabeefea80ea23492135e92cd1a66f4127cbfe6a12b42211c",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "WD::General Announcement::Resumption of Trading from Suspension Announcement",
+    "timestamp": "27 Nov 2026 02:12 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WEXTVM2739JVDME5/5d50637566314c5eabeefea80ea23492135e92cd1a66f4127cbfe6a12b42211c",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/JNI8N811SY0HRLAB/2fe56f58e88a2f8acc2d36875dca64a1ad5fcb40eb6b35d703870305526db54b",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "WD::General Announcement::Resumption of Trading from Suspension Announcement",
+    "timestamp": "27 Nov 2026 02:12 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/JNI8N811SY0HRLAB/2fe56f58e88a2f8acc2d36875dca64a1ad5fcb40eb6b35d703870305526db54b",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/L5PXABFJK03VHDM2/f801fcdf5f6ba26f33a0afc86cbd2581f88c22479f55dbe9a0816538ffcbd4a1",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "WD::General Announcement::Resumption of Trading from Suspension Announcement",
+    "timestamp": "27 Nov 2026 02:11 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/L5PXABFJK03VHDM2/f801fcdf5f6ba26f33a0afc86cbd2581f88c22479f55dbe9a0816538ffcbd4a1",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OOIP4NJV3VXJARFI/71629930509b55bda5e789c8aeb41bcee5944b398140f12d201b1aabb901d856",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Resumption of Trading from Suspension Announcement",
+    "timestamp": "27 Nov 2026 02:11 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OOIP4NJV3VXJARFI/71629930509b55bda5e789c8aeb41bcee5944b398140f12d201b1aabb901d856",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/D9462U9X0TR4H7EU/fc9c7cc1c670311a00b489ecec81b18643913f183ce951cbed15ed420e3aa37d",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Resumption of Trading from Suspension Announcement",
+    "timestamp": "27 Nov 2026 02:06 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/D9462U9X0TR4H7EU/fc9c7cc1c670311a00b489ecec81b18643913f183ce951cbed15ed420e3aa37d",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/9UNIBJLY4WK97L2O/a065cad2a1b0516392e37060b78d23d6746eda982bd6bc3426edb409284e3f9a",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Resumption of Trading from Suspension Announcement",
+    "timestamp": "27 Nov 2026 02:03 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/9UNIBJLY4WK97L2O/a065cad2a1b0516392e37060b78d23d6746eda982bd6bc3426edb409284e3f9a",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VJL1XC69SRYPUR6H/a8cefdfa4173f8f6474c0d084d5bc42f50a1416914fd5b16fd323841f291fff2",
+    "company": "UBS AG",
+    "security": "MULTIPLE",
+    "category": "General Announcement",
+    "title": "General Announcement::Resumption of Trading from Suspension Announcement",
+    "timestamp": "27 Nov 2026 02:00 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VJL1XC69SRYPUR6H/a8cefdfa4173f8f6474c0d084d5bc42f50a1416914fd5b16fd323841f291fff2",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/Q7NW55P5I3BBRGKO/d71a62bb733037326f004941480c5ce7663e96d048f96568844efae102b82b7a",
+    "company": "SG ISSUER",
+    "security": "SMIC 5XSHORTSOCGEN 280524",
+    "category": "Request for Resumption of Trading from Suspension",
+    "title": "Request for Resumption of Trading from Suspension::Mandatory",
+    "timestamp": "27 Nov 2026 01:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/Q7NW55P5I3BBRGKO/d71a62bb733037326f004941480c5ce7663e96d048f96568844efae102b82b7a",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/G70DBS9W5GUXR5LY/c0aaaccbd1ecc7e631bc863d1931b4e51afbf0ddc268370e71cec427ecfe962d",
+    "company": "SG ISSUER",
+    "security": "SMIC 5XSHORTSOCGEN 280316",
+    "category": "Request for Resumption of Trading from Suspension",
+    "title": "Request for Resumption of Trading from Suspension::Mandatory",
+    "timestamp": "27 Nov 2026 01:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/G70DBS9W5GUXR5LY/c0aaaccbd1ecc7e631bc863d1931b4e51afbf0ddc268370e71cec427ecfe962d",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BPOFYKGNU2OKRF90/1a7d7a3f3ecf7413a04e9dd2428550bf27a99954dc091a156a08bd8a5383469b",
+    "company": "SG ISSUER",
+    "security": "SMIC 5XSHORTSOCGEN 270930",
+    "category": "Request for Resumption of Trading from Suspension",
+    "title": "Request for Resumption of Trading from Suspension::Mandatory",
+    "timestamp": "27 Nov 2026 01:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BPOFYKGNU2OKRF90/1a7d7a3f3ecf7413a04e9dd2428550bf27a99954dc091a156a08bd8a5383469b",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/VCKALSJY31UW5DOP/de2f7180c64f5c40806c55a0b8abe9c50e0db5ebd9ed20be2810eadd6993bd73",
+    "company": "SG ISSUER",
+    "security": "SMIC 5XSHORTSOCGEN 261223",
+    "category": "Request for Resumption of Trading from Suspension",
+    "title": "Request for Resumption of Trading from Suspension::Mandatory",
+    "timestamp": "27 Nov 2026 01:57 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/VCKALSJY31UW5DOP/de2f7180c64f5c40806c55a0b8abe9c50e0db5ebd9ed20be2810eadd6993bd73",
+    "rules": [
+      "Trading Halt / Suspension"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/FHZU07H4C7IRD933/3f3b145e7039a46e29f4fef75f9710c6fdfe7f9cc1dd3f63d1efbff47af01a91",
     "company": "TOTM TECHNOLOGIES LIMITED",
     "security": "TOTM TECHNOLOGIES LIMITED",
@@ -6064,150 +6220,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/A28CLDSY2M0PAVAY/102f4947bc00eb7589385af211c3ff2ec36daa23c5e4bac30b02d3d149d99685",
     "rules": [
       "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/OXFA0UJWJYG3TYXB/a58961783d89ac4c3d654457d57ea787f92eaf9797732a770533c6379c7beb15",
-    "company": "TUAN SING HOLDINGS LIMITED",
-    "security": "MULTIPLE",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Halt",
-    "timestamp": "23 Oct 2026 12:15 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/OXFA0UJWJYG3TYXB/a58961783d89ac4c3d654457d57ea787f92eaf9797732a770533c6379c7beb15",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/NF5285DFNN8QTCGI/d5a73fae79de53efb45a3b8dee620efb1c62326818a04a0096074406a2f057db",
-    "company": "SINGAPORE EXCHANGE LIMITED",
-    "security": "SINGAPORE EXCHANGE LIMITED",
-    "category": "Request for Lifting of Trading Halt",
-    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
-    "timestamp": "23 Oct 2026 12:10 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/NF5285DFNN8QTCGI/d5a73fae79de53efb45a3b8dee620efb1c62326818a04a0096074406a2f057db",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BBD9D0SIWRBWP9BX/7f1e66a8da899eaf1040290545c377bee25105b44b3979b7593cfb7da11d7307",
-    "company": "AVARGA LIMITED",
-    "security": "AVARGA LTD",
-    "category": "Delisting of Security",
-    "title": "Delisting of Security::Mandatory",
-    "timestamp": "23 Oct 2026 11:39 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BBD9D0SIWRBWP9BX/7f1e66a8da899eaf1040290545c377bee25105b44b3979b7593cfb7da11d7307",
-    "rules": [
-      "Takeover / Privatisation Offer"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/BZPEQ44JD5KTY5AM/30baee0aa1c11c2ef65e9eaf763c9e1d26573b156104ad5c4e9619e76915a538",
-    "company": "ALLIANCE HEALTHCARE GROUP LIMITED",
-    "security": "ALLIANCE HEALTHCARE GROUP LTD",
-    "category": "Request for Trading Halt",
-    "title": "Request for Trading Halt::Request for Trading Halt",
-    "timestamp": "23 Oct 2026 07:35 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/BZPEQ44JD5KTY5AM/30baee0aa1c11c2ef65e9eaf763c9e1d26573b156104ad5c4e9619e76915a538",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/8LFB0CUQJ980WPOO/de6c00d120bd4f836a9b3052b7da7234f7dfb9d4c48a77167e31f19ecee0a9b9",
-    "company": "CAPITALAND CHINA TRUST MANAGEMENT LIMITED",
-    "security": "CAPITALAND CHINA TRUST",
-    "category": "General Announcement",
-    "title": "General Announcement::3Q 2026 Business Updates",
-    "timestamp": "23 Oct 2026 07:17 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/8LFB0CUQJ980WPOO/de6c00d120bd4f836a9b3052b7da7234f7dfb9d4c48a77167e31f19ecee0a9b9",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2FHYE9BW02HARW33/69093b855ad91a5291eb7607c06a5a8ceca23f75a61d6c274a13fd901ace07fb",
-    "company": "KEPPEL DC REIT MANAGEMENT PTE. LTD.",
-    "security": "KEPPEL DC REIT",
-    "category": "General Announcement",
-    "title": "General Announcement::Keppel DC REIT Key Business and Operational Updates for the Third Quarter 2026",
-    "timestamp": "23 Oct 2026 07:00 AM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2FHYE9BW02HARW33/69093b855ad91a5291eb7607c06a5a8ceca23f75a61d6c274a13fd901ace07fb",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/6FS0202ZU44FG6C7/1b46aae32c0b990f274b596458c3b3a1b2eb65ba2ece1aa24fdead75c6f4414b",
-    "company": "BOROO INVESTMENTS PTE. LTD.",
-    "security": "MULTIPLE",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Boroo Announces Agreement to Acquire Victoria Gold Corp",
-    "timestamp": "22 Oct 2026 11:52 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/6FS0202ZU44FG6C7/1b46aae32c0b990f274b596458c3b3a1b2eb65ba2ece1aa24fdead75c6f4414b",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UATV6QAAYT9WERRH/0f780aadea589bba638043513fe4a34365b4f3ffbfe66d6f99a214dd3160d3b7",
-    "company": "HINDUSTAN PETROLEUM CORPORATION LIMITED",
-    "security": "HINDUSTANPETROUS$500M4%N270712",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "22 Oct 2026 10:17 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UATV6QAAYT9WERRH/0f780aadea589bba638043513fe4a34365b4f3ffbfe66d6f99a214dd3160d3b7",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/WQ6HKXQCSRQ75JKG/3ab9d22499782ff785b9dc475db31bcad8d618b2f15cb502bad7685bcfbe6861",
-    "company": "SUNTEC TRUST MANAGEMENT LIMITED",
-    "security": "SUNTEC REAL ESTATE INV TRUST",
-    "category": "General Announcement",
-    "title": "General Announcement::Business Updates for the Quarter ended 30 September 2026",
-    "timestamp": "22 Oct 2026 07:56 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/WQ6HKXQCSRQ75JKG/3ab9d22499782ff785b9dc475db31bcad8d618b2f15cb502bad7685bcfbe6861",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DP1EXLGNL806EW4C/1889db29f75eada0ed5eb1ac78896658db31388691295e1a1a6f4c7f75743810",
-    "company": "ACCRELIST LTD.",
-    "security": "ACCRELIST LTD",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Disposal of Shareholding Interest in MClean Technologies Berhad - Partial Completion",
-    "timestamp": "22 Oct 2026 07:24 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DP1EXLGNL806EW4C/1889db29f75eada0ed5eb1ac78896658db31388691295e1a1a6f4c7f75743810",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DM07CDEOG3BHATXE/9723b27bf3a0b29ae4a1edba4fee03c7a4d532c5a63b1a3d4e7a165cfd324474",
-    "company": "POLARIS LTD.",
-    "security": "POLARIS LTD.",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Completion of the Proposed Sale of Property",
-    "timestamp": "22 Oct 2026 05:49 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DM07CDEOG3BHATXE/9723b27bf3a0b29ae4a1edba4fee03c7a4d532c5a63b1a3d4e7a165cfd324474",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/06HEBRB6X3FC9DT7/83af70d17595d898fcea28e2a700ae78c89b264b415bb983aaf5c6b24da8eb6d",
-    "company": "ANNAIK LIMITED",
-    "security": "ANNAIK LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::DISPOSAL OF 30% SHAREHOLDING IN SHINSEI ENERGY SDN. BHD.",
-    "timestamp": "22 Oct 2026 05:18 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/06HEBRB6X3FC9DT7/83af70d17595d898fcea28e2a700ae78c89b264b415bb983aaf5c6b24da8eb6d",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
     ]
   }
 ]
