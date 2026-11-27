@@ -1,5 +1,83 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/7U08S092UB2H5H8M/37de8fd26a4f4af64577244b5e3d227fd5b72cf4304d5f47a59ebb4a2cb37835",
+    "company": "ORAZUL ENERGY EGENOR S.EN C.POR A.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "28 Nov 2026 02:11 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/7U08S092UB2H5H8M/37de8fd26a4f4af64577244b5e3d227fd5b72cf4304d5f47a59ebb4a2cb37835",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/1MBG1WKNRUUWUJEY/fdd58062bcda1d9e78457231b14b632fa2e31bf76ceee1de747d00753daf6301",
+    "company": "VEDANTA RESOURCES LIMITED",
+    "security": "",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Half Yearly Results",
+    "timestamp": "28 Nov 2026 12:20 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/1MBG1WKNRUUWUJEY/fdd58062bcda1d9e78457231b14b632fa2e31bf76ceee1de747d00753daf6301",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/KV9NOVRA0CF3I4U4/a57e946b0a529c0bc11a188a31b5878e12a74cef3244cae7e5df049b42b74334",
+    "company": "INFINITY DEVELOPMENT HOLDINGS COMPANY LIMITED",
+    "security": "INFINITY DEVELOPMENT HOLDINGS",
+    "category": "Financial Statements",
+    "title": "REPL::Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "28 Nov 2026 12:17 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/KV9NOVRA0CF3I4U4/a57e946b0a529c0bc11a188a31b5878e12a74cef3244cae7e5df049b42b74334",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/UFGXFMKG979L79Q4/9616ce2505ebeacb0ddc0eb76283fb44a8e9d89802b17659fffc30b8cbd571a7",
+    "company": "BANCO GENERAL, S.A.",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "27 Nov 2026 11:32 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/UFGXFMKG979L79Q4/9616ce2505ebeacb0ddc0eb76283fb44a8e9d89802b17659fffc30b8cbd571a7",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/DYLCGYMYY6QGX2LB/603dc6ca1d335e7afb3c70b2f361b1470511728b15f6d75b79b803db6dedfa38",
+    "company": "INFINITY DEVELOPMENT HOLDINGS COMPANY LIMITED",
+    "security": "INFINITY DEVELOPMENT HOLDINGS",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "27 Nov 2026 11:29 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/DYLCGYMYY6QGX2LB/603dc6ca1d335e7afb3c70b2f361b1470511728b15f6d75b79b803db6dedfa38",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/01SDAJZ626HX87D5/825a5325cc1fc06367e2cd834c46cbe1e8454a8df9b9be19dafab8d9578c48a2",
+    "company": "TRINIDAD GENERATION UNLIMITED",
+    "security": "MULTIPLE",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Third Quarter Results",
+    "timestamp": "27 Nov 2026 11:15 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/01SDAJZ626HX87D5/825a5325cc1fc06367e2cd834c46cbe1e8454a8df9b9be19dafab8d9578c48a2",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/2YKZVBI2MNQDI2HY/fb85481b37ab586684d53c6118efa516e895a7be0bd3bcde7ca811c8b888f05a",
     "company": "UNITED OVERSEAS AUSTRALIA LTD",
     "security": "UNITED OVERSEAS AUSTRALIA LTD",
@@ -6148,78 +6226,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/5PXVANPE69JOQ25L/dc3e5e7fdde8338b3db8ad8c72b9c4e888678d3860dff7e0e6c697f85d8bc050",
     "rules": [
       "Takeover / Privatisation Offer"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/USLDIY47H39Q0TJI/906e64159933a357830e8c7b97e9efb8e39d5625b687c74666b3d4f5e3ea2cb6",
-    "company": "TUAN SING HOLDINGS LIMITED",
-    "security": "MULTIPLE",
-    "category": "Request for Lifting of Trading Halt",
-    "title": "Request for Lifting of Trading Halt::Request for Lifting of Trading Halt",
-    "timestamp": "23 Oct 2026 07:00 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/USLDIY47H39Q0TJI/906e64159933a357830e8c7b97e9efb8e39d5625b687c74666b3d4f5e3ea2cb6",
-    "rules": [
-      "Trading Halt / Suspension"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/P4AF37PG9JTL8X0X/eccb93d245e926abd76db720f8c3112514e9a4a67702afd313825435d747946f",
-    "company": "MAPLETREE LOGISTICS TRUST MANAGEMENT LTD.",
-    "security": "MAPLETREE LOGISTICS TRUST",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Completion of Divestment of a Property in Australia",
-    "timestamp": "23 Oct 2026 06:19 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/P4AF37PG9JTL8X0X/eccb93d245e926abd76db720f8c3112514e9a4a67702afd313825435d747946f",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/AOFMYIDT4GU69P6L/a415134c93679e158ab30187bd20a2a2a5d99e19940aa872a5315f825f73f6f4",
-    "company": "APTT MANAGEMENT PTE. LIMITED",
-    "security": "ASIAN PAY TELEVISION TRUST",
-    "category": "General Announcement",
-    "title": "General Announcement::NOTIFICATION OF RELEASE OF KEY FINANCIAL INFORMATION AND BUSINESS UPDATES",
-    "timestamp": "23 Oct 2026 05:30 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/AOFMYIDT4GU69P6L/a415134c93679e158ab30187bd20a2a2a5d99e19940aa872a5315f825f73f6f4",
-    "rules": [
-      "Trading / Business / Delivery Update"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/ZCM5RKQK0TOA4ZT4/7874fa40f04515b927d3579a491d0a59c6373b4196b83f570ced3779090d1ba9",
-    "company": "OUE LIMITED",
-    "security": "OUE LIMITED",
-    "category": "General Announcement",
-    "title": "General Announcement::OUE REIT - Proposed Acquisition of an approx. 50% interest in Salesforce Tower in Sydney, Australia",
-    "timestamp": "23 Oct 2026 05:20 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/ZCM5RKQK0TOA4ZT4/7874fa40f04515b927d3579a491d0a59c6373b4196b83f570ced3779090d1ba9",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/II0PU5JYY16XUOG7/2bfe04514edb0e8a654de1b679c86265090dd40fd04543e47033bbac9ef678a6",
-    "company": "TUAN SING HOLDINGS LIMITED",
-    "security": "TUAN SING HOLDINGS LIMITED",
-    "category": "Asset Acquisitions and Disposals",
-    "title": "Asset Acquisitions and Disposals::Proposed Acquisition of Westgate Commercial Pte. Ltd. and Westgate Tower Pte. Ltd.",
-    "timestamp": "23 Oct 2026 03:40 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/II0PU5JYY16XUOG7/2bfe04514edb0e8a654de1b679c86265090dd40fd04543e47033bbac9ef678a6",
-    "rules": [
-      "Major Asset Acquisition / Disposal"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/A28CLDSY2M0PAVAY/102f4947bc00eb7589385af211c3ff2ec36daa23c5e4bac30b02d3d149d99685",
-    "company": "ADANI TRANSMISSION LIMITED",
-    "security": "MULTIPLE",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Half Yearly Results",
-    "timestamp": "23 Oct 2026 02:50 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/A28CLDSY2M0PAVAY/102f4947bc00eb7589385af211c3ff2ec36daa23c5e4bac30b02d3d149d99685",
-    "rules": [
-      "Financial Results Release"
     ]
   }
 ]
