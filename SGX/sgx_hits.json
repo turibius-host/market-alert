@@ -1,5 +1,31 @@
 [
   {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/4UQDARDO6LIE1I40/2dba69759f847131d9b097e4535eb1e8fcd99c0f15bef82dc5aa3941e4c8ccd9",
+    "company": "ACROMETA GROUP LIMITED",
+    "security": "ACROMETA GROUP LIMITED",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "28 Nov 2026 03:27 PM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/4UQDARDO6LIE1I40/2dba69759f847131d9b097e4535eb1e8fcd99c0f15bef82dc5aa3941e4c8ccd9",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
+    "id": "https://links.sgx.com/1.0.0/corporate-announcements/2QK1P3AFWPPH3HCA/efb2a5796d2c329a6536054de05c99b480f4c2f17f1bb89f8bd956b747b6690b",
+    "company": "BROMAT HOLDINGS LTD",
+    "security": "BROMAT HOLDINGS LTD",
+    "category": "Financial Statements",
+    "title": "Financial Statements and Related Announcement::Full Yearly Results",
+    "timestamp": "28 Nov 2026 11:38 AM",
+    "url": "https://links.sgx.com/1.0.0/corporate-announcements/2QK1P3AFWPPH3HCA/efb2a5796d2c329a6536054de05c99b480f4c2f17f1bb89f8bd956b747b6690b",
+    "rules": [
+      "Financial Results Release"
+    ],
+    "emailed": true
+  },
+  {
     "id": "https://links.sgx.com/1.0.0/corporate-announcements/7U08S092UB2H5H8M/37de8fd26a4f4af64577244b5e3d227fd5b72cf4304d5f47a59ebb4a2cb37835",
     "company": "ORAZUL ENERGY EGENOR S.EN C.POR A.",
     "security": "MULTIPLE",
@@ -6202,30 +6228,6 @@
     "url": "https://links.sgx.com/1.0.0/corporate-announcements/IH0HM6162I6FVDQC/7431511ff986dbbda8d9b49c5312a78fcd72a3fcc13efea2fd63bccc2b1f6071",
     "rules": [
       "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/3R24LS3VYEDGW7XC/118cb0940cba9cba3f202d65322de480f255744f45bf95d00f34baf59ee5683e",
-    "company": "THE PLACE HOLDINGS LIMITED",
-    "security": "THE PLACE HOLDINGS LIMITED",
-    "category": "Financial Statements",
-    "title": "Financial Statements and Related Announcement::Full Yearly Results",
-    "timestamp": "23 Oct 2026 09:04 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/3R24LS3VYEDGW7XC/118cb0940cba9cba3f202d65322de480f255744f45bf95d00f34baf59ee5683e",
-    "rules": [
-      "Financial Results Release"
-    ]
-  },
-  {
-    "id": "https://links.sgx.com/1.0.0/corporate-announcements/5PXVANPE69JOQ25L/dc3e5e7fdde8338b3db8ad8c72b9c4e888678d3860dff7e0e6c697f85d8bc050",
-    "company": "AVARGA LIMITED",
-    "security": "AVARGA LTD",
-    "category": "Other Scheme of Arrangement",
-    "title": "Other Scheme of Arrangement::Payment of the Scheme Consideration and Delisting of the Company",
-    "timestamp": "23 Oct 2026 08:13 PM",
-    "url": "https://links.sgx.com/1.0.0/corporate-announcements/5PXVANPE69JOQ25L/dc3e5e7fdde8338b3db8ad8c72b9c4e888678d3860dff7e0e6c697f85d8bc050",
-    "rules": [
-      "Takeover / Privatisation Offer"
     ]
   }
 ]
